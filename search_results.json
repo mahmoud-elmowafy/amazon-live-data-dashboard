@@ -1,0 +1,3405 @@
+{
+  "request_info": {
+    "id": "219f9b55-6306-44a9-840d-45424c2306ed",
+    "success": true,
+    "status_code": 200,
+    "error_details": [],
+    "credits_used": 6,
+    "credit_used_this_request": 1,
+    "credits_remaining": 94,
+    "credits_reset_at": "2026-10-10T12:32:41.000Z",
+    "address": {
+      "city": null,
+      "district": null,
+      "country_code": null,
+      "zipCode": [
+        "19805"
+      ]
+    }
+  },
+  "request_parameters": {
+    "output": "json",
+    "language": "en_US",
+    "include_html": false,
+    "keyword": "wireless earbuds",
+    "type": "SEARCH"
+  },
+  "request_metadata": {
+    "created_at": "2026-09-10T13:09:56.425Z",
+    "processed_at": "2026-09-10T13:09:59.913Z",
+    "total_time_taken": 3.488
+  },
+  "result": {
+    "search_results": [
+      {
+        "asin": "B09DT48V16",
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "image": "61uEvVoizoL",
+        "is_prime": false,
+        "is_sponsored": true,
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JAuz_PKiY6bJLcgLiK2oIEMAAAGgi3B1iAEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDEgICDc1L69/clv1c_ek-wBPHXbcbW3kaJGRUBYWIzcVQl65aEmF10LYmP2AE_I9JdNpzzJtCG4h3NUvkcYQFVSPlsFhgSFjlf8O5qKDa4kE6d6-efporpaHgLd65z6J36VvAJpg8T5_xSZpJxUAmHr_mDhg77lGU8Q6Vu-BOTg40clFHa0kWW_hdryoQCEVt93-g9b_gwZnT9BtMM1CfunkxKPpWol2bwqhTaxupbKTqmpM42HsSGux4lIQvcZkBrXJZ90rJmEwu14R_j-EZQcrrfGF9B5LIEwB1ludhn5Nu1GUOxOdT8CJWQ4G667z93OjZ8Zx68R2ONVdtSVmW2OIUF5tf_tdKZUT5x4eOC3aDFN8xjvQ1ALiGTMsYFWgyicKRVadSj81Xf3xNr-8JQicrfwRx7TdE0rLhfa5SWYwZAG_NgudMQHLLRag7XhENhwcD3LZdCKHDAXJraYBOXDTfnj9qr4-6kpoCBZdFP1G1fReER1fJM8Ye_w4cfzmoNPz8_Ml5s3P06j08MHssi0FDJfdxQvnORSkRy6mnd2bc-2dchv9V1pQG8I3i4TIDSgjU8w-voUFZoH4xtUJxBn6icb_doyuRWdUXzb5aQ6CMwN30fLfBqaz0OYpsfEuz2tOcsR7aXK6tqVh5rMNA_Bcq_v4pK1e1F9rZDGTkF6XvLChSK8cSjk5r83HwKPmh8D5NMToXRpLv_-dGQn3EwvnFTm1BdouBHPT3LMwPS_77DUaGl6frDV1xz6VqrwZpqscN6oLUIMLUHAj8tO1qskxO-MnXuziJ6-Q8Mzs3bgO7WQlH4iR3-0IcLCqUcpOLAup1Y0rfh55O1QgMnrpdhjF6nyTjglIMrPRth64sMjOd4JJIAuz8zlW6h7Xbw_jhaOfKX3l7KK__VwuRgFsfBBbHhisO72pMz_6ciDFEY3lT0UStfb1oNMefCICdRL49GcBYqXgv2S0M_gtZASXST_fFJSQazNnpQaI8agvPnxMHHCGinldRfm7NLACfAr9rQ8ra2fF3GGMbMeJoYWLqm9C49g8BACh_CEblrZjFMy_LnBGJ_F2MRGnJixUlzMocQ7_7J0dHgvLgfScAjHGpsJ7MM_tiJiWEIktRPGPiQUN5mOTCo0SfQWz5du4v9VdUl69uhsaYcbKse_TCfp0d5FXrS9lgQ0wAK2fIe7fwgZCt0Za9yIPmMBsJYl-xFxhoXXao5DghKzJXEreUB-bsCYlHDCW_OyO805JrSCFHO6YeuvTEGJjlMWwfb_JMqJVpl4D-ljUWnWvO4VZadqd0QGpZw-UnBUSj-tXQb4wFw7hzzhHSfAUbLq84NumdZoLjhlWxkqzVz26TAqcmIZ7FlFPQeC_UcrPHTDlhC93ehDrWRmH6cJzCzd_gNQP5fkDS-9wYRbmyPz3ukjVquwNZlR1wRtlawi-elb9d8zK7O0TTE_WMm2IIjVOTKwV5HD4d8kWRNQYqpSWTqxxdq0BZONib4xLiTeRcqWSINjHSZk2So9-nDN1rZSvjJ5bxY411nLDMc83Lw73VLLed2WeoSwWRkjX8bt4OWNUQxJ4vFpZBH5aAs2GsI_WejG4bB1R6Trh2zA7Oc58LqrDGiIQGMFmN9R48c243zLwTGcFLZbjTVFVX0P0zfdz91ch89iUJ3GH-2qryj90P5mpt55fhTkcRkOJpBxRpXMx8j68awc34pq8WvxRwbAbfdgg/https://www.amazon.com/gp/aw/d/B09DT48V16/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=4ba798cb27fab1863f15905fd4b38293&hsa_cr_id=0&qid=1789045798&sr=1-1-9e67e56a-6f64-441f-a281-df67fc737124&i=aps&aref=h6XuNK0JLC&ref_=sbx_s_sparkle_sbtcd_asin_0_bkgd&pd_rd_w=QM7n8&content-id=amzn1.sym.8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68%3Aamzn1.sym.8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68&pf_rd_p=8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68&pf_rd_r=1BZND7SB7SHAHXZR970R&pd_rd_wg=SCpPj&pd_rd_r=5d241e66-ad39-46e8-a67b-990ec02eb226",
+        "main_image": {
+          "id": "61uEvVoizoL",
+          "link": "https://m.media-amazon.com/images/I/61uEvVoizoL.jpg"
+        },
+        "position": 0,
+        "price": {
+          "currency": "USD",
+          "raw": "$25.98",
+          "symbol": "$",
+          "value": "25.98"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$25.98",
+            "symbol": "$",
+            "value": "25.98"
+          }
+        ],
+        "rating": "4.4",
+        "rating_text": "4.4 out of 5 stars.",
+        "source_page": 1,
+        "title": "TAGRY Bluetooth Headphones True Wireless Earbuds 60H Playback LED Power Display Earphones with Wireless Charging Case IPX5 Waterproof in-Ear Ear buds with Mic for TV Smart Phone Laptop Computer Sports"
+      },
+      {
+        "asin": "B09LD2D1TV",
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "image": "7112aOlyUhL",
+        "is_prime": false,
+        "is_sponsored": true,
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JAuz_PKiY6bJLcgLiK2oIEMAAAGgi3B1iAEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDEgICDc1L69/clv1c_ek-wBPHXbcbW3kaJGRUBYWIzcVQl65aEmF10LYmP2AE_I9JdNpzzJtCG4h3NUvkcYQFVSPlsFhgSFjlf8O5qKDa4kE6d6-efporpaHgLd65z6J36VvAJpg8T5_xSZpJxUAmHr_mDhg77lGU8Q6Vu-BOTg40clFHa0kWW_hdryoQCEVt93-g9b_gwZnT9BtMM1CfunkxKPpWol2bwqhTaxupbKTqmpM42HsSGux4lIQvcZkBrXJZ90rJmEwu14R_j-EZQcrrfGF9B5LIEwB1ludhn5Nu1GUOxOdT8CJWQ4G667z93OjZ8Zx68R2ONVdtSVmW2OIUF5tf_tdKZUT5x4eOC3aDFN8xjvQ1ALiGTMsYFWgyicKRVadSj81Xf3xNr-8JQicrfwRx7TdE0rLhfa5SWYwZAG_NgudMQHLLRag7XhENhwcD3LZdCKHDAXJraYBOXDTfnj9qr4-6kpoCBZdFP1G1fReER1fJM8Ye_w4cfzmoNPz8_Ml5s3P06j08MHssi0FDJfdxQvnORSkRy6mnd2bc-2dchv9V1pQG8I3i4TIDSgjU8w-voUFZoH4xtUJxBn6icb_doyuRWdUXzb5aQ6CMwN30fLfBqaz0OYpsfEuz2tOcsR7aXK6tqVh5rMNA_Bcq_v4pK1e1F9rZDGTkF6XvLChSK8cSjk5r83HwKPmh8D5NMToXRpLv_-dGQn3EwvnFTm1BdouBHPT3LMwPS_77DUaGl6frDV1xz6VqrwZpqscN6oLUIMLUHAj8tO1qskxO-MnXuziJ6-Q8Mzs3bgO7WQlH4iR3-0IcLCqUcpOLAup1Y0rfh55O1QgMnrpdhjF6nyTjglIMrPRth64sMjOd4JJIAuz8zlW6h7Xbw_jhaOfKX3l7KK__VwuRgFsfBBbHhisO72pMz_6ciDFEY3lT0UStfb1oNMefCICdRL49GcBYqXgv2S0M_gtZASXST_fFJSQazNnpQaI8agvPnxMHHCGinldRfm7NLACfAr9rQ8ra2fF3GGMbMeJoYWLqm9C49g8BACh_CEblrZjFMy_LnBGJ_F2MRGnJixUlzMocQ7_7J0dHgvLgfScAjHGpsJ7MM_tiJiWEIktRPGPiQUN5mOTCo0SfQWz5du4v9VdUl69uhsaYcbKse_TCfp0d5FXrS9lgQ0wAK2fIe7fwgZCt0Za9yIPmMBsJYl-xFxhoXXao5DghKzJXEreUB-bsCYlHDCW_OyO805JrSCFHO6YeuvTEGJjlMWwfb_JMqJVpl4D-ljUWnWvO4VZadqd0QGpZw-UnBUSj-tXQb4wFw7hzzhHSfAUbLq84NumdZoLjhlWxkqzVz26TAqcmIZ7FlFPQeC_UcrPHTDlhC93ehDrWRmH6cJzCzd_gNQP5fkDS-9wYRbmyPz3ukjVquwNZlR1wRtlawi-elb9d8zK7O0TTE_WMm2IIjVOTKwV5HD4d8kWRNQYqpSWTqxxdq0BZONib4xLiTeRcqWSINjHSZk2So9-nDN1rZSvjJ5bxY411nLDMc83Lw73VLLed2WeoSwWRkjX8bt4OWNUQxJ4vFpZBH5aAs2GsI_WejG4bB1R6Trh2zA7Oc58LqrDGiIQGMFmN9R48c243zLwTGcFLZbjTVFVX0P0zfdz91ch89iUJ3GH-2qryj90P5mpt55fhTkcRkOJpBxRpXMx8j68awc34pq8WvxRwbAbfdgg/https://www.amazon.com/gp/aw/d/B09LD2D1TV/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=4ba798cb27fab1863f15905fd4b38293&hsa_cr_id=0&qid=1789045798&sr=1-2-9e67e56a-6f64-441f-a281-df67fc737124&i=aps&aref=h6XuNK0JLC&ref_=sbx_s_sparkle_sbtcd_asin_1_bkgd&pd_rd_w=QM7n8&content-id=amzn1.sym.8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68%3Aamzn1.sym.8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68&pf_rd_p=8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68&pf_rd_r=1BZND7SB7SHAHXZR970R&pd_rd_wg=SCpPj&pd_rd_r=5d241e66-ad39-46e8-a67b-990ec02eb226",
+        "main_image": {
+          "id": "7112aOlyUhL",
+          "link": "https://m.media-amazon.com/images/I/7112aOlyUhL.jpg"
+        },
+        "position": 1,
+        "price": {
+          "currency": "USD",
+          "raw": "$25.98",
+          "symbol": "$",
+          "value": "25.98"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$25.98",
+            "symbol": "$",
+            "value": "25.98"
+          }
+        ],
+        "rating": "4.4",
+        "rating_text": "4.4 out of 5 stars.",
+        "source_page": 1,
+        "title": "TAGRY Bluetooth Headphones True Wireless Earbuds 60H Playback LED Power Display Earphones with Wireless Charging Case IPX5 Waterproof in-Ear Ear buds with Mic for TV Smart Phone Laptop Computer Sports"
+      },
+      {
+        "asin": "B09LD1T57H",
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "image": "61i8GH-LefL",
+        "is_prime": false,
+        "is_sponsored": true,
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JAuz_PKiY6bJLcgLiK2oIEMAAAGgi3B1iAEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDEgICDc1L69/clv1c_ek-wBPHXbcbW3kaJGRUBYWIzcVQl65aEmF10LYmP2AE_I9JdNpzzJtCG4h3NUvkcYQFVSPlsFhgSFjlf8O5qKDa4kE6d6-efporpaHgLd65z6J36VvAJpg8T5_xSZpJxUAmHr_mDhg77lGU8Q6Vu-BOTg40clFHa0kWW_hdryoQCEVt93-g9b_gwZnT9BtMM1CfunkxKPpWol2bwqhTaxupbKTqmpM42HsSGux4lIQvcZkBrXJZ90rJmEwu14R_j-EZQcrrfGF9B5LIEwB1ludhn5Nu1GUOxOdT8CJWQ4G667z93OjZ8Zx68R2ONVdtSVmW2OIUF5tf_tdKZUT5x4eOC3aDFN8xjvQ1ALiGTMsYFWgyicKRVadSj81Xf3xNr-8JQicrfwRx7TdE0rLhfa5SWYwZAG_NgudMQHLLRag7XhENhwcD3LZdCKHDAXJraYBOXDTfnj9qr4-6kpoCBZdFP1G1fReER1fJM8Ye_w4cfzmoNPz8_Ml5s3P06j08MHssi0FDJfdxQvnORSkRy6mnd2bc-2dchv9V1pQG8I3i4TIDSgjU8w-voUFZoH4xtUJxBn6icb_doyuRWdUXzb5aQ6CMwN30fLfBqaz0OYpsfEuz2tOcsR7aXK6tqVh5rMNA_Bcq_v4pK1e1F9rZDGTkF6XvLChSK8cSjk5r83HwKPmh8D5NMToXRpLv_-dGQn3EwvnFTm1BdouBHPT3LMwPS_77DUaGl6frDV1xz6VqrwZpqscN6oLUIMLUHAj8tO1qskxO-MnXuziJ6-Q8Mzs3bgO7WQlH4iR3-0IcLCqUcpOLAup1Y0rfh55O1QgMnrpdhjF6nyTjglIMrPRth64sMjOd4JJIAuz8zlW6h7Xbw_jhaOfKX3l7KK__VwuRgFsfBBbHhisO72pMz_6ciDFEY3lT0UStfb1oNMefCICdRL49GcBYqXgv2S0M_gtZASXST_fFJSQazNnpQaI8agvPnxMHHCGinldRfm7NLACfAr9rQ8ra2fF3GGMbMeJoYWLqm9C49g8BACh_CEblrZjFMy_LnBGJ_F2MRGnJixUlzMocQ7_7J0dHgvLgfScAjHGpsJ7MM_tiJiWEIktRPGPiQUN5mOTCo0SfQWz5du4v9VdUl69uhsaYcbKse_TCfp0d5FXrS9lgQ0wAK2fIe7fwgZCt0Za9yIPmMBsJYl-xFxhoXXao5DghKzJXEreUB-bsCYlHDCW_OyO805JrSCFHO6YeuvTEGJjlMWwfb_JMqJVpl4D-ljUWnWvO4VZadqd0QGpZw-UnBUSj-tXQb4wFw7hzzhHSfAUbLq84NumdZoLjhlWxkqzVz26TAqcmIZ7FlFPQeC_UcrPHTDlhC93ehDrWRmH6cJzCzd_gNQP5fkDS-9wYRbmyPz3ukjVquwNZlR1wRtlawi-elb9d8zK7O0TTE_WMm2IIjVOTKwV5HD4d8kWRNQYqpSWTqxxdq0BZONib4xLiTeRcqWSINjHSZk2So9-nDN1rZSvjJ5bxY411nLDMc83Lw73VLLed2WeoSwWRkjX8bt4OWNUQxJ4vFpZBH5aAs2GsI_WejG4bB1R6Trh2zA7Oc58LqrDGiIQGMFmN9R48c243zLwTGcFLZbjTVFVX0P0zfdz91ch89iUJ3GH-2qryj90P5mpt55fhTkcRkOJpBxRpXMx8j68awc34pq8WvxRwbAbfdgg/https://www.amazon.com/gp/aw/d/B09LD1T57H/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=4ba798cb27fab1863f15905fd4b38293&hsa_cr_id=0&qid=1789045798&sr=1-3-9e67e56a-6f64-441f-a281-df67fc737124&i=aps&aref=h6XuNK0JLC&ref_=sbx_s_sparkle_sbtcd_asin_2_bkgd&pd_rd_w=QM7n8&content-id=amzn1.sym.8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68%3Aamzn1.sym.8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68&pf_rd_p=8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68&pf_rd_r=1BZND7SB7SHAHXZR970R&pd_rd_wg=SCpPj&pd_rd_r=5d241e66-ad39-46e8-a67b-990ec02eb226",
+        "main_image": {
+          "id": "61i8GH-LefL",
+          "link": "https://m.media-amazon.com/images/I/61i8GH-LefL.jpg"
+        },
+        "position": 2,
+        "price": {
+          "currency": "USD",
+          "raw": "$25.98",
+          "symbol": "$",
+          "value": "25.98"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$25.98",
+            "symbol": "$",
+            "value": "25.98"
+          }
+        ],
+        "rating": "4.4",
+        "rating_text": "4.4 out of 5 stars.",
+        "source_page": 1,
+        "title": "TAGRY Bluetooth Headphones True Wireless Earbuds 60H Playback LED Power Display Earphones with Wireless Charging Case IPX5 Waterproof in-Ear Ear buds with Mic for TV Smart Phone Laptop Computer Sports"
+      },
+      {
+        "asin": "B09LD44NW6",
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "image": "61cZiYfWlAL",
+        "is_prime": false,
+        "is_sponsored": true,
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JAuz_PKiY6bJLcgLiK2oIEMAAAGgi3B1iAEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDEgICDc1L69/clv1c_ek-wBPHXbcbW3kaJGRUBYWIzcVQl65aEmF10LYmP2AE_I9JdNpzzJtCG4h3NUvkcYQFVSPlsFhgSFjlf8O5qKDa4kE6d6-efporpaHgLd65z6J36VvAJpg8T5_xSZpJxUAmHr_mDhg77lGU8Q6Vu-BOTg40clFHa0kWW_hdryoQCEVt93-g9b_gwZnT9BtMM1CfunkxKPpWol2bwqhTaxupbKTqmpM42HsSGux4lIQvcZkBrXJZ90rJmEwu14R_j-EZQcrrfGF9B5LIEwB1ludhn5Nu1GUOxOdT8CJWQ4G667z93OjZ8Zx68R2ONVdtSVmW2OIUF5tf_tdKZUT5x4eOC3aDFN8xjvQ1ALiGTMsYFWgyicKRVadSj81Xf3xNr-8JQicrfwRx7TdE0rLhfa5SWYwZAG_NgudMQHLLRag7XhENhwcD3LZdCKHDAXJraYBOXDTfnj9qr4-6kpoCBZdFP1G1fReER1fJM8Ye_w4cfzmoNPz8_Ml5s3P06j08MHssi0FDJfdxQvnORSkRy6mnd2bc-2dchv9V1pQG8I3i4TIDSgjU8w-voUFZoH4xtUJxBn6icb_doyuRWdUXzb5aQ6CMwN30fLfBqaz0OYpsfEuz2tOcsR7aXK6tqVh5rMNA_Bcq_v4pK1e1F9rZDGTkF6XvLChSK8cSjk5r83HwKPmh8D5NMToXRpLv_-dGQn3EwvnFTm1BdouBHPT3LMwPS_77DUaGl6frDV1xz6VqrwZpqscN6oLUIMLUHAj8tO1qskxO-MnXuziJ6-Q8Mzs3bgO7WQlH4iR3-0IcLCqUcpOLAup1Y0rfh55O1QgMnrpdhjF6nyTjglIMrPRth64sMjOd4JJIAuz8zlW6h7Xbw_jhaOfKX3l7KK__VwuRgFsfBBbHhisO72pMz_6ciDFEY3lT0UStfb1oNMefCICdRL49GcBYqXgv2S0M_gtZASXST_fFJSQazNnpQaI8agvPnxMHHCGinldRfm7NLACfAr9rQ8ra2fF3GGMbMeJoYWLqm9C49g8BACh_CEblrZjFMy_LnBGJ_F2MRGnJixUlzMocQ7_7J0dHgvLgfScAjHGpsJ7MM_tiJiWEIktRPGPiQUN5mOTCo0SfQWz5du4v9VdUl69uhsaYcbKse_TCfp0d5FXrS9lgQ0wAK2fIe7fwgZCt0Za9yIPmMBsJYl-xFxhoXXao5DghKzJXEreUB-bsCYlHDCW_OyO805JrSCFHO6YeuvTEGJjlMWwfb_JMqJVpl4D-ljUWnWvO4VZadqd0QGpZw-UnBUSj-tXQb4wFw7hzzhHSfAUbLq84NumdZoLjhlWxkqzVz26TAqcmIZ7FlFPQeC_UcrPHTDlhC93ehDrWRmH6cJzCzd_gNQP5fkDS-9wYRbmyPz3ukjVquwNZlR1wRtlawi-elb9d8zK7O0TTE_WMm2IIjVOTKwV5HD4d8kWRNQYqpSWTqxxdq0BZONib4xLiTeRcqWSINjHSZk2So9-nDN1rZSvjJ5bxY411nLDMc83Lw73VLLed2WeoSwWRkjX8bt4OWNUQxJ4vFpZBH5aAs2GsI_WejG4bB1R6Trh2zA7Oc58LqrDGiIQGMFmN9R48c243zLwTGcFLZbjTVFVX0P0zfdz91ch89iUJ3GH-2qryj90P5mpt55fhTkcRkOJpBxRpXMx8j68awc34pq8WvxRwbAbfdgg/https://www.amazon.com/gp/aw/d/B09LD44NW6/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=4ba798cb27fab1863f15905fd4b38293&hsa_cr_id=0&qid=1789045798&sr=1-4-9e67e56a-6f64-441f-a281-df67fc737124&i=aps&aref=h6XuNK0JLC&ref_=sbx_s_sparkle_sbtcd_asin_3_bkgd&pd_rd_w=QM7n8&content-id=amzn1.sym.8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68%3Aamzn1.sym.8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68&pf_rd_p=8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68&pf_rd_r=1BZND7SB7SHAHXZR970R&pd_rd_wg=SCpPj&pd_rd_r=5d241e66-ad39-46e8-a67b-990ec02eb226",
+        "main_image": {
+          "id": "61cZiYfWlAL",
+          "link": "https://m.media-amazon.com/images/I/61cZiYfWlAL.jpg"
+        },
+        "position": 3,
+        "price": {
+          "currency": "USD",
+          "raw": "$25.98",
+          "symbol": "$",
+          "value": "25.98"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$25.98",
+            "symbol": "$",
+            "value": "25.98"
+          }
+        ],
+        "rating": "4.4",
+        "rating_text": "4.4 out of 5 stars.",
+        "source_page": 1,
+        "title": "TAGRY Bluetooth Headphones True Wireless Earbuds 60H Playback LED Power Display Earphones with Wireless Charging Case IPX5 Waterproof in-Ear Ear buds with Mic for TV Smart Phone Laptop Computer Sports"
+      },
+      {
+        "asin": "B09TZY6B27",
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "image": "61v6PQ6hAtL",
+        "is_prime": false,
+        "is_sponsored": true,
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JAuz_PKiY6bJLcgLiK2oIEMAAAGgi3B1iAEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDEgICDc1L69/clv1c_ek-wBPHXbcbW3kaJGRUBYWIzcVQl65aEmF10LYmP2AE_I9JdNpzzJtCG4h3NUvkcYQFVSPlsFhgSFjlf8O5qKDa4kE6d6-efporpaHgLd65z6J36VvAJpg8T5_xSZpJxUAmHr_mDhg77lGU8Q6Vu-BOTg40clFHa0kWW_hdryoQCEVt93-g9b_gwZnT9BtMM1CfunkxKPpWol2bwqhTaxupbKTqmpM42HsSGux4lIQvcZkBrXJZ90rJmEwu14R_j-EZQcrrfGF9B5LIEwB1ludhn5Nu1GUOxOdT8CJWQ4G667z93OjZ8Zx68R2ONVdtSVmW2OIUF5tf_tdKZUT5x4eOC3aDFN8xjvQ1ALiGTMsYFWgyicKRVadSj81Xf3xNr-8JQicrfwRx7TdE0rLhfa5SWYwZAG_NgudMQHLLRag7XhENhwcD3LZdCKHDAXJraYBOXDTfnj9qr4-6kpoCBZdFP1G1fReER1fJM8Ye_w4cfzmoNPz8_Ml5s3P06j08MHssi0FDJfdxQvnORSkRy6mnd2bc-2dchv9V1pQG8I3i4TIDSgjU8w-voUFZoH4xtUJxBn6icb_doyuRWdUXzb5aQ6CMwN30fLfBqaz0OYpsfEuz2tOcsR7aXK6tqVh5rMNA_Bcq_v4pK1e1F9rZDGTkF6XvLChSK8cSjk5r83HwKPmh8D5NMToXRpLv_-dGQn3EwvnFTm1BdouBHPT3LMwPS_77DUaGl6frDV1xz6VqrwZpqscN6oLUIMLUHAj8tO1qskxO-MnXuziJ6-Q8Mzs3bgO7WQlH4iR3-0IcLCqUcpOLAup1Y0rfh55O1QgMnrpdhjF6nyTjglIMrPRth64sMjOd4JJIAuz8zlW6h7Xbw_jhaOfKX3l7KK__VwuRgFsfBBbHhisO72pMz_6ciDFEY3lT0UStfb1oNMefCICdRL49GcBYqXgv2S0M_gtZASXST_fFJSQazNnpQaI8agvPnxMHHCGinldRfm7NLACfAr9rQ8ra2fF3GGMbMeJoYWLqm9C49g8BACh_CEblrZjFMy_LnBGJ_F2MRGnJixUlzMocQ7_7J0dHgvLgfScAjHGpsJ7MM_tiJiWEIktRPGPiQUN5mOTCo0SfQWz5du4v9VdUl69uhsaYcbKse_TCfp0d5FXrS9lgQ0wAK2fIe7fwgZCt0Za9yIPmMBsJYl-xFxhoXXao5DghKzJXEreUB-bsCYlHDCW_OyO805JrSCFHO6YeuvTEGJjlMWwfb_JMqJVpl4D-ljUWnWvO4VZadqd0QGpZw-UnBUSj-tXQb4wFw7hzzhHSfAUbLq84NumdZoLjhlWxkqzVz26TAqcmIZ7FlFPQeC_UcrPHTDlhC93ehDrWRmH6cJzCzd_gNQP5fkDS-9wYRbmyPz3ukjVquwNZlR1wRtlawi-elb9d8zK7O0TTE_WMm2IIjVOTKwV5HD4d8kWRNQYqpSWTqxxdq0BZONib4xLiTeRcqWSINjHSZk2So9-nDN1rZSvjJ5bxY411nLDMc83Lw73VLLed2WeoSwWRkjX8bt4OWNUQxJ4vFpZBH5aAs2GsI_WejG4bB1R6Trh2zA7Oc58LqrDGiIQGMFmN9R48c243zLwTGcFLZbjTVFVX0P0zfdz91ch89iUJ3GH-2qryj90P5mpt55fhTkcRkOJpBxRpXMx8j68awc34pq8WvxRwbAbfdgg/https://www.amazon.com/gp/aw/d/B09TZY6B27/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=4ba798cb27fab1863f15905fd4b38293&hsa_cr_id=0&qid=1789045798&sr=1-5-9e67e56a-6f64-441f-a281-df67fc737124&i=aps&aref=h6XuNK0JLC&ref_=sbx_s_sparkle_sbtcd_asin_4_bkgd&pd_rd_w=QM7n8&content-id=amzn1.sym.8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68%3Aamzn1.sym.8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68&pf_rd_p=8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68&pf_rd_r=1BZND7SB7SHAHXZR970R&pd_rd_wg=SCpPj&pd_rd_r=5d241e66-ad39-46e8-a67b-990ec02eb226",
+        "main_image": {
+          "id": "61v6PQ6hAtL",
+          "link": "https://m.media-amazon.com/images/I/61v6PQ6hAtL.jpg"
+        },
+        "position": 4,
+        "price": {
+          "currency": "USD",
+          "raw": "$25.98",
+          "symbol": "$",
+          "value": "25.98"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$25.98",
+            "symbol": "$",
+            "value": "25.98"
+          }
+        ],
+        "rating": "4.4",
+        "rating_text": "4.4 out of 5 stars.",
+        "source_page": 1,
+        "title": "TAGRY Bluetooth Headphones True Wireless Earbuds 60H Playback LED Power Display Earphones with Wireless Charging Case IPX5 Waterproof in-Ear Ear buds with Mic for TV Smart Phone Laptop Computer Sports"
+      },
+      {
+        "asin": "B0DG532KKT",
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "image": "71vSnRHxpgL",
+        "is_prime": false,
+        "is_sponsored": true,
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JAuz_PKiY6bJLcgLiK2oIEMAAAGgi3B1iAEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDEgICDc1L69/clv1c_ek-wBPHXbcbW3kaJGRUBYWIzcVQl65aEmF10LYmP2AE_I9JdNpzzJtCG4h3NUvkcYQFVSPlsFhgSFjlf8O5qKDa4kE6d6-efporpaHgLd65z6J36VvAJpg8T5_xSZpJxUAmHr_mDhg77lGU8Q6Vu-BOTg40clFHa0kWW_hdryoQCEVt93-g9b_gwZnT9BtMM1CfunkxKPpWol2bwqhTaxupbKTqmpM42HsSGux4lIQvcZkBrXJZ90rJmEwu14R_j-EZQcrrfGF9B5LIEwB1ludhn5Nu1GUOxOdT8CJWQ4G667z93OjZ8Zx68R2ONVdtSVmW2OIUF5tf_tdKZUT5x4eOC3aDFN8xjvQ1ALiGTMsYFWgyicKRVadSj81Xf3xNr-8JQicrfwRx7TdE0rLhfa5SWYwZAG_NgudMQHLLRag7XhENhwcD3LZdCKHDAXJraYBOXDTfnj9qr4-6kpoCBZdFP1G1fReER1fJM8Ye_w4cfzmoNPz8_Ml5s3P06j08MHssi0FDJfdxQvnORSkRy6mnd2bc-2dchv9V1pQG8I3i4TIDSgjU8w-voUFZoH4xtUJxBn6icb_doyuRWdUXzb5aQ6CMwN30fLfBqaz0OYpsfEuz2tOcsR7aXK6tqVh5rMNA_Bcq_v4pK1e1F9rZDGTkF6XvLChSK8cSjk5r83HwKPmh8D5NMToXRpLv_-dGQn3EwvnFTm1BdouBHPT3LMwPS_77DUaGl6frDV1xz6VqrwZpqscN6oLUIMLUHAj8tO1qskxO-MnXuziJ6-Q8Mzs3bgO7WQlH4iR3-0IcLCqUcpOLAup1Y0rfh55O1QgMnrpdhjF6nyTjglIMrPRth64sMjOd4JJIAuz8zlW6h7Xbw_jhaOfKX3l7KK__VwuRgFsfBBbHhisO72pMz_6ciDFEY3lT0UStfb1oNMefCICdRL49GcBYqXgv2S0M_gtZASXST_fFJSQazNnpQaI8agvPnxMHHCGinldRfm7NLACfAr9rQ8ra2fF3GGMbMeJoYWLqm9C49g8BACh_CEblrZjFMy_LnBGJ_F2MRGnJixUlzMocQ7_7J0dHgvLgfScAjHGpsJ7MM_tiJiWEIktRPGPiQUN5mOTCo0SfQWz5du4v9VdUl69uhsaYcbKse_TCfp0d5FXrS9lgQ0wAK2fIe7fwgZCt0Za9yIPmMBsJYl-xFxhoXXao5DghKzJXEreUB-bsCYlHDCW_OyO805JrSCFHO6YeuvTEGJjlMWwfb_JMqJVpl4D-ljUWnWvO4VZadqd0QGpZw-UnBUSj-tXQb4wFw7hzzhHSfAUbLq84NumdZoLjhlWxkqzVz26TAqcmIZ7FlFPQeC_UcrPHTDlhC93ehDrWRmH6cJzCzd_gNQP5fkDS-9wYRbmyPz3ukjVquwNZlR1wRtlawi-elb9d8zK7O0TTE_WMm2IIjVOTKwV5HD4d8kWRNQYqpSWTqxxdq0BZONib4xLiTeRcqWSINjHSZk2So9-nDN1rZSvjJ5bxY411nLDMc83Lw73VLLed2WeoSwWRkjX8bt4OWNUQxJ4vFpZBH5aAs2GsI_WejG4bB1R6Trh2zA7Oc58LqrDGiIQGMFmN9R48c243zLwTGcFLZbjTVFVX0P0zfdz91ch89iUJ3GH-2qryj90P5mpt55fhTkcRkOJpBxRpXMx8j68awc34pq8WvxRwbAbfdgg/https://www.amazon.com/gp/aw/d/B0DG532KKT/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=4ba798cb27fab1863f15905fd4b38293&hsa_cr_id=0&qid=1789045798&sr=1-6-9e67e56a-6f64-441f-a281-df67fc737124&i=aps&aref=h6XuNK0JLC&ref_=sbx_s_sparkle_sbtcd_asin_5_bkgd&pd_rd_w=QM7n8&content-id=amzn1.sym.8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68%3Aamzn1.sym.8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68&pf_rd_p=8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68&pf_rd_r=1BZND7SB7SHAHXZR970R&pd_rd_wg=SCpPj&pd_rd_r=5d241e66-ad39-46e8-a67b-990ec02eb226",
+        "main_image": {
+          "id": "71vSnRHxpgL",
+          "link": "https://m.media-amazon.com/images/I/71vSnRHxpgL.jpg"
+        },
+        "position": 5,
+        "price": {
+          "currency": "USD",
+          "raw": "$25.98",
+          "symbol": "$",
+          "value": "25.98"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$25.98",
+            "symbol": "$",
+            "value": "25.98"
+          }
+        ],
+        "rating": "4.4",
+        "rating_text": "4.4 out of 5 stars.",
+        "source_page": 1,
+        "title": "TAGRY Bluetooth Headphones True Wireless Earbuds 60H Playback LED Power Display Earphones with Wireless Charging Case IPX5 Waterproof in-Ear Ear buds with Mic for TV Smart Phone Laptop Computer Sports"
+      },
+      {
+        "asin": "B0D5M1MS95",
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "image": "71vcKETtIEL",
+        "is_prime": false,
+        "is_sponsored": true,
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JAuz_PKiY6bJLcgLiK2oIEMAAAGgi3B1iAEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDEgICDc1L69/clv1c_ek-wBPHXbcbW3kaJGRUBYWIzcVQl65aEmF10LYmP2AE_I9JdNpzzJtCG4h3NUvkcYQFVSPlsFhgSFjlf8O5qKDa4kE6d6-efporpaHgLd65z6J36VvAJpg8T5_xSZpJxUAmHr_mDhg77lGU8Q6Vu-BOTg40clFHa0kWW_hdryoQCEVt93-g9b_gwZnT9BtMM1CfunkxKPpWol2bwqhTaxupbKTqmpM42HsSGux4lIQvcZkBrXJZ90rJmEwu14R_j-EZQcrrfGF9B5LIEwB1ludhn5Nu1GUOxOdT8CJWQ4G667z93OjZ8Zx68R2ONVdtSVmW2OIUF5tf_tdKZUT5x4eOC3aDFN8xjvQ1ALiGTMsYFWgyicKRVadSj81Xf3xNr-8JQicrfwRx7TdE0rLhfa5SWYwZAG_NgudMQHLLRag7XhENhwcD3LZdCKHDAXJraYBOXDTfnj9qr4-6kpoCBZdFP1G1fReER1fJM8Ye_w4cfzmoNPz8_Ml5s3P06j08MHssi0FDJfdxQvnORSkRy6mnd2bc-2dchv9V1pQG8I3i4TIDSgjU8w-voUFZoH4xtUJxBn6icb_doyuRWdUXzb5aQ6CMwN30fLfBqaz0OYpsfEuz2tOcsR7aXK6tqVh5rMNA_Bcq_v4pK1e1F9rZDGTkF6XvLChSK8cSjk5r83HwKPmh8D5NMToXRpLv_-dGQn3EwvnFTm1BdouBHPT3LMwPS_77DUaGl6frDV1xz6VqrwZpqscN6oLUIMLUHAj8tO1qskxO-MnXuziJ6-Q8Mzs3bgO7WQlH4iR3-0IcLCqUcpOLAup1Y0rfh55O1QgMnrpdhjF6nyTjglIMrPRth64sMjOd4JJIAuz8zlW6h7Xbw_jhaOfKX3l7KK__VwuRgFsfBBbHhisO72pMz_6ciDFEY3lT0UStfb1oNMefCICdRL49GcBYqXgv2S0M_gtZASXST_fFJSQazNnpQaI8agvPnxMHHCGinldRfm7NLACfAr9rQ8ra2fF3GGMbMeJoYWLqm9C49g8BACh_CEblrZjFMy_LnBGJ_F2MRGnJixUlzMocQ7_7J0dHgvLgfScAjHGpsJ7MM_tiJiWEIktRPGPiQUN5mOTCo0SfQWz5du4v9VdUl69uhsaYcbKse_TCfp0d5FXrS9lgQ0wAK2fIe7fwgZCt0Za9yIPmMBsJYl-xFxhoXXao5DghKzJXEreUB-bsCYlHDCW_OyO805JrSCFHO6YeuvTEGJjlMWwfb_JMqJVpl4D-ljUWnWvO4VZadqd0QGpZw-UnBUSj-tXQb4wFw7hzzhHSfAUbLq84NumdZoLjhlWxkqzVz26TAqcmIZ7FlFPQeC_UcrPHTDlhC93ehDrWRmH6cJzCzd_gNQP5fkDS-9wYRbmyPz3ukjVquwNZlR1wRtlawi-elb9d8zK7O0TTE_WMm2IIjVOTKwV5HD4d8kWRNQYqpSWTqxxdq0BZONib4xLiTeRcqWSINjHSZk2So9-nDN1rZSvjJ5bxY411nLDMc83Lw73VLLed2WeoSwWRkjX8bt4OWNUQxJ4vFpZBH5aAs2GsI_WejG4bB1R6Trh2zA7Oc58LqrDGiIQGMFmN9R48c243zLwTGcFLZbjTVFVX0P0zfdz91ch89iUJ3GH-2qryj90P5mpt55fhTkcRkOJpBxRpXMx8j68awc34pq8WvxRwbAbfdgg/https://www.amazon.com/gp/aw/d/B0D5M1MS95/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=4ba798cb27fab1863f15905fd4b38293&hsa_cr_id=0&qid=1789045798&sr=1-7-9e67e56a-6f64-441f-a281-df67fc737124&i=aps&aref=h6XuNK0JLC&ref_=sbx_s_sparkle_sbtcd_asin_6_bkgd&pd_rd_w=QM7n8&content-id=amzn1.sym.8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68%3Aamzn1.sym.8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68&pf_rd_p=8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68&pf_rd_r=1BZND7SB7SHAHXZR970R&pd_rd_wg=SCpPj&pd_rd_r=5d241e66-ad39-46e8-a67b-990ec02eb226",
+        "main_image": {
+          "id": "71vcKETtIEL",
+          "link": "https://m.media-amazon.com/images/I/71vcKETtIEL.jpg"
+        },
+        "position": 6,
+        "price": {
+          "currency": "USD",
+          "raw": "$25.98",
+          "symbol": "$",
+          "value": "25.98"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$25.98",
+            "symbol": "$",
+            "value": "25.98"
+          }
+        ],
+        "rating": "4.4",
+        "rating_text": "4.4 out of 5 stars.",
+        "source_page": 1,
+        "title": "TAGRY Bluetooth Headphones True Wireless Earbuds 60H Playback LED Power Display Earphones with Wireless Charging Case IPX5 Waterproof in-Ear Ear buds with Mic for TV Smart Phone Laptop Computer Sports"
+      },
+      {
+        "asin": "B0C7QR4QNP",
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "image": "613Cf-PL+9L",
+        "is_prime": false,
+        "is_sponsored": true,
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JAuz_PKiY6bJLcgLiK2oIEMAAAGgi3B1iAEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDEgICDc1L69/clv1c_ek-wBPHXbcbW3kaJGRUBYWIzcVQl65aEmF10LYmP2AE_I9JdNpzzJtCG4h3NUvkcYQFVSPlsFhgSFjlf8O5qKDa4kE6d6-efporpaHgLd65z6J36VvAJpg8T5_xSZpJxUAmHr_mDhg77lGU8Q6Vu-BOTg40clFHa0kWW_hdryoQCEVt93-g9b_gwZnT9BtMM1CfunkxKPpWol2bwqhTaxupbKTqmpM42HsSGux4lIQvcZkBrXJZ90rJmEwu14R_j-EZQcrrfGF9B5LIEwB1ludhn5Nu1GUOxOdT8CJWQ4G667z93OjZ8Zx68R2ONVdtSVmW2OIUF5tf_tdKZUT5x4eOC3aDFN8xjvQ1ALiGTMsYFWgyicKRVadSj81Xf3xNr-8JQicrfwRx7TdE0rLhfa5SWYwZAG_NgudMQHLLRag7XhENhwcD3LZdCKHDAXJraYBOXDTfnj9qr4-6kpoCBZdFP1G1fReER1fJM8Ye_w4cfzmoNPz8_Ml5s3P06j08MHssi0FDJfdxQvnORSkRy6mnd2bc-2dchv9V1pQG8I3i4TIDSgjU8w-voUFZoH4xtUJxBn6icb_doyuRWdUXzb5aQ6CMwN30fLfBqaz0OYpsfEuz2tOcsR7aXK6tqVh5rMNA_Bcq_v4pK1e1F9rZDGTkF6XvLChSK8cSjk5r83HwKPmh8D5NMToXRpLv_-dGQn3EwvnFTm1BdouBHPT3LMwPS_77DUaGl6frDV1xz6VqrwZpqscN6oLUIMLUHAj8tO1qskxO-MnXuziJ6-Q8Mzs3bgO7WQlH4iR3-0IcLCqUcpOLAup1Y0rfh55O1QgMnrpdhjF6nyTjglIMrPRth64sMjOd4JJIAuz8zlW6h7Xbw_jhaOfKX3l7KK__VwuRgFsfBBbHhisO72pMz_6ciDFEY3lT0UStfb1oNMefCICdRL49GcBYqXgv2S0M_gtZASXST_fFJSQazNnpQaI8agvPnxMHHCGinldRfm7NLACfAr9rQ8ra2fF3GGMbMeJoYWLqm9C49g8BACh_CEblrZjFMy_LnBGJ_F2MRGnJixUlzMocQ7_7J0dHgvLgfScAjHGpsJ7MM_tiJiWEIktRPGPiQUN5mOTCo0SfQWz5du4v9VdUl69uhsaYcbKse_TCfp0d5FXrS9lgQ0wAK2fIe7fwgZCt0Za9yIPmMBsJYl-xFxhoXXao5DghKzJXEreUB-bsCYlHDCW_OyO805JrSCFHO6YeuvTEGJjlMWwfb_JMqJVpl4D-ljUWnWvO4VZadqd0QGpZw-UnBUSj-tXQb4wFw7hzzhHSfAUbLq84NumdZoLjhlWxkqzVz26TAqcmIZ7FlFPQeC_UcrPHTDlhC93ehDrWRmH6cJzCzd_gNQP5fkDS-9wYRbmyPz3ukjVquwNZlR1wRtlawi-elb9d8zK7O0TTE_WMm2IIjVOTKwV5HD4d8kWRNQYqpSWTqxxdq0BZONib4xLiTeRcqWSINjHSZk2So9-nDN1rZSvjJ5bxY411nLDMc83Lw73VLLed2WeoSwWRkjX8bt4OWNUQxJ4vFpZBH5aAs2GsI_WejG4bB1R6Trh2zA7Oc58LqrDGiIQGMFmN9R48c243zLwTGcFLZbjTVFVX0P0zfdz91ch89iUJ3GH-2qryj90P5mpt55fhTkcRkOJpBxRpXMx8j68awc34pq8WvxRwbAbfdgg/https://www.amazon.com/gp/aw/d/B0C7QR4QNP/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=4ba798cb27fab1863f15905fd4b38293&hsa_cr_id=0&qid=1789045798&sr=1-8-9e67e56a-6f64-441f-a281-df67fc737124&i=aps&aref=h6XuNK0JLC&ref_=sbx_s_sparkle_sbtcd_asin_7_bkgd&pd_rd_w=QM7n8&content-id=amzn1.sym.8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68%3Aamzn1.sym.8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68&pf_rd_p=8de9b3d5-f5c5-40e9-9b39-d65f08d6ea68&pf_rd_r=1BZND7SB7SHAHXZR970R&pd_rd_wg=SCpPj&pd_rd_r=5d241e66-ad39-46e8-a67b-990ec02eb226",
+        "main_image": {
+          "id": "613Cf-PL+9L",
+          "link": "https://m.media-amazon.com/images/I/613Cf-PL+9L.jpg"
+        },
+        "position": 7,
+        "price": {
+          "currency": "USD",
+          "raw": "$25.98",
+          "symbol": "$",
+          "value": "25.98"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$25.98",
+            "symbol": "$",
+            "value": "25.98"
+          }
+        ],
+        "rating": "4.4",
+        "rating_text": "4.4 out of 5 stars.",
+        "source_page": 1,
+        "title": "TAGRY Bluetooth Headphones True Wireless Earbuds 60H Playback LED Power Display Earphones with Wireless Charging Case IPX5 Waterproof in-Ear Ear buds with Mic for TV Smart Phone Laptop Computer Sports"
+      },
+      {
+        "asin": "B0HDB6MTYJ",
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "color_options": {
+          "total_count": 6
+        },
+        "image": "61P4QAI28CL",
+        "is_prime": true,
+        "is_sponsored": false,
+        "link": "/Fhumsh-Bluetooth-Headphones-Waterproof-Work%EF%BC%88White%EF%BC%89/dp/B0HDB6MTYJ/ref=sr_1_1?dib=eyJ2IjoiMSJ9.ZPe8d2yAhEG7KQnYpH0clXHTekssmMa1rRjSl5uAt6LVsHfVHIVAJxwmf2-ICxLq4IfFVuNgkFaEdWKUakSTHkNdFZ_0ghQuLEVSCfvtX4SerJ3ap37ry0BJmZ4xodFJXCrkJdJuKlX0rr0p_CKYsGafFgNS-WK1Mz1_T8vGQOJYyxoGR6VRxUn3BHYr06sTt5qUYgIdxQ3IWvKjD4W8bkNEoUepajoRtzX6yhng9G0.bTyGHYCGCc17Vq6onupE8_T5cg-ImOWrVYQ0QPNNm4g&dib_tag=se&keywords=wireless+earbuds&qid=1789045798&sr=8-1",
+        "main_image": {
+          "id": "61P4QAI28CL",
+          "link": "https://m.media-amazon.com/images/I/61P4QAI28CL.jpg"
+        },
+        "position": 8,
+        "price": {
+          "currency": "USD",
+          "raw": "$19.97",
+          "symbol": "$",
+          "value": "19.97"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$19.97",
+            "symbol": "$",
+            "value": "19.97"
+          },
+          {
+            "currency": "USD",
+            "is_rrp": true,
+            "raw": "$249.99",
+            "symbol": "$",
+            "value": "249.99"
+          }
+        ],
+        "product_type": "HEADPHONES",
+        "rating": "4.8",
+        "rating_text": "4.8 out of 5 stars",
+        "ratings_total": 356,
+        "shipping_details": "Join Prime to get FREE delivery Today 5 PM - 10 PM on eligible ordersOr Non-members get FREE delivery Tue, Sep 15 on $35 of items shipped by Amazon",
+        "source_page": 1,
+        "title": "Wireless Earbuds, Bluetooth 5.3 Headphones HiFi Stereo 50H Playback LED Digital Display Ear Buds with ENC Noise Canceling Headset, IPX7 Waterproof Earphones for Gym/Running/Work（White）"
+      },
+      {
+        "asin": "B0BTYCRJSS",
+        "bought_activity": {
+          "period": "past month",
+          "raw": "10K+ bought in past month",
+          "symbol": "K",
+          "value": 10000
+        },
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "color_options": {
+          "total_count": 5
+        },
+        "image": "51Yya2WtvkL",
+        "is_prime": true,
+        "is_sponsored": false,
+        "link": "/Soundcore-Wireless-Bluetooth-Water-Resistant-Customization/dp/B0BTYCRJSS/ref=sr_1_2?dib=eyJ2IjoiMSJ9.ZPe8d2yAhEG7KQnYpH0clXHTekssmMa1rRjSl5uAt6LVsHfVHIVAJxwmf2-ICxLq4IfFVuNgkFaEdWKUakSTHkNdFZ_0ghQuLEVSCfvtX4SerJ3ap37ry0BJmZ4xodFJXCrkJdJuKlX0rr0p_CKYsGafFgNS-WK1Mz1_T8vGQOJYyxoGR6VRxUn3BHYr06sTt5qUYgIdxQ3IWvKjD4W8bkNEoUepajoRtzX6yhng9G0.bTyGHYCGCc17Vq6onupE8_T5cg-ImOWrVYQ0QPNNm4g&dib_tag=se&keywords=wireless+earbuds&qid=1789045798&sr=8-2",
+        "main_image": {
+          "id": "51Yya2WtvkL",
+          "link": "https://m.media-amazon.com/images/I/51Yya2WtvkL.jpg"
+        },
+        "position": 9,
+        "price": {
+          "currency": "USD",
+          "raw": "$19.98",
+          "symbol": "$",
+          "value": "19.98"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$19.98",
+            "symbol": "$",
+            "value": "19.98"
+          },
+          {
+            "currency": "USD",
+            "is_rrp": true,
+            "raw": "$39.99",
+            "symbol": "$",
+            "value": "39.99"
+          }
+        ],
+        "product_type": "HEADPHONES",
+        "rating": "4.4",
+        "rating_text": "4.4 out of 5 stars",
+        "ratings_total": 114762,
+        "shipping_details": "Join Prime to get FREE delivery Today 2 PM - 6 PM on eligible ordersOr Non-members get FREE delivery Tue, Sep 15 on $35 of items shipped by Amazon",
+        "source_page": 1,
+        "title": "Soundcore by Anker P20i True Wireless Earbuds, with Big Bass, 30H Playtime | Bluetooth 5.3, Water-Resistant, 2 Mics for AI Clear Calls, 22 Preset EQs, Customization via App"
+      },
+      {
+        "asin": "B0DGHMNQ5Z",
+        "bought_activity": {
+          "period": "past month",
+          "raw": "10K+ bought in past month",
+          "symbol": "K",
+          "value": 10000
+        },
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "image": "61iBtxCUabL",
+        "is_prime": false,
+        "is_sponsored": false,
+        "link": "/Apple-Bluetooth-Headphones-Personalized-Effortless/dp/B0DGHMNQ5Z/ref=sr_1_3?dib=eyJ2IjoiMSJ9.ZPe8d2yAhEG7KQnYpH0clXHTekssmMa1rRjSl5uAt6LVsHfVHIVAJxwmf2-ICxLq4IfFVuNgkFaEdWKUakSTHkNdFZ_0ghQuLEVSCfvtX4SerJ3ap37ry0BJmZ4xodFJXCrkJdJuKlX0rr0p_CKYsGafFgNS-WK1Mz1_T8vGQOJYyxoGR6VRxUn3BHYr06sTt5qUYgIdxQ3IWvKjD4W8bkNEoUepajoRtzX6yhng9G0.bTyGHYCGCc17Vq6onupE8_T5cg-ImOWrVYQ0QPNNm4g&dib_tag=se&keywords=wireless+earbuds&qid=1789045798&sr=8-3",
+        "main_image": {
+          "id": "61iBtxCUabL",
+          "link": "https://m.media-amazon.com/images/I/61iBtxCUabL.jpg"
+        },
+        "more_buying_choices": {
+          "link": "/gp/aod/ajax/ref=sr_1_3_aod?asin=B0DGHMNQ5Z&pc=sp&keywords=wireless+earbuds&dib_tag=se&dib=eyJ2IjoiMSJ9.ZPe8d2yAhEG7KQnYpH0clXHTekssmMa1rRjSl5uAt6LVsHfVHIVAJxwmf2-ICxLq4IfFVuNgkFaEdWKUakSTHkNdFZ_0ghQuLEVSCfvtX4SerJ3ap37ry0BJmZ4xodFJXCrkJdJuKlX0rr0p_CKYsGafFgNS-WK1Mz1_T8vGQOJYyxoGR6VRxUn3BHYr06sTt5qUYgIdxQ3IWvKjD4W8bkNEoUepajoRtzX6yhng9G0.bTyGHYCGCc17Vq6onupE8_T5cg-ImOWrVYQ0QPNNm4g&qid=1789045798&sr=8-3",
+          "min_offers_count": 6,
+          "price": {
+            "currency": "USD",
+            "raw": "$91.26",
+            "symbol": "$",
+            "value": "91.26"
+          },
+          "raw": "$91.26 (6+ used & new offers)"
+        },
+        "position": 10,
+        "price": {
+          "currency": "USD",
+          "raw": "$99.00",
+          "symbol": "$",
+          "value": "99.00"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$99.00",
+            "symbol": "$",
+            "value": "99.00"
+          },
+          {
+            "currency": "USD",
+            "is_rrp": true,
+            "raw": "$129.00",
+            "symbol": "$",
+            "value": "129.00"
+          }
+        ],
+        "rating": "4.5",
+        "rating_text": "4.5 out of 5 stars",
+        "ratings_total": 34546,
+        "shipping_details": "FREE delivery Sep 15 - 20Or fastest delivery Sep 15 - 18",
+        "source_page": 1,
+        "title": "Apple AirPods 4 Wireless Earbuds | Bluetooth Headphones, Personalized Spatial Audio, Sweat & Water Resistant, USB-C Charging Case, H2 Chip"
+      },
+      {
+        "asin": "B095T14D4S",
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "image": "61FlBGir-lL",
+        "is_prime": false,
+        "is_sponsored": true,
+        "link": "https://sponsored-ads.amazon.com/clk/?_encoding=UTF8&p=eAFVkM1u00AUhRUqoIrCj7IoUtgFkUWkcWZcO7EjRch_Td2EpLGdlnYzmnjGP9SxHdtNUhZeI5YIiTfgBXgCVjwBEitWPAhSU4Q4qyt95557dKt0_8vPDz8e1B8pztmpPjJHb6BuWM0Kah94LA63mJ7MrodHkiLDxU3UZfP-gT0XkM_dBBeb4-vxebC9Auv09cyqIchzPOI5GXLw8p6tLvYVwzk2LNOuP6s-pCy_KpK0XptPLEObDifmpaE3vlaqL-4IzhnJ3ACnLHOTiBQMh3EUxgwvCq9eJUvyLok5N1k2nucL4EYkz0MX7HbAzglS1LzPYjy322K-AEXAlowCN4ki5hZhEoM1D-6OAZdkNAcpCeOCZcBN4oLFBf9StZSJjrXpeGxojjmd2NicjM2JgcfmmYF1wx4509Nmt1qBT399_P77_Te98fhv5K5E8wkPIZT4noC60iHqIX5vbuv9Pe1Ua1t1VVcVLT0ywdYv1dVOvlKqs9V5FknK_ypVv1RnparcDn6p3uJGTfON7VAx_DVJGP-5Uv1UCYoizfudzmaz4f59quOnHbLp0I4KZdFBgi7Yr1KKM4rTKKDZoGgFOcFuhkM6gK1VSAeoJ8lQEHuy1MqzAQIIiEQUu7wnA496FAgIIiB7MgW01yVElmVJOORb4YCkeYtkzBtMjYuTt05vu1b_ACcVvyQ&v=c1&r=https%3A%2F%2Fwww.amazon.com%2Fgp%2Faw%2Fd%2FB095T14D4S%3Fpd_rd_plhdr%3Dt%26hsa_cr_id%3D0%26qid%3D1789045798%26sr%3D1-1-5a5562f9-fdfd-4101-9f9d-d76aa9998432%26i%3Daps%26aref%3DOEYJjT7xvB&ref_=sbx__sbtcd2_asin_0_bkgd&pd_rd_w=MkjzF&content-id=amzn1.sym.90f77631-9599-4fe0-95f8-a40adfe1c762%3Aamzn1.sym.90f77631-9599-4fe0-95f8-a40adfe1c762&pf_rd_p=90f77631-9599-4fe0-95f8-a40adfe1c762&pf_rd_r=1BZND7SB7SHAHXZR970R&pd_rd_wg=8wf1G&pd_rd_r=2c15d521-5df5-4fab-9b2a-73c351fdf760",
+        "main_image": {
+          "id": "61FlBGir-lL",
+          "link": "https://m.media-amazon.com/images/I/61FlBGir-lL.jpg"
+        },
+        "position": 11,
+        "price": {
+          "currency": "USD",
+          "raw": "$79.98",
+          "symbol": "$",
+          "value": "79.98"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$79.98",
+            "symbol": "$",
+            "value": "79.98"
+          }
+        ],
+        "rating": "4.2",
+        "rating_text": "4.2 out of 5 stars.",
+        "source_page": 1,
+        "title": "Raycon Everyday Bluetooth Wireless Earbuds with Microphone - Active Noise Cancelling, Sweat & Water-Resistant Earphones, Ear Buds Wireless Bluetooth (Black)"
+      },
+      {
+        "asin": "B095SZ4S71",
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "image": "61rUdWfzU-L",
+        "is_prime": false,
+        "is_sponsored": true,
+        "link": "https://sponsored-ads.amazon.com/clk/?_encoding=UTF8&p=eAFVkM1u00AUhRUqoIrCj7IoUtgFkUWkcWbcJLYjRch_Td0EJ7GTlmYzmnjGP9SxHdtNUhZeI5YIiTfgBXgCVjwBEitWPAhSU4Q4qyt95557dMv08MvPDz8eVB_Js_OJNjSGb6CmW_USah65LAp2mJ5NrwcnoizB5U3YZfPekT1vI4-78S-3p9ejC393BTbJ66lVQZDneMRzEuTg4p6tLA9lfXaqW4ZdfVZ-SFl2lcdJtTI3LV0dD0xjoWu1r6XyizuCM0ZSx8cJS504JDnDQRQGEcPL3K2WyYq8iyPOiVe159kSOCHJssAB-x2wd4IE1e-zCM_tZidbgtxnK0aBE4chc_IgjsCGB3fHgENSmoGEBFHOUuDEUc6inH-pWLKpYXU8GunqzBibNjbMkWHqeGSc61jT7eFsPKl3yyX49NfH77_ff9Nqj_9G7kvUn_AQQpEX2qgrHiMB8QdzW-sdqBO1aVUVTZHV5MQAO69Q1nt5cqFM1xdpKMr_q1C8QpkWinw7eIVyi2sV1dN3A1n3NiRm_OdS-VPJz_Mk67Va2-2W-_eplpe0yLZFWwqUOvaibQvoVUJxSnES-jTt5w0_I9hJcUD7sLEOaB8JogTbHUESG1naR4AHHdLpdHlXAi51KWgjiIDkShRQoUuIJEli-5hvBH2SZA2SMrc_1i_P3s6E3Ub5AzIxvz0&v=c1&r=https%3A%2F%2Fwww.amazon.com%2Fgp%2Faw%2Fd%2FB095SZ4S71%3Fpd_rd_plhdr%3Dt%26hsa_cr_id%3D0%26qid%3D1789045798%26sr%3D1-2-5a5562f9-fdfd-4101-9f9d-d76aa9998432%26i%3Daps%26aref%3DOEYJjT7xvB&ref_=sbx__sbtcd2_asin_1_bkgd&pd_rd_w=MkjzF&content-id=amzn1.sym.90f77631-9599-4fe0-95f8-a40adfe1c762%3Aamzn1.sym.90f77631-9599-4fe0-95f8-a40adfe1c762&pf_rd_p=90f77631-9599-4fe0-95f8-a40adfe1c762&pf_rd_r=1BZND7SB7SHAHXZR970R&pd_rd_wg=8wf1G&pd_rd_r=2c15d521-5df5-4fab-9b2a-73c351fdf760",
+        "main_image": {
+          "id": "61rUdWfzU-L",
+          "link": "https://m.media-amazon.com/images/I/61rUdWfzU-L.jpg"
+        },
+        "position": 12,
+        "price": {
+          "currency": "USD",
+          "raw": "$79.99",
+          "symbol": "$",
+          "value": "79.99"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$79.99",
+            "symbol": "$",
+            "value": "79.99"
+          }
+        ],
+        "rating": "4.2",
+        "rating_text": "4.2 out of 5 stars.",
+        "source_page": 1,
+        "title": "Raycon Everyday Bluetooth Wireless Earbuds with Microphone - Active Noise Cancelling, Sweat & Water-Resistant Earphones, Ear Buds Wireless Bluetooth (Blue)"
+      },
+      {
+        "asin": "B095TQFJSG",
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "image": "61x53xwpMXL",
+        "is_prime": false,
+        "is_sponsored": true,
+        "link": "https://sponsored-ads.amazon.com/clk/?_encoding=UTF8&p=eAFVkM2K01AYhqmDOoT6Qxcj1F3FLgonOUn_kkKR_LWTtqZtks44szmc5pz8OGmSJpm246JrcSmCd-ANeAWuvALBlSsvRJiOiO_qg-f93u_lY8jxl58ffjyoPJKds5k2NsZvoKZbtRLfOPFoHO4QGc2vhwNRluDyJurQRe_EXrR4n70JLran15PzYHcFNunruVXmocAKvMBKkIWX92xleSzrzqluGXblGfOQ0PyqSNJKeWFaujodmsalrlW_lpgXdwTlFGdugFKauUmEC4rCOApjipaFV2HwCr9LYtZNVtXn-RK4Ec7z0AWHHXBwgpSv3acxWtiNdr4ERUBXlAA3iSLqFmESg40A7o4BF2ckBykO44JmwE3igsaF8FKxZFND6nQy0VXHmJo2MsyJYepoYpzpSNPtsTOd1TpMCT799fH77_fftOrjv5GHErUnAoRQFLotviM2-S4vHC1srXekztSGVVE0RVbTgQF2_l5ZH-TLe2W-Ps8iUf5fe8XfK_O9It8O_l65xdWy6uu7oaz7G5xQ4XOJ-VQKiiLNexy33W7Zf5_i_JTDW45wCpTaznwwsoevUoIygtIoIFm_qAc5Rm6GQtKH9XVI-nxXlGCr3ZXEep71edAEbdxudwRPAh7xCGjxkAeSJxFAuh2MJUkSW02hHvZxmtdxRr3-VL8YvXW6u43yB0gSv3E&v=c1&r=https%3A%2F%2Fwww.amazon.com%2Fgp%2Faw%2Fd%2FB095TQFJSG%3Fpd_rd_plhdr%3Dt%26hsa_cr_id%3D0%26qid%3D1789045798%26sr%3D1-3-5a5562f9-fdfd-4101-9f9d-d76aa9998432%26i%3Daps%26aref%3DOEYJjT7xvB&ref_=sbx__sbtcd2_asin_2_bkgd&pd_rd_w=MkjzF&content-id=amzn1.sym.90f77631-9599-4fe0-95f8-a40adfe1c762%3Aamzn1.sym.90f77631-9599-4fe0-95f8-a40adfe1c762&pf_rd_p=90f77631-9599-4fe0-95f8-a40adfe1c762&pf_rd_r=1BZND7SB7SHAHXZR970R&pd_rd_wg=8wf1G&pd_rd_r=2c15d521-5df5-4fab-9b2a-73c351fdf760",
+        "main_image": {
+          "id": "61x53xwpMXL",
+          "link": "https://m.media-amazon.com/images/I/61x53xwpMXL.jpg"
+        },
+        "position": 13,
+        "price": {
+          "currency": "USD",
+          "raw": "$79.99",
+          "symbol": "$",
+          "value": "79.99"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$79.99",
+            "symbol": "$",
+            "value": "79.99"
+          }
+        ],
+        "rating": "4.2",
+        "rating_text": "4.2 out of 5 stars.",
+        "source_page": 1,
+        "title": "Raycon Everyday Bluetooth Wireless Earbuds with Microphone - Active Noise Cancelling, Sweat & Water-Resistant Earphones, Ear Buds Wireless Bluetooth (Rose Gold)"
+      },
+      {
+        "asin": "B0FDXY1TSP",
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "image": "61wyAPl3O5L",
+        "is_prime": false,
+        "is_sponsored": true,
+        "link": "https://sponsored-ads.amazon.com/clk/?_encoding=UTF8&p=eAFVkMtu00AUhhUqoLLCRVm0UtgFkUWkSWbcXOxIFvItqZuQi-20TTejiWd8oY7t2G6SssgasURIvAEvwBOw4gmQWLHiQZCaIsS_OtL3n__8Ohw9_PLzw49HpSeyfT7RBsbgEmq6WSmg2pHLomCL6dn0pt8TZBEubsM2m3WPrFkTefVbf745vRle-NtrsE7eTM0ignydR3xdhHV49cBSFoeybp_qpmGVjrnHlGXXeZyUirORqavj_si40rXy1wL38p7gjJHU8XHCUicOSc5wEIVBxPAid0scWZJ3cVR34mX5RbYATkiyLHDAfgfsnSBBlYcswjOr1soWIPfZklHgxGHInDyII7Dmwf0x4JCUZiAhQZSzFDhxlLMo518ppjzSsDoeDnXVNsYjCxujoTHS8dA417GmWwN7PKm0uQJ8_uvj99_vv2nlp38j9yUqz3gIocB3mqgtnKAO4g9mltY9UCdqzSwpmiKrSc8AW2-nrPby5J0yXV2koSD_r53i7ZTpTpHvBm-n3OFyUfX0bV_WvTWJGf-5wH0q-HmeZN1GY7PZ1P99quElDbJp0IYCe9rlHNnW5HVCcUpxEvo0lfKqnxHspDigEqyuAiqhjiDCZqsjCtUslRBoghZptdq8KwKXuhQ0EURAdEUKaKdNiCiKQvOErwYSSbIqSZkrjfX52Vu7s10rfwBZFL-Y&v=c1&r=https%3A%2F%2Fwww.amazon.com%2Fgp%2Faw%2Fd%2FB0FDXY1TSP%3Fpd_rd_plhdr%3Dt%26hsa_cr_id%3D0%26qid%3D1789045798%26sr%3D1-4-5a5562f9-fdfd-4101-9f9d-d76aa9998432%26i%3Daps%26aref%3DOEYJjT7xvB&ref_=sbx__sbtcd2_asin_3_bkgd&pd_rd_w=MkjzF&content-id=amzn1.sym.90f77631-9599-4fe0-95f8-a40adfe1c762%3Aamzn1.sym.90f77631-9599-4fe0-95f8-a40adfe1c762&pf_rd_p=90f77631-9599-4fe0-95f8-a40adfe1c762&pf_rd_r=1BZND7SB7SHAHXZR970R&pd_rd_wg=8wf1G&pd_rd_r=2c15d521-5df5-4fab-9b2a-73c351fdf760",
+        "main_image": {
+          "id": "61wyAPl3O5L",
+          "link": "https://m.media-amazon.com/images/I/61wyAPl3O5L.jpg"
+        },
+        "position": 14,
+        "price": {
+          "currency": "USD",
+          "raw": "$79.99",
+          "symbol": "$",
+          "value": "79.99"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$79.99",
+            "symbol": "$",
+            "value": "79.99"
+          }
+        ],
+        "rating": "4.2",
+        "rating_text": "4.2 out of 5 stars.",
+        "source_page": 1,
+        "title": "Raycon Everyday Bluetooth Wireless Earbuds with Microphone - Active Noise Cancelling, Sweat & Water-Resistant Earphones, Ear Buds Wireless Bluetooth (Mint)"
+      },
+      {
+        "asin": "B0FDXYVVXJ",
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "image": "61+FZ3s-zvL",
+        "is_prime": false,
+        "is_sponsored": true,
+        "link": "https://sponsored-ads.amazon.com/clk/?_encoding=UTF8&p=eAFVkMtu00AUhhUqoLLCRVm0UtgFkUWkscduLnYkC_mW1EnIzUnadDOaeMYX6tiO7SYpC68RS4TEG_ACPAErngCJFSseBKkpQvyrI33_-c-vw5DjLz8__HhUeqLMFmO9b_YvoW5MKwW-duLQ0N8j0pvcdDuiIsHVbdCk8_aJNa_zLnvrLXfnN4MLb38NtvGbybTIQ4EVeIGVIAuvHljq6lgxZufG1LRKp8xjQtPrLIpLxflwamij7tC8MvTy1wLz8p6glOLE9lBMEzsKcEaRHwZ-SNEqc0oMXuN3Ucja0br8Il0BO8Bp6tvgsAMOThDzlYc0RHOr1khXIPPomhJgR0FA7cyPQrAVwP0xYOOEpCDGfpjRBNhRmNEwE16pU2WoI200GBjazBwNLWQOB-bQQANzYSDdsPqz0bjSZArw-a-P33-__6aXn_6NPJSoPBMghKLQqvNN8Yxv8cLR3NLbR9pYq01Lqq4qWtwxwd7N1c1BrpKrk81FEojK_8pVN1cnuarcDW6u3uFyUXONfVcx3C2OqPC5wHwqeFkWp22O2-127L9PcW7M4R1HOBV29MvlYnHZex0TlBAUBx5J5KzqpRjZCfKJDKsbn8h8S5RgvdGSxGqayDxogAZuNJqCIwGHOATUecgDyZEIIK0mxpIkifUzoerLOE6rOKGOPDKWvbez1n6r_gFp0L-_&v=c1&r=https%3A%2F%2Fwww.amazon.com%2Fgp%2Faw%2Fd%2FB0FDXYVVXJ%3Fpd_rd_plhdr%3Dt%26hsa_cr_id%3D0%26qid%3D1789045798%26sr%3D1-5-5a5562f9-fdfd-4101-9f9d-d76aa9998432%26i%3Daps%26aref%3DOEYJjT7xvB&ref_=sbx__sbtcd2_asin_4_bkgd&pd_rd_w=MkjzF&content-id=amzn1.sym.90f77631-9599-4fe0-95f8-a40adfe1c762%3Aamzn1.sym.90f77631-9599-4fe0-95f8-a40adfe1c762&pf_rd_p=90f77631-9599-4fe0-95f8-a40adfe1c762&pf_rd_r=1BZND7SB7SHAHXZR970R&pd_rd_wg=8wf1G&pd_rd_r=2c15d521-5df5-4fab-9b2a-73c351fdf760",
+        "main_image": {
+          "id": "61+FZ3s-zvL",
+          "link": "https://m.media-amazon.com/images/I/61+FZ3s-zvL.jpg"
+        },
+        "position": 15,
+        "price": {
+          "currency": "USD",
+          "raw": "$79.99",
+          "symbol": "$",
+          "value": "79.99"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$79.99",
+            "symbol": "$",
+            "value": "79.99"
+          }
+        ],
+        "rating": "4.2",
+        "rating_text": "4.2 out of 5 stars.",
+        "source_page": 1,
+        "title": "Raycon Everyday Bluetooth Wireless Earbuds with Microphone - Active Noise Cancelling, Sweat & Water-Resistant Earphones, Ear Buds Wireless Bluetooth (Purple)"
+      },
+      {
+        "asin": "B0CRTR3PMF",
+        "bought_activity": {
+          "period": "past month",
+          "raw": "8K+ bought in past month",
+          "symbol": "K",
+          "value": 8000
+        },
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "color_options": {
+          "total_count": 5
+        },
+        "image": "51013C6va8L",
+        "is_prime": true,
+        "is_sponsored": false,
+        "link": "/Soundcore-Cancelling-Powerful-Playtime-Bluetooth/dp/B0CRTR3PMF/ref=sr_1_4?dib=eyJ2IjoiMSJ9.ZPe8d2yAhEG7KQnYpH0clXHTekssmMa1rRjSl5uAt6LVsHfVHIVAJxwmf2-ICxLq4IfFVuNgkFaEdWKUakSTHkNdFZ_0ghQuLEVSCfvtX4SerJ3ap37ry0BJmZ4xodFJXCrkJdJuKlX0rr0p_CKYsGafFgNS-WK1Mz1_T8vGQOJYyxoGR6VRxUn3BHYr06sTt5qUYgIdxQ3IWvKjD4W8bkNEoUepajoRtzX6yhng9G0.bTyGHYCGCc17Vq6onupE8_T5cg-ImOWrVYQ0QPNNm4g&dib_tag=se&keywords=wireless+earbuds&qid=1789045798&sr=8-4",
+        "main_image": {
+          "id": "51013C6va8L",
+          "link": "https://m.media-amazon.com/images/I/51013C6va8L.jpg"
+        },
+        "position": 16,
+        "price": {
+          "currency": "USD",
+          "raw": "$24.99",
+          "symbol": "$",
+          "value": "24.99"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$24.99",
+            "symbol": "$",
+            "value": "24.99"
+          },
+          {
+            "currency": "USD",
+            "is_rrp": true,
+            "raw": "$49.99",
+            "symbol": "$",
+            "value": "49.99"
+          }
+        ],
+        "product_type": "HEADPHONES",
+        "rating": "4.3",
+        "rating_text": "4.3 out of 5 stars",
+        "ratings_total": 41741,
+        "shipping_details": "Join Prime to get FREE delivery Today 2 PM - 6 PM on eligible ordersOr Non-members get FREE delivery Tue, Sep 15 on $35 of items shipped by Amazon",
+        "source_page": 1,
+        "title": "Soundcore P30i by Anker Noise Cancelling Earbuds, Hands-Free Viewing | Strong and Smart Noise Cancelling, Powerful Bass, 45H Playtime, 2-in-1 Case and Phone Stand, IP54, Bluetooth 5.4"
+      },
+      {
+        "asin": "B0DN45YMP6",
+        "bought_activity": {
+          "period": "past month",
+          "raw": "10K+ bought in past month",
+          "symbol": "K",
+          "value": 10000
+        },
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "color_options": {
+          "total_count": 4
+        },
+        "image": "618f5yBk26L",
+        "is_prime": true,
+        "is_sponsored": false,
+        "link": "/JBL-Vibe-Beam-Cancelling-Technology/dp/B0DN45YMP6/ref=sr_1_5?dib=eyJ2IjoiMSJ9.ZPe8d2yAhEG7KQnYpH0clXHTekssmMa1rRjSl5uAt6LVsHfVHIVAJxwmf2-ICxLq4IfFVuNgkFaEdWKUakSTHkNdFZ_0ghQuLEVSCfvtX4SerJ3ap37ry0BJmZ4xodFJXCrkJdJuKlX0rr0p_CKYsGafFgNS-WK1Mz1_T8vGQOJYyxoGR6VRxUn3BHYr06sTt5qUYgIdxQ3IWvKjD4W8bkNEoUepajoRtzX6yhng9G0.bTyGHYCGCc17Vq6onupE8_T5cg-ImOWrVYQ0QPNNm4g&dib_tag=se&keywords=wireless+earbuds&qid=1789045798&sr=8-5",
+        "main_image": {
+          "id": "618f5yBk26L",
+          "link": "https://m.media-amazon.com/images/I/618f5yBk26L.jpg"
+        },
+        "position": 17,
+        "product_type": "HEADPHONES",
+        "rating": "4.1",
+        "rating_text": "4.1 out of 5 stars",
+        "ratings_total": 6952,
+        "shipping_details": "Join Prime to get FREE delivery Today 2 PM - 6 PMOr Non-members get FREE delivery Tue, Sep 15",
+        "source_page": 1,
+        "title": "JBL Vibe Beam 2 - Noise Cancelling Earbuds - Black | JBL Pure Bass sound, Active Noise Cancelling with Smart Ambient, 4 mics for crisp, clear calls, Water and dust resistant"
+      },
+      {
+        "asin": "B0HCXW6CDR",
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "image": "61rw2e+AtUL",
+        "is_prime": true,
+        "is_sponsored": false,
+        "link": "/XIAOWTEK-Bluetooth-Headphones-Cancelling-Waterproof/dp/B0HCXW6CDR/ref=sr_1_6?dib=eyJ2IjoiMSJ9.ZPe8d2yAhEG7KQnYpH0clXHTekssmMa1rRjSl5uAt6LVsHfVHIVAJxwmf2-ICxLq4IfFVuNgkFaEdWKUakSTHkNdFZ_0ghQuLEVSCfvtX4SerJ3ap37ry0BJmZ4xodFJXCrkJdJuKlX0rr0p_CKYsGafFgNS-WK1Mz1_T8vGQOJYyxoGR6VRxUn3BHYr06sTt5qUYgIdxQ3IWvKjD4W8bkNEoUepajoRtzX6yhng9G0.bTyGHYCGCc17Vq6onupE8_T5cg-ImOWrVYQ0QPNNm4g&dib_tag=se&keywords=wireless+earbuds&qid=1789045798&sr=8-6",
+        "main_image": {
+          "id": "61rw2e+AtUL",
+          "link": "https://m.media-amazon.com/images/I/61rw2e+AtUL.jpg"
+        },
+        "position": 18,
+        "price": {
+          "currency": "USD",
+          "raw": "$19.99",
+          "symbol": "$",
+          "value": "19.99"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$19.99",
+            "symbol": "$",
+            "value": "19.99"
+          },
+          {
+            "currency": "USD",
+            "is_rrp": true,
+            "raw": "$199.99",
+            "symbol": "$",
+            "value": "199.99"
+          }
+        ],
+        "rating": "4.9",
+        "rating_text": "4.9 out of 5 stars",
+        "ratings_total": 673,
+        "shipping_details": "Join Prime to get FREE delivery Tomorrow, Sep 11Or Non-members get FREE delivery Tue, Sep 15 on $35 of items shipped by Amazon",
+        "source_page": 1,
+        "title": "XIAOWTEK Wireless Earbuds, 2026 Bluetooth 5.4 Headphones Bass Stereo Ear Buds with Noise Cancelling Mic, LED Display in Ear Earphones 50H Playtime Ear Buds, IP7 Waterproof for Laptop Pad Phones White"
+      },
+      {
+        "asin": "B0D635YLCT",
+        "bought_activity": {
+          "period": "past month",
+          "raw": "10K+ bought in past month",
+          "symbol": "K",
+          "value": 10000
+        },
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "color_options": {
+          "additional_count": 2,
+          "raw": "+2",
+          "total_count": 8
+        },
+        "image": "715fNrGN+ML",
+        "is_prime": true,
+        "is_sponsored": false,
+        "link": "/kurdene-Bluetooth-Light-Weight-Headphones-Earphones/dp/B0D635YLCT/ref=sr_1_7?dib=eyJ2IjoiMSJ9.ZPe8d2yAhEG7KQnYpH0clXHTekssmMa1rRjSl5uAt6LVsHfVHIVAJxwmf2-ICxLq4IfFVuNgkFaEdWKUakSTHkNdFZ_0ghQuLEVSCfvtX4SerJ3ap37ry0BJmZ4xodFJXCrkJdJuKlX0rr0p_CKYsGafFgNS-WK1Mz1_T8vGQOJYyxoGR6VRxUn3BHYr06sTt5qUYgIdxQ3IWvKjD4W8bkNEoUepajoRtzX6yhng9G0.bTyGHYCGCc17Vq6onupE8_T5cg-ImOWrVYQ0QPNNm4g&dib_tag=se&keywords=wireless+earbuds&qid=1789045798&sr=8-7",
+        "main_image": {
+          "id": "715fNrGN+ML",
+          "link": "https://m.media-amazon.com/images/I/715fNrGN+ML.jpg"
+        },
+        "position": 19,
+        "price": {
+          "currency": "USD",
+          "raw": "$12.99",
+          "symbol": "$",
+          "value": "12.99"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$12.99",
+            "symbol": "$",
+            "value": "12.99"
+          }
+        ],
+        "product_type": "HEADPHONES",
+        "rating": "4.3",
+        "rating_text": "4.3 out of 5 stars",
+        "ratings_total": 60941,
+        "shipping_details": "Join Prime to get FREE delivery Today 2 PM - 6 PM on eligible ordersOr Non-members get FREE delivery Tue, Sep 15 on $35 of items shipped by Amazon",
+        "source_page": 1,
+        "title": "kurdene Wireless Earbuds Bluetooth 5.3 Light Weight in Ear Headphones | Premium Sound Bass Ear buds with Charging Case,Touch Control,Built in Mics Headset,Clear Calls for Sports Workout"
+      },
+      {
+        "asin": "B0HFMWWFNJ",
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "color_options": {
+          "additional_count": 5,
+          "raw": "+5 other colors/patterns",
+          "total_count": 5
+        },
+        "image": "61CjlGiCQxL",
+        "is_prime": true,
+        "is_sponsored": false,
+        "link": "/Wireless-Earbuds-Touchscreen-Headphones-Bluetooth/dp/B0HFMWWFNJ/ref=sr_1_8?dib=eyJ2IjoiMSJ9.ZPe8d2yAhEG7KQnYpH0clXHTekssmMa1rRjSl5uAt6LVsHfVHIVAJxwmf2-ICxLq4IfFVuNgkFaEdWKUakSTHkNdFZ_0ghQuLEVSCfvtX4SerJ3ap37ry0BJmZ4xodFJXCrkJdJuKlX0rr0p_CKYsGafFgNS-WK1Mz1_T8vGQOJYyxoGR6VRxUn3BHYr06sTt5qUYgIdxQ3IWvKjD4W8bkNEoUepajoRtzX6yhng9G0.bTyGHYCGCc17Vq6onupE8_T5cg-ImOWrVYQ0QPNNm4g&dib_tag=se&keywords=wireless+earbuds&qid=1789045798&sr=8-8",
+        "main_image": {
+          "id": "61CjlGiCQxL",
+          "link": "https://m.media-amazon.com/images/I/61CjlGiCQxL.jpg"
+        },
+        "position": 20,
+        "price": {
+          "currency": "USD",
+          "raw": "$16.99",
+          "symbol": "$",
+          "value": "16.99"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$16.99",
+            "symbol": "$",
+            "value": "16.99"
+          },
+          {
+            "currency": "USD",
+            "is_rrp": true,
+            "raw": "$169.99",
+            "symbol": "$",
+            "value": "169.99"
+          }
+        ],
+        "product_type": "HEADPHONES",
+        "rating": "4.7",
+        "rating_text": "4.7 out of 5 stars",
+        "ratings_total": 78,
+        "shipping_details": "Join Prime to get FREE delivery Tomorrow, Sep 11Or Non-members get FREE delivery Tue, Sep 15 on $35 of items shipped by Amazon",
+        "source_page": 1,
+        "title": "Wireless Earbuds, Smart Touchscreen Ear Buds, ANC Headphones, Bluetooth 5.4 | 48H Playtime, ENC Clear Calls, 13mm Drivers, 5 EQ Modes, Hi-Fi Deep Bass, Lightweight Fit, for iPhone/Android/Pad"
+      },
+      {
+        "asin": "B09DT48V16",
+        "bought_activity": {
+          "period": "past month",
+          "raw": "10K+ bought in past month",
+          "symbol": "K",
+          "value": 10000
+        },
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "color_options": {
+          "additional_count": 3,
+          "raw": "+3",
+          "total_count": 9
+        },
+        "image": "61uEvVoizoL",
+        "is_prime": true,
+        "is_sponsored": false,
+        "link": "/TAGRY-Bluetooth-Headphones-Earphones-Waterproof/dp/B09DT48V16/ref=sr_1_9?dib=eyJ2IjoiMSJ9.ZPe8d2yAhEG7KQnYpH0clXHTekssmMa1rRjSl5uAt6LVsHfVHIVAJxwmf2-ICxLq4IfFVuNgkFaEdWKUakSTHkNdFZ_0ghQuLEVSCfvtX4SerJ3ap37ry0BJmZ4xodFJXCrkJdJuKlX0rr0p_CKYsGafFgNS-WK1Mz1_T8vGQOJYyxoGR6VRxUn3BHYr06sTt5qUYgIdxQ3IWvKjD4W8bkNEoUepajoRtzX6yhng9G0.bTyGHYCGCc17Vq6onupE8_T5cg-ImOWrVYQ0QPNNm4g&dib_tag=se&keywords=wireless+earbuds&qid=1789045798&sr=8-9",
+        "main_image": {
+          "id": "61uEvVoizoL",
+          "link": "https://m.media-amazon.com/images/I/61uEvVoizoL.jpg"
+        },
+        "more_buying_choices": {
+          "link": "/gp/aod/ajax/ref=sr_1_9_aod?asin=B09DT48V16&pc=sp&keywords=wireless+earbuds&dib_tag=se&dib=eyJ2IjoiMSJ9.ZPe8d2yAhEG7KQnYpH0clXHTekssmMa1rRjSl5uAt6LVsHfVHIVAJxwmf2-ICxLq4IfFVuNgkFaEdWKUakSTHkNdFZ_0ghQuLEVSCfvtX4SerJ3ap37ry0BJmZ4xodFJXCrkJdJuKlX0rr0p_CKYsGafFgNS-WK1Mz1_T8vGQOJYyxoGR6VRxUn3BHYr06sTt5qUYgIdxQ3IWvKjD4W8bkNEoUepajoRtzX6yhng9G0.bTyGHYCGCc17Vq6onupE8_T5cg-ImOWrVYQ0QPNNm4g&qid=1789045798&sr=8-9",
+          "min_offers_count": 8,
+          "price": {
+            "currency": "USD",
+            "raw": "$24.43",
+            "symbol": "$",
+            "value": "24.43"
+          },
+          "raw": "$24.43 (8+ used & new offers)"
+        },
+        "position": 21,
+        "price": {
+          "currency": "USD",
+          "raw": "$25.98",
+          "symbol": "$",
+          "value": "25.98"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$25.98",
+            "symbol": "$",
+            "value": "25.98"
+          },
+          {
+            "currency": "USD",
+            "is_rrp": true,
+            "raw": "$35.99",
+            "symbol": "$",
+            "value": "35.99"
+          }
+        ],
+        "product_type": "HEADPHONES",
+        "rating": "4.4",
+        "rating_text": "4.4 out of 5 stars",
+        "ratings_total": 88757,
+        "shipping_details": "Join Prime to get FREE delivery Today 2 PM - 6 PMOr Non-members get FREE delivery Tue, Sep 15 on $35 of items shipped by Amazon",
+        "source_page": 1,
+        "title": "TAGRY Bluetooth Headphones True Wireless Earbuds 60H Playback LED Power Display Earphones with Wireless Charging Case IPX5 Waterproof in-Ear Ear buds with Mic for TV Smart Phone Laptop Computer Sports"
+      },
+      {
+        "asin": "B0HC69VCFS",
+        "bought_activity": {
+          "period": "past month",
+          "raw": "500+ bought in past month",
+          "value": 500
+        },
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "image": "61DzAvRWJlL",
+        "is_prime": true,
+        "is_sponsored": false,
+        "link": "/HAOYUYAN-Bluetooth-Headphones-Waterproof-Running%EF%BC%88Rose/dp/B0HC69VCFS/ref=sr_1_10?dib=eyJ2IjoiMSJ9.ZPe8d2yAhEG7KQnYpH0clXHTekssmMa1rRjSl5uAt6LVsHfVHIVAJxwmf2-ICxLq4IfFVuNgkFaEdWKUakSTHkNdFZ_0ghQuLEVSCfvtX4SerJ3ap37ry0BJmZ4xodFJXCrkJdJuKlX0rr0p_CKYsGafFgNS-WK1Mz1_T8vGQOJYyxoGR6VRxUn3BHYr06sTt5qUYgIdxQ3IWvKjD4W8bkNEoUepajoRtzX6yhng9G0.bTyGHYCGCc17Vq6onupE8_T5cg-ImOWrVYQ0QPNNm4g&dib_tag=se&keywords=wireless+earbuds&qid=1789045798&sr=8-10",
+        "main_image": {
+          "id": "61DzAvRWJlL",
+          "link": "https://m.media-amazon.com/images/I/61DzAvRWJlL.jpg"
+        },
+        "position": 22,
+        "price": {
+          "currency": "USD",
+          "raw": "$23.98",
+          "symbol": "$",
+          "value": "23.98"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$23.98",
+            "symbol": "$",
+            "value": "23.98"
+          },
+          {
+            "currency": "USD",
+            "is_rrp": true,
+            "raw": "$299.99",
+            "symbol": "$",
+            "value": "299.99"
+          }
+        ],
+        "rating": "4.9",
+        "rating_text": "4.9 out of 5 stars",
+        "ratings_total": 234,
+        "shipping_details": "Join Prime to get FREE delivery Tomorrow, Sep 11Or Non-members get FREE delivery Tue, Sep 15",
+        "source_page": 1,
+        "title": "HAOYUYAN Wireless Earbuds, Sports Bluetooth Headphones, 80Hrs Playtime Ear Buds with LED Power Display, Noise Canceling Headset, IPX7 Waterproof Earphones for Workout/Running（Rose Gold）"
+      },
+      {
+        "asin": "B09FT58QQP",
+        "bought_activity": {
+          "period": "past month",
+          "raw": "10K+ bought in past month",
+          "symbol": "K",
+          "value": 10000
+        },
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "color_options": {
+          "additional_count": 4,
+          "raw": "+4",
+          "total_count": 10
+        },
+        "image": "81+4jNKVFgL",
+        "is_prime": true,
+        "is_sponsored": false,
+        "link": "/A1/dp/B09FT58QQP/ref=sr_1_11?dib=eyJ2IjoiMSJ9.ZPe8d2yAhEG7KQnYpH0clXHTekssmMa1rRjSl5uAt6LVsHfVHIVAJxwmf2-ICxLq4IfFVuNgkFaEdWKUakSTHkNdFZ_0ghQuLEVSCfvtX4SerJ3ap37ry0BJmZ4xodFJXCrkJdJuKlX0rr0p_CKYsGafFgNS-WK1Mz1_T8vGQOJYyxoGR6VRxUn3BHYr06sTt5qUYgIdxQ3IWvKjD4W8bkNEoUepajoRtzX6yhng9G0.bTyGHYCGCc17Vq6onupE8_T5cg-ImOWrVYQ0QPNNm4g&dib_tag=se&keywords=wireless+earbuds&qid=1789045798&sr=8-11",
+        "main_image": {
+          "id": "81+4jNKVFgL",
+          "link": "https://m.media-amazon.com/images/I/81+4jNKVFgL.jpg"
+        },
+        "position": 23,
+        "price": {
+          "currency": "USD",
+          "raw": "$13.99",
+          "symbol": "$",
+          "value": "13.99"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$13.99",
+            "symbol": "$",
+            "value": "13.99"
+          },
+          {
+            "currency": "USD",
+            "is_rrp": true,
+            "raw": "$19.99",
+            "symbol": "$",
+            "value": "19.99"
+          }
+        ],
+        "product_type": "HEADPHONES",
+        "rating": "4.3",
+        "rating_text": "4.3 out of 5 stars",
+        "ratings_total": 117148,
+        "shipping_details": "Join Prime to get FREE delivery Today 2 PM - 6 PM on eligible ordersOr Non-members get FREE delivery Tue, Sep 15 on $35 of items shipped by Amazon",
+        "source_page": 1,
+        "title": "TOZO A1 Wireless Earbuds Bluetooth 5.3 Light Weight in Ear Headphones | IPX5 Waterproof,2 Mics for AI Calls,Immersive Premium Sound Bass Headset with Charging Case,32 EQ via App Black"
+      },
+      {
+        "asin": "B0HCZ6ZJLM",
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "color_options": {
+          "additional_count": 2,
+          "raw": "+2 other colors/patterns",
+          "total_count": 2
+        },
+        "image": "61PPiCaslSL",
+        "is_prime": true,
+        "is_sponsored": false,
+        "link": "/Wireless-Earbuds-Bluetooth-Headphones-Crystal/dp/B0HCZ6ZJLM/ref=sr_1_12?dib=eyJ2IjoiMSJ9.ZPe8d2yAhEG7KQnYpH0clXHTekssmMa1rRjSl5uAt6LVsHfVHIVAJxwmf2-ICxLq4IfFVuNgkFaEdWKUakSTHkNdFZ_0ghQuLEVSCfvtX4SerJ3ap37ry0BJmZ4xodFJXCrkJdJuKlX0rr0p_CKYsGafFgNS-WK1Mz1_T8vGQOJYyxoGR6VRxUn3BHYr06sTt5qUYgIdxQ3IWvKjD4W8bkNEoUepajoRtzX6yhng9G0.bTyGHYCGCc17Vq6onupE8_T5cg-ImOWrVYQ0QPNNm4g&dib_tag=se&keywords=wireless+earbuds&qid=1789045798&sr=8-12",
+        "main_image": {
+          "id": "61PPiCaslSL",
+          "link": "https://m.media-amazon.com/images/I/61PPiCaslSL.jpg"
+        },
+        "position": 24,
+        "price": {
+          "currency": "USD",
+          "raw": "$19.99",
+          "symbol": "$",
+          "value": "19.99"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$19.99",
+            "symbol": "$",
+            "value": "19.99"
+          },
+          {
+            "currency": "USD",
+            "is_rrp": true,
+            "raw": "$259.99",
+            "symbol": "$",
+            "value": "259.99"
+          }
+        ],
+        "product_type": "HEADPHONES",
+        "rating": "5.0",
+        "rating_text": "5.0 out of 5 stars",
+        "ratings_total": 76,
+        "shipping_details": "Join Prime to get FREE delivery Today 5 PM - 10 PM on eligible ordersOr Non-members get FREE delivery Tue, Sep 15 on $35 of items shipped by Amazon",
+        "source_page": 1,
+        "title": "Wireless Earbuds, Bluetooth 5.4 Headphones HIFI Stereo/Crystal clear, White | Noise Cancelling Mic Ear buds with 50H Playback, LED Digital Display, IPX7 Waterproof Earphones for Office/Running/Workout"
+      },
+      {
+        "asin": "B0HGWXB9Y2",
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "color_options": {
+          "additional_count": 5,
+          "raw": "+5 other colors/patterns",
+          "total_count": 5
+        },
+        "image": "71r3BHOfqML",
+        "is_prime": true,
+        "is_sponsored": false,
+        "link": "/Wireless-Earbuds-Bluetooth-Stereo-Headphones/dp/B0HGWXB9Y2/ref=sr_1_13?dib=eyJ2IjoiMSJ9.ZPe8d2yAhEG7KQnYpH0clXHTekssmMa1rRjSl5uAt6LVsHfVHIVAJxwmf2-ICxLq4IfFVuNgkFaEdWKUakSTHkNdFZ_0ghQuLEVSCfvtX4SerJ3ap37ry0BJmZ4xodFJXCrkJdJuKlX0rr0p_CKYsGafFgNS-WK1Mz1_T8vGQOJYyxoGR6VRxUn3BHYr06sTt5qUYgIdxQ3IWvKjD4W8bkNEoUepajoRtzX6yhng9G0.bTyGHYCGCc17Vq6onupE8_T5cg-ImOWrVYQ0QPNNm4g&dib_tag=se&keywords=wireless+earbuds&qid=1789045798&sr=8-13",
+        "main_image": {
+          "id": "71r3BHOfqML",
+          "link": "https://m.media-amazon.com/images/I/71r3BHOfqML.jpg"
+        },
+        "position": 25,
+        "price": {
+          "currency": "USD",
+          "raw": "$9.99",
+          "symbol": "$",
+          "value": "9.99"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$9.99",
+            "symbol": "$",
+            "value": "9.99"
+          },
+          {
+            "currency": "USD",
+            "is_rrp": true,
+            "raw": "$36.99",
+            "symbol": "$",
+            "value": "36.99"
+          }
+        ],
+        "product_type": "HEADPHONES",
+        "rating": "4.8",
+        "rating_text": "4.8 out of 5 stars",
+        "ratings_total": 73,
+        "shipping_details": "Join Prime to get FREE delivery Today 5 PM - 10 PM on eligible ordersOr Non-members get FREE delivery Tue, Sep 15 on $35 of items shipped by Amazon",
+        "source_page": 1,
+        "title": "Wireless Earbuds Bluetooth 5.4 in Ear Earbuds HiFi Stereo Headphones, Black | 4 ENC Noise Cancelling Mic, 45H, LED Display, IP7 Waterproof Ear Buds for Android/iOS, Earphones for Phone Sports"
+      },
+      {
+        "asin": "B0CRTYZG5C",
+        "bought_activity": {
+          "period": "past month",
+          "raw": "10K+ bought in past month",
+          "symbol": "K",
+          "value": 10000
+        },
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "color_options": {
+          "total_count": 5
+        },
+        "image": "51HbL1WS+KL",
+        "is_prime": true,
+        "is_sponsored": false,
+        "link": "/Soundcore-Cancelling-Powerful-Playtime-Bluetooth/dp/B0CRTYZG5C/ref=sr_1_14?dib=eyJ2IjoiMSJ9.ZPe8d2yAhEG7KQnYpH0clXHTekssmMa1rRjSl5uAt6LVsHfVHIVAJxwmf2-ICxLq4IfFVuNgkFaEdWKUakSTHkNdFZ_0ghQuLEVSCfvtX4SerJ3ap37ry0BJmZ4xodFJXCrkJdJuKlX0rr0p_CKYsGafFgNS-WK1Mz1_T8vGQOJYyxoGR6VRxUn3BHYr06sTt5qUYgIdxQ3IWvKjD4W8bkNEoUepajoRtzX6yhng9G0.bTyGHYCGCc17Vq6onupE8_T5cg-ImOWrVYQ0QPNNm4g&dib_tag=se&keywords=wireless+earbuds&qid=1789045798&sr=8-14",
+        "main_image": {
+          "id": "51HbL1WS+KL",
+          "link": "https://m.media-amazon.com/images/I/51HbL1WS+KL.jpg"
+        },
+        "position": 26,
+        "price": {
+          "currency": "USD",
+          "raw": "$24.99",
+          "symbol": "$",
+          "value": "24.99"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$24.99",
+            "symbol": "$",
+            "value": "24.99"
+          },
+          {
+            "currency": "USD",
+            "is_rrp": true,
+            "raw": "$49.99",
+            "symbol": "$",
+            "value": "49.99"
+          }
+        ],
+        "product_type": "HEADPHONES",
+        "rating": "4.3",
+        "rating_text": "4.3 out of 5 stars",
+        "ratings_total": 41741,
+        "shipping_details": "Join Prime to get FREE delivery Today 2 PM - 6 PM on eligible ordersOr Non-members get FREE delivery Tue, Sep 15 on $35 of items shipped by Amazon",
+        "source_page": 1,
+        "title": "Soundcore P30i by Anker Noise Cancelling Earbuds, Hands-Free Viewing | Strong and Smart Noise Cancelling, Powerful Bass, 45H Playtime, 2-in-1 Case and Phone Stand, IP54, Bluetooth 5.4"
+      },
+      {
+        "asin": "B0BQPNMXQV",
+        "bought_activity": {
+          "period": "past month",
+          "raw": "10K+ bought in past month",
+          "symbol": "K",
+          "value": 10000
+        },
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "color_options": {
+          "total_count": 5
+        },
+        "image": "41+1Csr1pSL",
+        "is_prime": true,
+        "is_sponsored": false,
+        "link": "/JBL-Vibe-Beam-Wireless-Headphones/dp/B0BQPNMXQV/ref=sr_1_15?dib=eyJ2IjoiMSJ9.ZPe8d2yAhEG7KQnYpH0clXHTekssmMa1rRjSl5uAt6LVsHfVHIVAJxwmf2-ICxLq4IfFVuNgkFaEdWKUakSTHkNdFZ_0ghQuLEVSCfvtX4SerJ3ap37ry0BJmZ4xodFJXCrkJdJuKlX0rr0p_CKYsGafFgNS-WK1Mz1_T8vGQOJYyxoGR6VRxUn3BHYr06sTt5qUYgIdxQ3IWvKjD4W8bkNEoUepajoRtzX6yhng9G0.bTyGHYCGCc17Vq6onupE8_T5cg-ImOWrVYQ0QPNNm4g&dib_tag=se&keywords=wireless+earbuds&qid=1789045798&sr=8-15",
+        "main_image": {
+          "id": "41+1Csr1pSL",
+          "link": "https://m.media-amazon.com/images/I/41+1Csr1pSL.jpg"
+        },
+        "more_buying_choices": {
+          "link": "/gp/aod/ajax/ref=sr_1_15_aod?asin=B0BQPNMXQV&pc=sp&keywords=wireless+earbuds&dib_tag=se&dib=eyJ2IjoiMSJ9.ZPe8d2yAhEG7KQnYpH0clXHTekssmMa1rRjSl5uAt6LVsHfVHIVAJxwmf2-ICxLq4IfFVuNgkFaEdWKUakSTHkNdFZ_0ghQuLEVSCfvtX4SerJ3ap37ry0BJmZ4xodFJXCrkJdJuKlX0rr0p_CKYsGafFgNS-WK1Mz1_T8vGQOJYyxoGR6VRxUn3BHYr06sTt5qUYgIdxQ3IWvKjD4W8bkNEoUepajoRtzX6yhng9G0.bTyGHYCGCc17Vq6onupE8_T5cg-ImOWrVYQ0QPNNm4g&qid=1789045798&sr=8-15",
+          "min_offers_count": 3,
+          "price": {
+            "currency": "USD",
+            "raw": "$47.99",
+            "symbol": "$",
+            "value": "47.99"
+          },
+          "raw": "$47.99 (3+ used & new offers)"
+        },
+        "position": 27,
+        "price": {
+          "currency": "USD",
+          "raw": "$54.95",
+          "symbol": "$",
+          "value": "54.95"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$54.95",
+            "symbol": "$",
+            "value": "54.95"
+          }
+        ],
+        "product_type": "HEADPHONES",
+        "rating": "4.2",
+        "rating_text": "4.2 out of 5 stars",
+        "ratings_total": 40469,
+        "shipping_details": "Join Prime to get FREE delivery Today 2 PM - 6 PMOr Non-members get FREE delivery Tue, Sep 15",
+        "source_page": 1,
+        "title": "JBL Vibe Beam - True Wireless Earbuds - Black | JBL Deep Bass Sound, Comfortable fit, Up to 32 8h 24h total hours of battery life with speed charging"
+      },
+      {
+        "asin": "B0DCH8VDXF",
+        "bought_activity": {
+          "period": "past month",
+          "raw": "10K+ bought in past month",
+          "symbol": "K",
+          "value": 10000
+        },
+        "brand": null,
+        "categories": [
+          {
+            "id": "aps",
+            "name": "All Departments"
+          }
+        ],
+        "image": "513OSdW4elL",
+        "is_prime": true,
+        "is_sponsored": false,
+        "link": "/Apple-EarPods-Headphones-Built-Control/dp/B0DCH8VDXF/ref=sr_1_16?dib=eyJ2IjoiMSJ9.ZPe8d2yAhEG7KQnYpH0clXHTekssmMa1rRjSl5uAt6LVsHfVHIVAJxwmf2-ICxLq4IfFVuNgkFaEdWKUakSTHkNdFZ_0ghQuLEVSCfvtX4SerJ3ap37ry0BJmZ4xodFJXCrkJdJuKlX0rr0p_CKYsGafFgNS-WK1Mz1_T8vGQOJYyxoGR6VRxUn3BHYr06sTt5qUYgIdxQ3IWvKjD4W8bkNEoUepajoRtzX6yhng9G0.bTyGHYCGCc17Vq6onupE8_T5cg-ImOWrVYQ0QPNNm4g&dib_tag=se&keywords=wireless+earbuds&qid=1789045798&sr=8-16",
+        "main_image": {
+          "id": "513OSdW4elL",
+          "link": "https://m.media-amazon.com/images/I/513OSdW4elL.jpg"
+        },
+        "more_buying_choices": {
+          "link": "/gp/aod/ajax/ref=sr_1_16_aod?asin=B0DCH8VDXF&pc=sp&keywords=wireless+earbuds&dib_tag=se&dib=eyJ2IjoiMSJ9.ZPe8d2yAhEG7KQnYpH0clXHTekssmMa1rRjSl5uAt6LVsHfVHIVAJxwmf2-ICxLq4IfFVuNgkFaEdWKUakSTHkNdFZ_0ghQuLEVSCfvtX4SerJ3ap37ry0BJmZ4xodFJXCrkJdJuKlX0rr0p_CKYsGafFgNS-WK1Mz1_T8vGQOJYyxoGR6VRxUn3BHYr06sTt5qUYgIdxQ3IWvKjD4W8bkNEoUepajoRtzX6yhng9G0.bTyGHYCGCc17Vq6onupE8_T5cg-ImOWrVYQ0QPNNm4g&qid=1789045798&sr=8-16",
+          "min_offers_count": 4,
+          "price": {
+            "currency": "USD",
+            "raw": "$17.87",
+            "symbol": "$",
+            "value": "17.87"
+          },
+          "raw": "$17.87 (4+ used & new offers)"
+        },
+        "position": 28,
+        "price": {
+          "currency": "USD",
+          "raw": "$19.00",
+          "symbol": "$",
+          "value": "19.00"
+        },
+        "prices": [
+          {
+            "currency": "USD",
+            "raw": "$19.00",
+            "symbol": "$",
+            "value": "19.00"
+          }
+        ],
+        "rating": "4.5",
+        "rating_text": "4.5 out of 5 stars",
+        "ratings_total": 17687,
+        "shipping_details": "Join Prime to get FREE delivery Today 2 PM - 6 PM on eligible ordersOr Non-members get FREE delivery Tue, Sep 15 on $35 of items shipped by Amazon",
+        "source_page": 1,
+        "title": "Apple EarPods Headphones with USB-C Plug, Wired Ear Buds with Built-in Remote to Control Music, Phone Calls, and Volume"
+      }
+    ],
+    "refinements": {
+      "age_range": [
+        {
+          "heading_id": "p_n_feature_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_browse-bin%3A23549350011&dc&language=en_US&qid=1789045798&rnid=23549346011&ref=sr_nr_p_n_feature_browse-bin_1&ds=v1%3AsOV5zuf2GCM%2BECriN4%2FneVU961m7znf3IRWGHEhZKOM",
+          "name": "Kid",
+          "refinement_display_name": "Age Range",
+          "value": "p_n_feature_browse-bin:23549350011"
+        },
+        {
+          "heading_id": "p_n_feature_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_browse-bin%3A23549351011&dc&language=en_US&qid=1789045798&rnid=23549346011&ref=sr_nr_p_n_feature_browse-bin_2&ds=v1%3ApKa1Qw0V%2FYvGO8MCeMA%2FKxDg54K0PT3OW27YJ87Sqck",
+          "name": "Adult",
+          "refinement_display_name": "Age Range",
+          "value": "p_n_feature_browse-bin:23549351011"
+        },
+        {
+          "heading_id": "p_n_feature_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_browse-bin%3A88212678011&dc&language=en_US&qid=1789045798&rnid=23549346011&ref=sr_nr_p_n_feature_browse-bin_3&ds=v1%3AEg6eIfQggGgYxCRhneWakECNAGS9Ly2M9GDvm62izus",
+          "name": "Teen",
+          "refinement_display_name": "Age Range",
+          "value": "p_n_feature_browse-bin:88212678011"
+        }
+      ],
+      "audio_driver_size": [
+        {
+          "heading_id": "p_n_g-101015506109111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015506109111%3A122272120011&dc&language=en_US&qid=1789045798&rnid=122272098011&ref=sr_nr_p_n_g-101015506109111_1&ds=v1%3Ab0p338UlIymOHnbH0NDi5MiuSk3P9sfEwgZ3mjPlqTo",
+          "name": "3 in & above",
+          "refinement_display_name": "Audio Driver Size",
+          "value": "p_n_g-101015506109111:122272120011"
+        }
+      ],
+      "audio_driver_type": [
+        {
+          "heading_id": "p_n_g-101015499549111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015499549111%3A122268314011&dc&language=en_US&qid=1789045798&rnid=122268186011&ref=sr_nr_p_n_g-101015499549111_1&ds=v1%3A8SJAwGpMKGF3%2B7jCKFOe6T2GGOha%2B57edrqNOcnyYMQ",
+          "name": "Dynamic Driver",
+          "refinement_display_name": "Audio Driver Type",
+          "value": "p_n_g-101015499549111:122268314011"
+        },
+        {
+          "heading_id": "p_n_g-101015499549111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015499549111%3A122268312011&dc&language=en_US&qid=1789045798&rnid=122268186011&ref=sr_nr_p_n_g-101015499549111_2&ds=v1%3A7Y2eCQa3D7dC3Za9YpEBLNnRhY0mi3ow4Qvlc59nxtk",
+          "name": "Balanced Armature Driver",
+          "refinement_display_name": "Audio Driver Type",
+          "value": "p_n_g-101015499549111:122268312011"
+        },
+        {
+          "heading_id": "p_n_g-101015499549111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015499549111%3A122268313011&dc&language=en_US&qid=1789045798&rnid=122268186011&ref=sr_nr_p_n_g-101015499549111_3&ds=v1%3AswsKL0K2ngxTcwpNxhJ%2BaKW9ZO2yM6%2FLsc8P9n62ED4",
+          "name": "Hybrid Driver",
+          "refinement_display_name": "Audio Driver Type",
+          "value": "p_n_g-101015499549111:122268313011"
+        },
+        {
+          "heading_id": "p_n_g-101015499549111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015499549111%3A211954496011&dc&language=en_US&qid=1789045798&rnid=122268186011&ref=sr_nr_p_n_g-101015499549111_4&ds=v1%3AGZuZsIa2uPBtMgmDMV0aPFlP%2FQnazRfOLdhGm3OHwVA",
+          "name": "Bass Driver",
+          "refinement_display_name": "Audio Driver Type",
+          "value": "p_n_g-101015499549111:211954496011"
+        },
+        {
+          "heading_id": "p_n_g-101015499549111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015499549111%3A122268315011&dc&language=en_US&qid=1789045798&rnid=122268186011&ref=sr_nr_p_n_g-101015499549111_5&ds=v1%3AfIr5R8JC0yHXDrcJydgog0gkX8y9lpHaDNjCR92kWHQ",
+          "name": "Bone Conduction Driver",
+          "refinement_display_name": "Audio Driver Type",
+          "value": "p_n_g-101015499549111:122268315011"
+        },
+        {
+          "heading_id": "p_n_g-101015499549111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015499549111%3A211954499011&dc&language=en_US&qid=1789045798&rnid=122268186011&ref=sr_nr_p_n_g-101015499549111_6&ds=v1%3A8lVHKpveF5xbyLoxNkVS0q7GcMH38FnXtdU7uN82ty4",
+          "name": "Custom Driver",
+          "refinement_display_name": "Audio Driver Type",
+          "value": "p_n_g-101015499549111:211954499011"
+        },
+        {
+          "heading_id": "p_n_g-101015499549111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015499549111%3A211954500011&dc&language=en_US&qid=1789045798&rnid=122268186011&ref=sr_nr_p_n_g-101015499549111_7&ds=v1%3AJlVRQQWS522PT68zeOOvchAkrv3Y%2FXKy6KRNzubSnyY",
+          "name": "DLC Driver",
+          "refinement_display_name": "Audio Driver Type",
+          "value": "p_n_g-101015499549111:211954500011"
+        },
+        {
+          "heading_id": "p_n_g-101015499549111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015499549111%3A122268316011&dc&language=en_US&qid=1789045798&rnid=122268186011&ref=sr_nr_p_n_g-101015499549111_8&ds=v1%3AYTGl7UGe%2FZx8KY8pWOTBMr%2FLy27UEpYe8%2FG5U4XV%2B9U",
+          "name": "Electrostatic Driver",
+          "refinement_display_name": "Audio Driver Type",
+          "value": "p_n_g-101015499549111:122268316011"
+        },
+        {
+          "heading_id": "p_n_g-101015499549111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015499549111%3A211954497011&dc&language=en_US&qid=1789045798&rnid=122268186011&ref=sr_nr_p_n_g-101015499549111_9&ds=v1%3AMsNQ87W%2Fa5Wt4VHhJuABZIarv0Z9P7L7LpL8dQ2OQuo",
+          "name": "MEMS Driver",
+          "refinement_display_name": "Audio Driver Type",
+          "value": "p_n_g-101015499549111:211954497011"
+        },
+        {
+          "heading_id": "p_n_g-101015499549111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015499549111%3A122268311011&dc&language=en_US&qid=1789045798&rnid=122268186011&ref=sr_nr_p_n_g-101015499549111_10&ds=v1%3AYHA4C75CxULFmNfZwwbidwBl73IYdK6A%2BcJlMj%2BFxtc",
+          "name": "Piezoelectric Driver",
+          "refinement_display_name": "Audio Driver Type",
+          "value": "p_n_g-101015499549111:122268311011"
+        },
+        {
+          "heading_id": "p_n_g-101015499549111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015499549111%3A122268310011&dc&language=en_US&qid=1789045798&rnid=122268186011&ref=sr_nr_p_n_g-101015499549111_11&ds=v1%3A1v8FRONK7L9vnh7YJ%2FJCjxRvRdmMRnzhf16ahaLFJmA",
+          "name": "Planar Magnetic Driver",
+          "refinement_display_name": "Audio Driver Type",
+          "value": "p_n_g-101015499549111:122268310011"
+        }
+      ],
+      "audio_latency": [
+        {
+          "heading_id": "p_n_g-101015506076111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015506076111%3A122272124011&dc&language=en_US&qid=1789045798&rnid=122272099011&ref=sr_nr_p_n_g-101015506076111_1&ds=v1%3A%2Ftrgz9OVq3kkz9AdU2XQEUZI8IyLRsvbVIDFNw5ik60",
+          "name": "Up to 19 ms",
+          "refinement_display_name": "Audio Latency",
+          "value": "p_n_g-101015506076111:122272124011"
+        },
+        {
+          "heading_id": "p_n_g-101015506076111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015506076111%3A122272125011&dc&language=en_US&qid=1789045798&rnid=122272099011&ref=sr_nr_p_n_g-101015506076111_2&ds=v1%3ACd4%2Bb0bOKoztfF%2FyMp5VWnVd0khJSLsw5iCqDd68aVQ",
+          "name": "20 to 34 ms",
+          "refinement_display_name": "Audio Latency",
+          "value": "p_n_g-101015506076111:122272125011"
+        },
+        {
+          "heading_id": "p_n_g-101015506076111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015506076111%3A122272123011&dc&language=en_US&qid=1789045798&rnid=122272099011&ref=sr_nr_p_n_g-101015506076111_3&ds=v1%3ATyvJF3E6oxtTzMZLFN%2F2uzFOiIBlL2azzNEeS2tKOwo",
+          "name": "35 to 49 ms",
+          "refinement_display_name": "Audio Latency",
+          "value": "p_n_g-101015506076111:122272123011"
+        },
+        {
+          "heading_id": "p_n_g-101015506076111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015506076111%3A122272122011&dc&language=en_US&qid=1789045798&rnid=122272099011&ref=sr_nr_p_n_g-101015506076111_4&ds=v1%3A6Tu0yH5x0UYZHQnoVlrY9N8tdnJbo6VZjXVS%2BdFSm9c",
+          "name": "50 ms & above",
+          "refinement_display_name": "Audio Latency",
+          "value": "p_n_g-101015506076111:122272122011"
+        }
+      ],
+      "battery_charge_time": [
+        {
+          "heading_id": "p_n_g-101015490467111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015490467111%3A122265089011&dc&language=en_US&qid=1789045798&rnid=122265083011&ref=sr_nr_p_n_g-101015490467111_1&ds=v1%3A2Lf3YKXP3F38kt6WvoMXAA6ozfPVmx84sgIv9cpNH3w",
+          "name": "Up to 1 h",
+          "refinement_display_name": "Battery Charge Time",
+          "value": "p_n_g-101015490467111:122265089011"
+        },
+        {
+          "heading_id": "p_n_g-101015490467111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015490467111%3A122265086011&dc&language=en_US&qid=1789045798&rnid=122265083011&ref=sr_nr_p_n_g-101015490467111_2&ds=v1%3AsCp%2B8oGI%2FipSvlFMx6pgOPUnpgcI4G5x8%2FeELaFniHM",
+          "name": "1 to 1.9 h",
+          "refinement_display_name": "Battery Charge Time",
+          "value": "p_n_g-101015490467111:122265086011"
+        },
+        {
+          "heading_id": "p_n_g-101015490467111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015490467111%3A122265088011&dc&language=en_US&qid=1789045798&rnid=122265083011&ref=sr_nr_p_n_g-101015490467111_3&ds=v1%3AqihdGlpzDQmnyUJPxijhvoT%2BqhZKV2HCOYaP40al8jA",
+          "name": "2 to 2.9 h",
+          "refinement_display_name": "Battery Charge Time",
+          "value": "p_n_g-101015490467111:122265088011"
+        },
+        {
+          "heading_id": "p_n_g-101015490467111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015490467111%3A122265087011&dc&language=en_US&qid=1789045798&rnid=122265083011&ref=sr_nr_p_n_g-101015490467111_4&ds=v1%3AtfBx3wUHemaUjYrJ1nvvPUmcXPlBPekedCqHMXHsfGQ",
+          "name": "3 h & above",
+          "refinement_display_name": "Battery Charge Time",
+          "value": "p_n_g-101015490467111:122265087011"
+        }
+      ],
+      "battery_life": [
+        {
+          "heading_id": "p_n_g-101015499813111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015499813111%3A122268319011&dc&language=en_US&qid=1789045798&rnid=122268187011&ref=sr_nr_p_n_g-101015499813111_1&ds=v1%3AcF43b4tGDogmpndqvgOAYsqNOdeSaX9Prk%2BOaUUh1cI",
+          "name": "Up to 9 h",
+          "refinement_display_name": "Battery Life",
+          "value": "p_n_g-101015499813111:122268319011"
+        },
+        {
+          "heading_id": "p_n_g-101015499813111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015499813111%3A122268321011&dc&language=en_US&qid=1789045798&rnid=122268187011&ref=sr_nr_p_n_g-101015499813111_2&ds=v1%3AIJX7%2FX4fDEm07m6kg9c%2Bya%2FGgyWR%2Bj1gfwmGojiwCTE",
+          "name": "10 to 14 h",
+          "refinement_display_name": "Battery Life",
+          "value": "p_n_g-101015499813111:122268321011"
+        },
+        {
+          "heading_id": "p_n_g-101015499813111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015499813111%3A122268318011&dc&language=en_US&qid=1789045798&rnid=122268187011&ref=sr_nr_p_n_g-101015499813111_3&ds=v1%3A1yp%2F4JhYksVmZKCLakYfB7E7yN2Zuw%2BwJSWATGZFyVA",
+          "name": "15 to 19 h",
+          "refinement_display_name": "Battery Life",
+          "value": "p_n_g-101015499813111:122268318011"
+        },
+        {
+          "heading_id": "p_n_g-101015499813111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015499813111%3A122268320011&dc&language=en_US&qid=1789045798&rnid=122268187011&ref=sr_nr_p_n_g-101015499813111_4&ds=v1%3ArT1HLsB6yJQEd27pm41afnpxIQ1I1EEYqc88WXNG%2BQI",
+          "name": "20 to 24 h",
+          "refinement_display_name": "Battery Life",
+          "value": "p_n_g-101015499813111:122268320011"
+        },
+        {
+          "heading_id": "p_n_g-101015499813111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015499813111%3A122268317011&dc&language=en_US&qid=1789045798&rnid=122268187011&ref=sr_nr_p_n_g-101015499813111_5&ds=v1%3Ao%2F2BLwQlb1qacYPVrxdBQajA7U6O5HK621bOjZIx6eM",
+          "name": "25 h & above",
+          "refinement_display_name": "Battery Life",
+          "value": "p_n_g-101015499813111:122268317011"
+        }
+      ],
+      "brands": [
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A110955&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_1&ds=v1%3AghhbWhawVMA6oW4JPwZ%2BbxhjvOrH8fR4RwDz%2F5pr8JI",
+          "name": "Apple",
+          "refinement_display_name": "Brands",
+          "value": "p_123:110955"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A325772&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_2&ds=v1%3ACrHdWiqKFRljM5UZmb0GSC2gZqktN4Q86pUdtE00TUA",
+          "name": "Beats",
+          "refinement_display_name": "Brands",
+          "value": "p_123:325772"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A233043&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_3&ds=v1%3AjxhIjVMFgKBNf0PwJY61XjkGl2W6gv2pAwfzhHyLPB4",
+          "name": "JBL",
+          "refinement_display_name": "Brands",
+          "value": "p_123:233043"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A46655&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_4&ds=v1%3AnD5uQ8i1%2FXgDilCZoYr1rXByQcYNDdpS7T%2BEwa0KsoA",
+          "name": "Samsung",
+          "refinement_display_name": "Brands",
+          "value": "p_123:46655"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A264616&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_5&ds=v1%3AWsyGNeD3KizNhURc7hQrFTSNtgKfUvoGeCBuLSQmL1Y",
+          "name": "Bose",
+          "refinement_display_name": "Brands",
+          "value": "p_123:264616"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A237204&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_6&ds=v1%3ADNPtmrMW0Rr2ZkkUUGGS%2FWHXFEObx6aAb1HsiogcOkA",
+          "name": "Sony",
+          "refinement_display_name": "Brands",
+          "value": "p_123:237204"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A193772&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_7&ds=v1%3AsCnOIrKmymOJqpETueJq5UoZxKAV8%2BYeh5OrLSWjECI",
+          "name": "Skullcandy",
+          "refinement_display_name": "Brands",
+          "value": "p_123:193772"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A137850&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_8&ds=v1%3AHtlRHrBMF1buHtr5kZd6JcKi0Yo46pHpTUQZhp1NTiA",
+          "name": "TOZO",
+          "refinement_display_name": "Brands",
+          "value": "p_123:137850"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A106633&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_9&ds=v1%3Av2I6wviaVlDuanujMaLc8TdtKaQFBa911M8rImQvon4",
+          "name": "Jabra",
+          "refinement_display_name": "Brands",
+          "value": "p_123:106633"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A213748&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_10&ds=v1%3AMruhN4qG82CfLAZe75GbTljbHAWNctPZKKXYsq80GMI",
+          "name": "Sennheiser",
+          "refinement_display_name": "Brands",
+          "value": "p_123:213748"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A342635&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_11&ds=v1%3A%2FDJkusteHKY%2FDGq0YOv2kCVeOFYRmNGkG%2FoGKxe5T5I",
+          "name": "Raycon",
+          "refinement_display_name": "Brands",
+          "value": "p_123:342635"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A232931&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_12&ds=v1%3Aw39oVIVZYbqyrR2vLunKmEgcg7Kx9Lst3hIAMIDun9E",
+          "name": "Shure",
+          "refinement_display_name": "Brands",
+          "value": "p_123:232931"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A84029&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_13&ds=v1%3AiXtEh%2F8s2tumIMtPwnLWjanSJGScxXKIcS2DnOyGiuM",
+          "name": "SoundPEATS",
+          "refinement_display_name": "Brands",
+          "value": "p_123:84029"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A46658&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_14&ds=v1%3AzO6BvdVNaYSceTAw2wpvjpOyEpahtXu9rh5vUcz1xhw",
+          "name": "LG",
+          "refinement_display_name": "Brands",
+          "value": "p_123:46658"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A233917&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_15&ds=v1%3AwzoC4jZGGJE8Tcl%2FxKTlaTDlyeMGGJmJc96UdPjEs58",
+          "name": "Audio-Technica",
+          "refinement_display_name": "Brands",
+          "value": "p_123:233917"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A195698&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_16&ds=v1%3AF720AShtRfzyLFxkf7Q6P5%2FJr8fzs2kGGGt7OIqQb0g",
+          "name": "PHILIPS",
+          "refinement_display_name": "Brands",
+          "value": "p_123:195698"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A173204&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_17&ds=v1%3AtuGAK9nObuG%2BwQC1eYA3W1EMAkUKV%2Bf2%2FjMegHCeLWI",
+          "name": "Plantronics",
+          "refinement_display_name": "Brands",
+          "value": "p_123:173204"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A213704&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_18&ds=v1%3AdYchoQzMtUblxnDo9ET0V1lKRGpZjdk6kkaGL5UKqYI",
+          "name": "Logitech",
+          "refinement_display_name": "Brands",
+          "value": "p_123:213704"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A172342&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_19&ds=v1%3APFKG7%2FvEcYXdzUnFL9zeXrT8DS3QGo57XRd4hbJvAG8",
+          "name": "1MORE",
+          "refinement_display_name": "Brands",
+          "value": "p_123:172342"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A32374&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_20&ds=v1%3AxWdfiQB9kBtFzJ%2Fxbe1xu%2FMjuyGABAucZFF804hofAM",
+          "name": "HUAWEI",
+          "refinement_display_name": "Brands",
+          "value": "p_123:32374"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A688538&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_21&ds=v1%3ADiPNXcXZUlDaEqEz18NyeRjIAt7GzAtZ4Nwtz0tYojM",
+          "name": "Tribit",
+          "refinement_display_name": "Brands",
+          "value": "p_123:688538"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A146762&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_22&ds=v1%3ACXiEENjegAjBGweqrKeHq3gguS5Gi2%2FQkL9BEDeAz30",
+          "name": "Motorola",
+          "refinement_display_name": "Brands",
+          "value": "p_123:146762"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A254407&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_23&ds=v1%3Ajvhp%2BDPHj1nJQHQAHEZmESySweF09AJnvIcFHt7Qb5Q",
+          "name": "Panasonic",
+          "refinement_display_name": "Brands",
+          "value": "p_123:254407"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A248686&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_24&ds=v1%3AmW2DjyCTvsH5XkCNpKhOFw%2FdVJalJFQTmLwrTaU6Rok",
+          "name": "Edifier",
+          "refinement_display_name": "Brands",
+          "value": "p_123:248686"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A253649&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_25&ds=v1%3A7D4%2FKpCGSF4L1poO8yd8%2BvFZHfBLRglKZ1ygO36lXMk",
+          "name": "OnePlus",
+          "refinement_display_name": "Brands",
+          "value": "p_123:253649"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A220854&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_26&ds=v1%3AtaL5D%2B4O4upjoXPEbv6A5jWOUnhVhHWNZwF57VtE%2BgE",
+          "name": "Razer",
+          "refinement_display_name": "Brands",
+          "value": "p_123:220854"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A251043&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_27&ds=v1%3ANdvkpzjT7MAUPrU6GFTtczzukVZT%2FM1O4BmnEEafn8g",
+          "name": "Bowers & Wilkins",
+          "refinement_display_name": "Brands",
+          "value": "p_123:251043"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A256864&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_28&ds=v1%3AqV6P3Bx3NBcCEFZ9SkhQdbRzcMnGfn4nm8RkyX4HI4U",
+          "name": "QCY",
+          "refinement_display_name": "Brands",
+          "value": "p_123:256864"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A541275&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_29&ds=v1%3AEBJZVNPAll1LtUaxvFpUP%2Bd34AYBRMMGj3AcZhY7x04",
+          "name": "EarFun",
+          "refinement_display_name": "Brands",
+          "value": "p_123:541275"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A515253&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_30&ds=v1%3AKNAja1%2F7druG6wJ04jLMuHK1B9W7j47kPQFUKP8HhDY",
+          "name": "Moondrop",
+          "refinement_display_name": "Brands",
+          "value": "p_123:515253"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A142132&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_31&ds=v1%3Aa%2BEUK2MrwmzPb3WCgS2B%2BAUEjoFSjRQd%2BdExTPF%2BQyo",
+          "name": "TREBLAB",
+          "refinement_display_name": "Brands",
+          "value": "p_123:142132"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A6037502&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_32&ds=v1%3AwwL%2BM9CpImxaw86M1%2FW1mD1EVIpvL%2F9e9Re7lRREI68",
+          "name": "HyperX",
+          "refinement_display_name": "Brands",
+          "value": "p_123:6037502"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A568349&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_33&ds=v1%3AfRg4ttvdvtFMydB7XgakI8fKaGNrAERMBov7MR3zcrs",
+          "name": "realme",
+          "refinement_display_name": "Brands",
+          "value": "p_123:568349"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A243500&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_34&ds=v1%3A8wW2iHsd0eelw7%2BYol50Z%2BNue%2F%2B1vW5ZdwnqMs%2Bqsyg",
+          "name": "Marley",
+          "refinement_display_name": "Brands",
+          "value": "p_123:243500"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A122447&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_35&ds=v1%3AsuQL0TEB2fw88GA6oRWE8FcGYWicn47kUH8aXyec%2FAE",
+          "name": "FiiO",
+          "refinement_display_name": "Brands",
+          "value": "p_123:122447"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A38839&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_36&ds=v1%3ASV%2B%2Fu0ETJ6TMfn%2FBBRoaMuL%2Fe6Nl6fv%2FOR3ASXz4QRs",
+          "name": "Avantree",
+          "refinement_display_name": "Brands",
+          "value": "p_123:38839"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A213705&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_37&ds=v1%3A%2BQ60tviA%2BNYFc8D0nkivNuTAsCTTIOhu5Y9JeU8eie8",
+          "name": "Ultimate Ears",
+          "refinement_display_name": "Brands",
+          "value": "p_123:213705"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A306976&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_38&ds=v1%3A0cdUm7FsUiWOLuwwbWOLZul7gO72V0Q49QOahfq4DMY",
+          "name": "Yamaha",
+          "refinement_display_name": "Brands",
+          "value": "p_123:306976"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A324795&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_39&ds=v1%3A2%2Bg4yMIS1mqGNoZN2eBBTqRvWznTe54fItmJ8%2BSOwWE",
+          "name": "Soundcore",
+          "refinement_display_name": "Brands",
+          "value": "p_123:324795"
+        },
+        {
+          "heading_id": "p_123-title",
+          "link": "/s?k=wireless+earbuds&rh=p_123%3A210277&dc&language=en_US&qid=1789045798&rnid=85457740011&ref=sr_nr_p_123_40&ds=v1%3AuG2ILMQVqrfRJlFSp93%2B6EHpOGVnxsJLB7FlnM6YRaI",
+          "name": "HIFIMAN",
+          "refinement_display_name": "Brands",
+          "value": "p_123:210277"
+        }
+      ],
+      "cable_feature": [
+        {
+          "heading_id": "p_n_g-1003285868111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003285868111%3A221255236011&dc&language=en_US&qid=1789045798&rnid=23942843011&ref=sr_nr_p_n_g-1003285868111_1&ds=v1%3AI5ubWcSRGBwhFLjjNZhPP8cD11qGtzzQbFkZo5XBl1Q",
+          "name": "Braided",
+          "refinement_display_name": "Cable Feature",
+          "value": "p_n_g-1003285868111:221255236011"
+        },
+        {
+          "heading_id": "p_n_g-1003285868111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003285868111%3A23942863011&dc&language=en_US&qid=1789045798&rnid=23942843011&ref=sr_nr_p_n_g-1003285868111_2&ds=v1%3Aa%2BSyJvVvcSvjmMBfs601WqGEKfW%2F29wM0DRNqDH7ZaA",
+          "name": "Detachable",
+          "refinement_display_name": "Cable Feature",
+          "value": "p_n_g-1003285868111:23942863011"
+        },
+        {
+          "heading_id": "p_n_g-1003285868111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003285868111%3A23942865011&dc&language=en_US&qid=1789045798&rnid=23942843011&ref=sr_nr_p_n_g-1003285868111_3&ds=v1%3AZAj8iNa%2BFrqbBhmuKCpBN3v36SHxDRF4N%2FSCtbe%2BLow",
+          "name": "Retractable",
+          "refinement_display_name": "Cable Feature",
+          "value": "p_n_g-1003285868111:23942865011"
+        },
+        {
+          "heading_id": "p_n_g-1003285868111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003285868111%3A23942864011&dc&language=en_US&qid=1789045798&rnid=23942843011&ref=sr_nr_p_n_g-1003285868111_4&ds=v1%3ABC8t7wRjx0TDQ7S5XV7S22fqVylqfCFMqZP1DSg%2FFTo",
+          "name": "Tangle Free",
+          "refinement_display_name": "Cable Feature",
+          "value": "p_n_g-1003285868111:23942864011"
+        },
+        {
+          "heading_id": "p_n_g-1003285868111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003285868111%3A23942866011&dc&language=en_US&qid=1789045798&rnid=23942843011&ref=sr_nr_p_n_g-1003285868111_5&ds=v1%3AdDCrR9rFMekdZDY0h0mEV9h5IxThTxqduMfyTWWJ5J4",
+          "name": "Without Cable",
+          "refinement_display_name": "Cable Feature",
+          "value": "p_n_g-1003285868111:23942866011"
+        }
+      ],
+      "carrying_case_color": [
+        {
+          "heading_id": "p_n_g-101015500219111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015500219111%3A122269856011&dc&language=en_US&qid=1789045798&rnid=122269793011&ref=sr_nr_p_n_g-101015500219111_1&ds=v1%3A%2FKyOJOmxg645f0R7u1mqXpba%2Fr3j5GAfgyVRgRTbVVY",
+          "name": "Black",
+          "refinement_display_name": "Carrying Case Color",
+          "value": "p_n_g-101015500219111:122269856011"
+        },
+        {
+          "heading_id": "p_n_g-101015500219111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015500219111%3A122269858011&dc&language=en_US&qid=1789045798&rnid=122269793011&ref=sr_nr_p_n_g-101015500219111_2&ds=v1%3A1vJDrUM%2BN46Jpcx3A8WvoaoLV6h%2FYkKypS%2FKeGGfB94",
+          "name": "White",
+          "refinement_display_name": "Carrying Case Color",
+          "value": "p_n_g-101015500219111:122269858011"
+        },
+        {
+          "heading_id": "p_n_g-101015500219111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015500219111%3A122269855011&dc&language=en_US&qid=1789045798&rnid=122269793011&ref=sr_nr_p_n_g-101015500219111_3&ds=v1%3AHzyLlsNBuaEOMVCXa7zYUwY3OcYAem6%2BwTebTn9SvDM",
+          "name": "Blue",
+          "refinement_display_name": "Carrying Case Color",
+          "value": "p_n_g-101015500219111:122269855011"
+        },
+        {
+          "heading_id": "p_n_g-101015500219111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015500219111%3A122269853011&dc&language=en_US&qid=1789045798&rnid=122269793011&ref=sr_nr_p_n_g-101015500219111_4&ds=v1%3AFkWiuMqnDFx6HnIEayyZAc%2B3cgLuRjrdvNUJ%2F%2F4CULI",
+          "name": "Beige",
+          "refinement_display_name": "Carrying Case Color",
+          "value": "p_n_g-101015500219111:122269853011"
+        },
+        {
+          "heading_id": "p_n_g-101015500219111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015500219111%3A122269862011&dc&language=en_US&qid=1789045798&rnid=122269793011&ref=sr_nr_p_n_g-101015500219111_5&ds=v1%3Ak4PeCBIXfZRKMCgl%2B00ijcbsukKefSYK9G1zJ%2F8BTGo",
+          "name": "Clear",
+          "refinement_display_name": "Carrying Case Color",
+          "value": "p_n_g-101015500219111:122269862011"
+        },
+        {
+          "heading_id": "p_n_g-101015500219111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015500219111%3A122269863011&dc&language=en_US&qid=1789045798&rnid=122269793011&ref=sr_nr_p_n_g-101015500219111_6&ds=v1%3AwtfVu2ScrNcxvTaKDHVkgUF4I%2BbfdkH8IyWOShnp%2FrU",
+          "name": "Gold",
+          "refinement_display_name": "Carrying Case Color",
+          "value": "p_n_g-101015500219111:122269863011"
+        },
+        {
+          "heading_id": "p_n_g-101015500219111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015500219111%3A122269860011&dc&language=en_US&qid=1789045798&rnid=122269793011&ref=sr_nr_p_n_g-101015500219111_7&ds=v1%3ALxpTiiN6vwFVZiZIBUf9FHtkcVaGGycXUmbMPJpk8LY",
+          "name": "Green",
+          "refinement_display_name": "Carrying Case Color",
+          "value": "p_n_g-101015500219111:122269860011"
+        },
+        {
+          "heading_id": "p_n_g-101015500219111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015500219111%3A122269864011&dc&language=en_US&qid=1789045798&rnid=122269793011&ref=sr_nr_p_n_g-101015500219111_8&ds=v1%3AvzqF6yNAYKvkAtd69jqPSQbBo%2BaEo114ldk4Voj2Zb0",
+          "name": "Grey",
+          "refinement_display_name": "Carrying Case Color",
+          "value": "p_n_g-101015500219111:122269864011"
+        },
+        {
+          "heading_id": "p_n_g-101015500219111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015500219111%3A122269854011&dc&language=en_US&qid=1789045798&rnid=122269793011&ref=sr_nr_p_n_g-101015500219111_9&ds=v1%3AEnaZIEsT0M2MvuT5uETlBlANHuAISm9T%2BJSCEg80lx8",
+          "name": "Off White",
+          "refinement_display_name": "Carrying Case Color",
+          "value": "p_n_g-101015500219111:122269854011"
+        },
+        {
+          "heading_id": "p_n_g-101015500219111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015500219111%3A122269848011&dc&language=en_US&qid=1789045798&rnid=122269793011&ref=sr_nr_p_n_g-101015500219111_10&ds=v1%3AC2EMZ5QbMiWQUrDoejjuc700F99BASb%2BHBkER%2BsShzU",
+          "name": "Orange",
+          "refinement_display_name": "Carrying Case Color",
+          "value": "p_n_g-101015500219111:122269848011"
+        },
+        {
+          "heading_id": "p_n_g-101015500219111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015500219111%3A122269850011&dc&language=en_US&qid=1789045798&rnid=122269793011&ref=sr_nr_p_n_g-101015500219111_11&ds=v1%3ArqxeLlr8WJnxWG1u%2BEFZbOWt4CWH%2FxhijOzznJkgRGk",
+          "name": "Pink",
+          "refinement_display_name": "Carrying Case Color",
+          "value": "p_n_g-101015500219111:122269850011"
+        },
+        {
+          "heading_id": "p_n_g-101015500219111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015500219111%3A122269849011&dc&language=en_US&qid=1789045798&rnid=122269793011&ref=sr_nr_p_n_g-101015500219111_12&ds=v1%3ARbFLX6kazbqu4XUuiYHg5AR4YTjt%2Bq%2FDzJk8nnoivrI",
+          "name": "Purple",
+          "refinement_display_name": "Carrying Case Color",
+          "value": "p_n_g-101015500219111:122269849011"
+        },
+        {
+          "heading_id": "p_n_g-101015500219111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015500219111%3A122269846011&dc&language=en_US&qid=1789045798&rnid=122269793011&ref=sr_nr_p_n_g-101015500219111_13&ds=v1%3AfAj0%2FYOUsheG476du4y9CsJgEl3OVKMP1qXNqGOLSC8",
+          "name": "Red",
+          "refinement_display_name": "Carrying Case Color",
+          "value": "p_n_g-101015500219111:122269846011"
+        },
+        {
+          "heading_id": "p_n_g-101015500219111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015500219111%3A122269847011&dc&language=en_US&qid=1789045798&rnid=122269793011&ref=sr_nr_p_n_g-101015500219111_14&ds=v1%3ApFoAODiTmDpb9WI5na8GirbiAxnvAxoCF7vS%2Fyc0QH0",
+          "name": "Silver",
+          "refinement_display_name": "Carrying Case Color",
+          "value": "p_n_g-101015500219111:122269847011"
+        },
+        {
+          "heading_id": "p_n_g-101015500219111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015500219111%3A122269865011&dc&language=en_US&qid=1789045798&rnid=122269793011&ref=sr_nr_p_n_g-101015500219111_15&ds=v1%3A9d%2FYY1w38Vqo6v8xianE1tE8zr0jTTBR%2Fm%2FUds9%2Btgo",
+          "name": "Yellow",
+          "refinement_display_name": "Carrying Case Color",
+          "value": "p_n_g-101015500219111:122269865011"
+        }
+      ],
+      "carrying_case_material": [
+        {
+          "heading_id": "p_n_g-101015500290111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015500290111%3A122269835011&dc&language=en_US&qid=1789045798&rnid=122269792011&ref=sr_nr_p_n_g-101015500290111_1&ds=v1%3AUi%2FOvr7wQZzuSL72EJ%2F1Sw%2BSQpdGaHNPYaxHCS%2FjZYI",
+          "name": "Plastic",
+          "refinement_display_name": "Carrying Case Material",
+          "value": "p_n_g-101015500290111:122269835011"
+        },
+        {
+          "heading_id": "p_n_g-101015500290111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015500290111%3A122269832011&dc&language=en_US&qid=1789045798&rnid=122269792011&ref=sr_nr_p_n_g-101015500290111_2&ds=v1%3AGhiuTPvUkzyFIFqlNS7ld%2BSHiW6xIOG8tJxbJ1VqfGc",
+          "name": "Nylon",
+          "refinement_display_name": "Carrying Case Material",
+          "value": "p_n_g-101015500290111:122269832011"
+        },
+        {
+          "heading_id": "p_n_g-101015500290111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015500290111%3A122269844011&dc&language=en_US&qid=1789045798&rnid=122269792011&ref=sr_nr_p_n_g-101015500290111_3&ds=v1%3AXDviEp9Lwl8cZcJ9wdHdtUBvIl7hF2L%2F80vvrIHU8Y8",
+          "name": "Silicone",
+          "refinement_display_name": "Carrying Case Material",
+          "value": "p_n_g-101015500290111:122269844011"
+        },
+        {
+          "heading_id": "p_n_g-101015500290111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015500290111%3A122269826011&dc&language=en_US&qid=1789045798&rnid=122269792011&ref=sr_nr_p_n_g-101015500290111_4&ds=v1%3AXO4GQllnJzO5ascHOxkM2FIjTspr0qPQtbUcPhWQa8M",
+          "name": "Aluminum",
+          "refinement_display_name": "Carrying Case Material",
+          "value": "p_n_g-101015500290111:122269826011"
+        },
+        {
+          "heading_id": "p_n_g-101015500290111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015500290111%3A122269831011&dc&language=en_US&qid=1789045798&rnid=122269792011&ref=sr_nr_p_n_g-101015500290111_5&ds=v1%3AIVlzVl8h2Wps%2FJvbr5Bh5ZQxYX7YRJY6EH%2B%2FL6X47vE",
+          "name": "Cardboard",
+          "refinement_display_name": "Carrying Case Material",
+          "value": "p_n_g-101015500290111:122269831011"
+        },
+        {
+          "heading_id": "p_n_g-101015500290111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015500290111%3A122269842011&dc&language=en_US&qid=1789045798&rnid=122269792011&ref=sr_nr_p_n_g-101015500290111_6&ds=v1%3Au%2BYfUfn7RjxPnDXpcZpfcmOaHbTEDWnsv2iyR1ca1r8",
+          "name": "Fabric",
+          "refinement_display_name": "Carrying Case Material",
+          "value": "p_n_g-101015500290111:122269842011"
+        },
+        {
+          "heading_id": "p_n_g-101015500290111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015500290111%3A122269834011&dc&language=en_US&qid=1789045798&rnid=122269792011&ref=sr_nr_p_n_g-101015500290111_7&ds=v1%3AdqLDc9kr8DrVEHvlCXFILekHW0VnxUyHN5ZKsVqeuWw",
+          "name": "Faux Leather",
+          "refinement_display_name": "Carrying Case Material",
+          "value": "p_n_g-101015500290111:122269834011"
+        },
+        {
+          "heading_id": "p_n_g-101015500290111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015500290111%3A122269830011&dc&language=en_US&qid=1789045798&rnid=122269792011&ref=sr_nr_p_n_g-101015500290111_8&ds=v1%3AJjBgif6TcGHeRUyvaoPoT79y%2BwaDAbuOO67wTXWDfpg",
+          "name": "Leather",
+          "refinement_display_name": "Carrying Case Material",
+          "value": "p_n_g-101015500290111:122269830011"
+        },
+        {
+          "heading_id": "p_n_g-101015500290111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015500290111%3A122269838011&dc&language=en_US&qid=1789045798&rnid=122269792011&ref=sr_nr_p_n_g-101015500290111_9&ds=v1%3AeMtS0bktMp2yXTZTbAPJ%2BflcW76HFpFYYDixz9LcwxU",
+          "name": "Metal",
+          "refinement_display_name": "Carrying Case Material",
+          "value": "p_n_g-101015500290111:122269838011"
+        },
+        {
+          "heading_id": "p_n_g-101015500290111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015500290111%3A122269845011&dc&language=en_US&qid=1789045798&rnid=122269792011&ref=sr_nr_p_n_g-101015500290111_10&ds=v1%3AcPkAW4IOIr%2FhbVNa2x%2FfdPmzlzVtN%2FgY5Uf07W5VGG8",
+          "name": "Polypropylene",
+          "refinement_display_name": "Carrying Case Material",
+          "value": "p_n_g-101015500290111:122269845011"
+        }
+      ],
+      "color": [
+        {
+          "heading_id": "p_n_feature_twenty-nine_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_twenty-nine_browse-bin%3A204376047011&dc&language=en_US&qid=1789045798&rnid=204376039011&ref=sr_nr_p_n_feature_twenty-nine_browse-bin_1&ds=v1%3AKaoBfAcci18gRRsqSsr7QQ4wfHFpQYda01TwgHDWfeU",
+          "name": "Black",
+          "refinement_display_name": "Color",
+          "value": "p_n_feature_twenty-nine_browse-bin:204376047011"
+        },
+        {
+          "heading_id": "p_n_feature_twenty-nine_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_twenty-nine_browse-bin%3A204376042011&dc&language=en_US&qid=1789045798&rnid=204376039011&ref=sr_nr_p_n_feature_twenty-nine_browse-bin_2&ds=v1%3AhoFAQ1jRHhn8v2w4qiJASmoPwlVWSNoBOAC6ebZzpcM",
+          "name": "Grey",
+          "refinement_display_name": "Color",
+          "value": "p_n_feature_twenty-nine_browse-bin:204376042011"
+        },
+        {
+          "heading_id": "p_n_feature_twenty-nine_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_twenty-nine_browse-bin%3A204376052011&dc&language=en_US&qid=1789045798&rnid=204376039011&ref=sr_nr_p_n_feature_twenty-nine_browse-bin_3&ds=v1%3A92jM0VRp%2BLqDIMeYbifhuTDPtVclAtFhwCpYKSwix9I",
+          "name": "White",
+          "refinement_display_name": "Color",
+          "value": "p_n_feature_twenty-nine_browse-bin:204376052011"
+        },
+        {
+          "heading_id": "p_n_feature_twenty-nine_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_twenty-nine_browse-bin%3A204376049011&dc&language=en_US&qid=1789045798&rnid=204376039011&ref=sr_nr_p_n_feature_twenty-nine_browse-bin_4&ds=v1%3A7c6GQ9HVDGwW5OLv9ZV1PsjrmExQ63AgFiyd1uQqp3U",
+          "name": "Brown",
+          "refinement_display_name": "Color",
+          "value": "p_n_feature_twenty-nine_browse-bin:204376049011"
+        },
+        {
+          "heading_id": "p_n_feature_twenty-nine_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_twenty-nine_browse-bin%3A204376050011&dc&language=en_US&qid=1789045798&rnid=204376039011&ref=sr_nr_p_n_feature_twenty-nine_browse-bin_5&ds=v1%3Am%2B0c1cyWZ8Mv%2Fse2A5Cz5Y8zPgTT3raZQvEcFxiJAd0",
+          "name": "Beige",
+          "refinement_display_name": "Color",
+          "value": "p_n_feature_twenty-nine_browse-bin:204376050011"
+        },
+        {
+          "heading_id": "p_n_feature_twenty-nine_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_twenty-nine_browse-bin%3A204376043011&dc&language=en_US&qid=1789045798&rnid=204376039011&ref=sr_nr_p_n_feature_twenty-nine_browse-bin_6&ds=v1%3AWNPuAsmxq3wB2vKyZhX8G6jGQgEjByM4S2bY5DhH5e0",
+          "name": "Red",
+          "refinement_display_name": "Color",
+          "value": "p_n_feature_twenty-nine_browse-bin:204376043011"
+        },
+        {
+          "heading_id": "p_n_feature_twenty-nine_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_twenty-nine_browse-bin%3A204376057011&dc&language=en_US&qid=1789045798&rnid=204376039011&ref=sr_nr_p_n_feature_twenty-nine_browse-bin_7&ds=v1%3Abbny%2FHBteb62AL5O%2FzoPdQKUqQo8pFqv%2FeJdA9Lvf%2F4",
+          "name": "Pink",
+          "refinement_display_name": "Color",
+          "value": "p_n_feature_twenty-nine_browse-bin:204376057011"
+        },
+        {
+          "heading_id": "p_n_feature_twenty-nine_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_twenty-nine_browse-bin%3A204376044011&dc&language=en_US&qid=1789045798&rnid=204376039011&ref=sr_nr_p_n_feature_twenty-nine_browse-bin_8&ds=v1%3AL6QQ5fuSEo5anzyx6d%2FS2qJ%2BRU%2FpPbZObmYCMsySG%2FY",
+          "name": "Orange",
+          "refinement_display_name": "Color",
+          "value": "p_n_feature_twenty-nine_browse-bin:204376044011"
+        },
+        {
+          "heading_id": "p_n_feature_twenty-nine_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_twenty-nine_browse-bin%3A204376055011&dc&language=en_US&qid=1789045798&rnid=204376039011&ref=sr_nr_p_n_feature_twenty-nine_browse-bin_9&ds=v1%3A6wHXCSzWAFJvydSvUitfxXdR8DwVPUC%2BcrA91Kmw2hA",
+          "name": "Yellow",
+          "refinement_display_name": "Color",
+          "value": "p_n_feature_twenty-nine_browse-bin:204376055011"
+        },
+        {
+          "heading_id": "p_n_feature_twenty-nine_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_twenty-nine_browse-bin%3A204376056011&dc&language=en_US&qid=1789045798&rnid=204376039011&ref=sr_nr_p_n_feature_twenty-nine_browse-bin_10&ds=v1%3AuVfJYB4LJi%2FNdBPQ3%2F3%2BWHfRBvhzpmuL0r%2FhnMCe4ZY",
+          "name": "Ivory",
+          "refinement_display_name": "Color",
+          "value": "p_n_feature_twenty-nine_browse-bin:204376056011"
+        },
+        {
+          "heading_id": "p_n_feature_twenty-nine_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_twenty-nine_browse-bin%3A204376051011&dc&language=en_US&qid=1789045798&rnid=204376039011&ref=sr_nr_p_n_feature_twenty-nine_browse-bin_11&ds=v1%3AzSxKEBTC3Pad2gupl0kcD7dsVHGCHLAAw96az%2FoO9XQ",
+          "name": "Green",
+          "refinement_display_name": "Color",
+          "value": "p_n_feature_twenty-nine_browse-bin:204376051011"
+        },
+        {
+          "heading_id": "p_n_feature_twenty-nine_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_twenty-nine_browse-bin%3A204376048011&dc&language=en_US&qid=1789045798&rnid=204376039011&ref=sr_nr_p_n_feature_twenty-nine_browse-bin_12&ds=v1%3AwuiYznxLoC6wFMqzi6IBbVBz7p2ucE7n3xtHBHyO8So",
+          "name": "Blue",
+          "refinement_display_name": "Color",
+          "value": "p_n_feature_twenty-nine_browse-bin:204376048011"
+        },
+        {
+          "heading_id": "p_n_feature_twenty-nine_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_twenty-nine_browse-bin%3A204376054011&dc&language=en_US&qid=1789045798&rnid=204376039011&ref=sr_nr_p_n_feature_twenty-nine_browse-bin_13&ds=v1%3AD7RYEqX9EKQ9lkNARYWuoi89bREw4cxLFgtfvZ1lFG0",
+          "name": "Purple",
+          "refinement_display_name": "Color",
+          "value": "p_n_feature_twenty-nine_browse-bin:204376054011"
+        },
+        {
+          "heading_id": "p_n_feature_twenty-nine_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_twenty-nine_browse-bin%3A204376041011&dc&language=en_US&qid=1789045798&rnid=204376039011&ref=sr_nr_p_n_feature_twenty-nine_browse-bin_14&ds=v1%3AsQ44SrDzPzQgf8gQ9eFrislF7ExlYBiHLgguMO6rlyU",
+          "name": "Gold",
+          "refinement_display_name": "Color",
+          "value": "p_n_feature_twenty-nine_browse-bin:204376041011"
+        },
+        {
+          "heading_id": "p_n_feature_twenty-nine_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_twenty-nine_browse-bin%3A204376053011&dc&language=en_US&qid=1789045798&rnid=204376039011&ref=sr_nr_p_n_feature_twenty-nine_browse-bin_15&ds=v1%3Adc2EZIOqsJfbshUYCmj9idgCK%2F2az%2BxCUh2XVZvcD9k",
+          "name": "Silver",
+          "refinement_display_name": "Color",
+          "value": "p_n_feature_twenty-nine_browse-bin:204376053011"
+        },
+        {
+          "heading_id": "p_n_feature_twenty-nine_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_twenty-nine_browse-bin%3A204376045011&dc&language=en_US&qid=1789045798&rnid=204376039011&ref=sr_nr_p_n_feature_twenty-nine_browse-bin_16&ds=v1%3Ax6NhVHwDxZ37EdHObQIDZ5xFl%2BOIKYAiiheylL69BvA",
+          "name": "Multi",
+          "refinement_display_name": "Color",
+          "value": "p_n_feature_twenty-nine_browse-bin:204376045011"
+        },
+        {
+          "heading_id": "p_n_feature_twenty-nine_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_twenty-nine_browse-bin%3A204376046011&dc&language=en_US&qid=1789045798&rnid=204376039011&ref=sr_nr_p_n_feature_twenty-nine_browse-bin_17&ds=v1%3AuBEjNwV3TSzt9ERGPGQPRtiWFutnstsgUEmYZZCxPII",
+          "name": "Clear",
+          "refinement_display_name": "Color",
+          "value": "p_n_feature_twenty-nine_browse-bin:204376046011"
+        }
+      ],
+      "compatible_devices": [
+        {
+          "heading_id": "p_n_g-1003341941111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003341941111%3A24003431011&dc&language=en_US&qid=1789045798&rnid=24003299011&ref=sr_nr_p_n_g-1003341941111_1&ds=v1%3A%2BwiX42nWItMIKKvdQV60aMtWXsBr1w9TSZyNkfJiKNo",
+          "name": "Cellphones",
+          "refinement_display_name": "Compatible Devices",
+          "value": "p_n_g-1003341941111:24003431011"
+        },
+        {
+          "heading_id": "p_n_g-1003341941111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003341941111%3A24003427011&dc&language=en_US&qid=1789045798&rnid=24003299011&ref=sr_nr_p_n_g-1003341941111_2&ds=v1%3ASKI0MbfOSFtpoj%2B%2FQl6tctze8SijiLYX29vuJLCQOo0",
+          "name": "Laptops",
+          "refinement_display_name": "Compatible Devices",
+          "value": "p_n_g-1003341941111:24003427011"
+        },
+        {
+          "heading_id": "p_n_g-1003341941111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003341941111%3A24003432011&dc&language=en_US&qid=1789045798&rnid=24003299011&ref=sr_nr_p_n_g-1003341941111_3&ds=v1%3APsBjgLQdZBvqagbIIZH8vGRTSfn3AvfQrvAj9iwMcME",
+          "name": "Tablets",
+          "refinement_display_name": "Compatible Devices",
+          "value": "p_n_g-1003341941111:24003432011"
+        },
+        {
+          "heading_id": "p_n_g-1003341941111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003341941111%3A24003429011&dc&language=en_US&qid=1789045798&rnid=24003299011&ref=sr_nr_p_n_g-1003341941111_4&ds=v1%3Aiiy1%2BP0W%2BKKuKJfTBRwHVhqiciF6cPKVJ1RUyaD8Qos",
+          "name": "Car Audio Systems",
+          "refinement_display_name": "Compatible Devices",
+          "value": "p_n_g-1003341941111:24003429011"
+        },
+        {
+          "heading_id": "p_n_g-1003341941111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003341941111%3A24003434011&dc&language=en_US&qid=1789045798&rnid=24003299011&ref=sr_nr_p_n_g-1003341941111_5&ds=v1%3APAtYz9Sz7hz%2B%2BM6rmRVoeEsrqdTHWGiUUEBRn92J%2F5M",
+          "name": "Desktops",
+          "refinement_display_name": "Compatible Devices",
+          "value": "p_n_g-1003341941111:24003434011"
+        },
+        {
+          "heading_id": "p_n_g-1003341941111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003341941111%3A24003430011&dc&language=en_US&qid=1789045798&rnid=24003299011&ref=sr_nr_p_n_g-1003341941111_6&ds=v1%3ArBytWAZcNEzD3Q%2F1dzcIOoBHe5FtLHMaqIriz0cbUAM",
+          "name": "Gaming Consoles",
+          "refinement_display_name": "Compatible Devices",
+          "value": "p_n_g-1003341941111:24003430011"
+        },
+        {
+          "heading_id": "p_n_g-1003341941111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003341941111%3A24003433011&dc&language=en_US&qid=1789045798&rnid=24003299011&ref=sr_nr_p_n_g-1003341941111_7&ds=v1%3AQOmTVed%2FqilgO9Y21TKISrXHw21JVWOaP2NqWBqV8Zo",
+          "name": "Music Production Equipment",
+          "refinement_display_name": "Compatible Devices",
+          "value": "p_n_g-1003341941111:24003433011"
+        },
+        {
+          "heading_id": "p_n_g-1003341941111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003341941111%3A69690507011&dc&language=en_US&qid=1789045798&rnid=24003299011&ref=sr_nr_p_n_g-1003341941111_8&ds=v1%3AjDRqMKyoTZ06Kb6OQVDtim1FZS0JQxVPEvA0lOsMl%2FY",
+          "name": "Television",
+          "refinement_display_name": "Compatible Devices",
+          "value": "p_n_g-1003341941111:69690507011"
+        },
+        {
+          "heading_id": "p_n_g-1003341941111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003341941111%3A216960037011&dc&language=en_US&qid=1789045798&rnid=24003299011&ref=sr_nr_p_n_g-1003341941111_9&ds=v1%3Ae4Dn1qi%2B06mfhivzdDAL27s9MoiiBPS4OwKiMLyUeCc",
+          "name": "E-Reader",
+          "refinement_display_name": "Compatible Devices",
+          "value": "p_n_g-1003341941111:216960037011"
+        },
+        {
+          "heading_id": "p_n_g-1003341941111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003341941111%3A24003428011&dc&language=en_US&qid=1789045798&rnid=24003299011&ref=sr_nr_p_n_g-1003341941111_10&ds=v1%3AUHSoqRIvhzjwL3m4b1D01SgBtCxuxMNDD9YYcLOt2lg",
+          "name": "Motorcycles",
+          "refinement_display_name": "Compatible Devices",
+          "value": "p_n_g-1003341941111:24003428011"
+        },
+        {
+          "heading_id": "p_n_g-1003341941111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003341941111%3A216753764011&dc&language=en_US&qid=1789045798&rnid=24003299011&ref=sr_nr_p_n_g-1003341941111_11&ds=v1%3AZrfCzMj5JvB3SdG66iTbP7FXspeL6VmQT0wvSnlXUig",
+          "name": "Portable Media Player",
+          "refinement_display_name": "Compatible Devices",
+          "value": "p_n_g-1003341941111:216753764011"
+        },
+        {
+          "heading_id": "p_n_g-1003341941111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003341941111%3A108614567011&dc&language=en_US&qid=1789045798&rnid=24003299011&ref=sr_nr_p_n_g-1003341941111_12&ds=v1%3AgPT23IOhy%2BYS32fDZVYWXCROv7UGaO%2FNuwic%2BFP4bE0",
+          "name": "Smart Speaker",
+          "refinement_display_name": "Compatible Devices",
+          "value": "p_n_g-1003341941111:108614567011"
+        },
+        {
+          "heading_id": "p_n_g-1003341941111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003341941111%3A122127202011&dc&language=en_US&qid=1789045798&rnid=24003299011&ref=sr_nr_p_n_g-1003341941111_13&ds=v1%3AtGNVQ95NtqO%2F1KOyOyQ9n%2B%2BQwCnpnE74p4%2BswS9S3TM",
+          "name": "Smart Watch",
+          "refinement_display_name": "Compatible Devices",
+          "value": "p_n_g-1003341941111:122127202011"
+        },
+        {
+          "heading_id": "p_n_g-1003341941111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003341941111%3A24003426011&dc&language=en_US&qid=1789045798&rnid=24003299011&ref=sr_nr_p_n_g-1003341941111_14&ds=v1%3Arc2yVF5PrdQGU6U6OId0wpSsOWZrYrqrsfEfL0NcoAQ",
+          "name": "Telephones",
+          "refinement_display_name": "Compatible Devices",
+          "value": "p_n_g-1003341941111:24003426011"
+        },
+        {
+          "heading_id": "p_n_g-1003341941111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003341941111%3A220630201011&dc&language=en_US&qid=1789045798&rnid=24003299011&ref=sr_nr_p_n_g-1003341941111_15&ds=v1%3AZMgpcGmbKfe9xXi%2B1eJXfq9guKt6YNtusjkGsllantY",
+          "name": "Two-Way Radio",
+          "refinement_display_name": "Compatible Devices",
+          "value": "p_n_g-1003341941111:220630201011"
+        },
+        {
+          "heading_id": "p_n_g-1003341941111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003341941111%3A216960038011&dc&language=en_US&qid=1789045798&rnid=24003299011&ref=sr_nr_p_n_g-1003341941111_16&ds=v1%3AgQ5iriZu%2B4HD8DFRDnQIfXmMtHmKcaRZ9iLcr6UI30w",
+          "name": "VR Headset",
+          "refinement_display_name": "Compatible Devices",
+          "value": "p_n_g-1003341941111:216960038011"
+        }
+      ],
+      "condition": [
+        {
+          "heading_id": "p_n_condition-type-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_condition-type%3A2224371011&dc&language=en_US&qid=1789045798&rnid=2224369011&ref=sr_nr_p_n_condition-type_1&ds=v1%3AjkJArkYPX3tPAqYRvko%2BsE5AzwDNKhCYxSOdEn6Lzhc",
+          "name": "New",
+          "refinement_display_name": "Condition",
+          "value": "p_n_condition-type:2224371011"
+        },
+        {
+          "heading_id": "p_n_condition-type-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_condition-type%3A16907720011&dc&language=en_US&qid=1789045798&rnid=2224369011&ref=sr_nr_p_n_condition-type_2&ds=v1%3AEJS31mRDyskW1quaoljaEcS62XQk5zqM5EAc1k1WujY",
+          "name": "Renewed",
+          "refinement_display_name": "Condition",
+          "value": "p_n_condition-type:16907720011"
+        },
+        {
+          "heading_id": "p_n_condition-type-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_condition-type%3A2224373011&dc&language=en_US&qid=1789045798&rnid=2224369011&ref=sr_nr_p_n_condition-type_3&ds=v1%3AB0jzyVRQIpYiY2IgnoS7hc4uIdELcnh9Eg8xhkPY7L4",
+          "name": "Used",
+          "refinement_display_name": "Condition",
+          "value": "p_n_condition-type:2224373011"
+        }
+      ],
+      "connectivity": [
+        {
+          "heading_id": "p_n_feature_ten_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_ten_browse-bin%3A216310548011&dc&language=en_US&qid=1789045798&rnid=3150266011&ref=sr_nr_p_n_feature_ten_browse-bin_1&ds=v1%3AoEzmBv4ANnEuiV%2BlY42y3C2AALjO4axV%2FXJPrtegufY",
+          "name": "Hybrid",
+          "refinement_display_name": "Connectivity",
+          "value": "p_n_feature_ten_browse-bin:216310548011"
+        },
+        {
+          "heading_id": "p_n_feature_ten_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_ten_browse-bin%3A3150267011&dc&language=en_US&qid=1789045798&rnid=3150266011&ref=sr_nr_p_n_feature_ten_browse-bin_2&ds=v1%3AiDjuxyhxi9MTpW7lBOVqykrXilihS%2Fl0PdYZElCK1dI",
+          "name": "Wired",
+          "refinement_display_name": "Connectivity",
+          "value": "p_n_feature_ten_browse-bin:3150267011"
+        },
+        {
+          "heading_id": "p_n_feature_ten_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_ten_browse-bin%3A3150268011&dc&language=en_US&qid=1789045798&rnid=3150266011&ref=sr_nr_p_n_feature_ten_browse-bin_3&ds=v1%3AbwWs0nDktB6hZEDPphaq%2BmbcMObZceC7aaZ%2B9d7cFxk",
+          "name": "Wireless",
+          "refinement_display_name": "Connectivity",
+          "value": "p_n_feature_ten_browse-bin:3150268011"
+        }
+      ],
+      "control": [
+        {
+          "heading_id": "p_n_g-1002989016111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1002989016111%3A23641591011&dc&language=en_US&qid=1789045798&rnid=23641586011&ref=sr_nr_p_n_g-1002989016111_1&ds=v1%3APZZU2yhWQ0uiWo6iFALZzLvvlhMvDt7Endv76Y1SZUU",
+          "name": "Media Control",
+          "refinement_display_name": "Control",
+          "value": "p_n_g-1002989016111:23641591011"
+        },
+        {
+          "heading_id": "p_n_g-1002989016111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1002989016111%3A122131394011&dc&language=en_US&qid=1789045798&rnid=23641586011&ref=sr_nr_p_n_g-1002989016111_2&ds=v1%3AGt2arF97Nk3MKTAkGH%2Fxo8yKNL893HellHbXWb2Y1Kc",
+          "name": "Touch Control",
+          "refinement_display_name": "Control",
+          "value": "p_n_g-1002989016111:122131394011"
+        },
+        {
+          "heading_id": "p_n_g-1002989016111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1002989016111%3A23641592011&dc&language=en_US&qid=1789045798&rnid=23641586011&ref=sr_nr_p_n_g-1002989016111_3&ds=v1%3A07McMB6m%2B7N%2Ft8U%2F%2BZ52IIHN4U16qAIihPHQN9eNLpw",
+          "name": "Volume Control",
+          "refinement_display_name": "Control",
+          "value": "p_n_g-1002989016111:23641592011"
+        },
+        {
+          "heading_id": "p_n_g-1002989016111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1002989016111%3A24086506011&dc&language=en_US&qid=1789045798&rnid=23641586011&ref=sr_nr_p_n_g-1002989016111_4&ds=v1%3A92tvqdXhwl8PkX8%2BOzq2ZRoYQBtt0SM%2BefCcqa45Bog",
+          "name": "Alexa",
+          "refinement_display_name": "Control",
+          "value": "p_n_g-1002989016111:24086506011"
+        },
+        {
+          "heading_id": "p_n_g-1002989016111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1002989016111%3A122131396011&dc&language=en_US&qid=1789045798&rnid=23641586011&ref=sr_nr_p_n_g-1002989016111_5&ds=v1%3AZ5l8Uvn%2FvaZlRdRqB2BuQSCABoAKFVTOknx9bXvDORA",
+          "name": "App Control",
+          "refinement_display_name": "Control",
+          "value": "p_n_g-1002989016111:122131396011"
+        },
+        {
+          "heading_id": "p_n_g-1002989016111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1002989016111%3A122131395011&dc&language=en_US&qid=1789045798&rnid=23641586011&ref=sr_nr_p_n_g-1002989016111_6&ds=v1%3AYF6tVGLPuYorq8JnhV3N7Ns%2FwTp2n9py2zaQD8nwUxU",
+          "name": "Button Control",
+          "refinement_display_name": "Control",
+          "value": "p_n_g-1002989016111:122131395011"
+        },
+        {
+          "heading_id": "p_n_g-1002989016111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1002989016111%3A23641589011&dc&language=en_US&qid=1789045798&rnid=23641586011&ref=sr_nr_p_n_g-1002989016111_7&ds=v1%3AqRF98emj0I8L42%2BAoVGUkuhrZ%2FSq6A6nMRMJSdHtyvc",
+          "name": "Call Control",
+          "refinement_display_name": "Control",
+          "value": "p_n_g-1002989016111:23641589011"
+        },
+        {
+          "heading_id": "p_n_g-1002989016111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1002989016111%3A24086508011&dc&language=en_US&qid=1789045798&rnid=23641586011&ref=sr_nr_p_n_g-1002989016111_8&ds=v1%3A8Mgn5HcZOlI5IK06hY7%2FSjai9ozsW1tkFYSuyTuECfI",
+          "name": "Google Assistant",
+          "refinement_display_name": "Control",
+          "value": "p_n_g-1002989016111:24086508011"
+        },
+        {
+          "heading_id": "p_n_g-1002989016111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1002989016111%3A23641590011&dc&language=en_US&qid=1789045798&rnid=23641586011&ref=sr_nr_p_n_g-1002989016111_9&ds=v1%3AmYCftoo2C48V4GAEgSZQmxBb87b7pElSaJYy%2BQUVW6w",
+          "name": "Noise Control",
+          "refinement_display_name": "Control",
+          "value": "p_n_g-1002989016111:23641590011"
+        },
+        {
+          "heading_id": "p_n_g-1002989016111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1002989016111%3A24086507011&dc&language=en_US&qid=1789045798&rnid=23641586011&ref=sr_nr_p_n_g-1002989016111_10&ds=v1%3AgyUtIRwXro1D06n%2BRC2HUumTytYK5DSzgMyMxVmZOJo",
+          "name": "Siri",
+          "refinement_display_name": "Control",
+          "value": "p_n_g-1002989016111:24086507011"
+        },
+        {
+          "heading_id": "p_n_g-1002989016111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1002989016111%3A23641593011&dc&language=en_US&qid=1789045798&rnid=23641586011&ref=sr_nr_p_n_g-1002989016111_11&ds=v1%3AWEIUNMeIEHzgw2JYJYDM4kcvvQR2%2FOzdusksxvd%2BHDY",
+          "name": "Voice Control",
+          "refinement_display_name": "Control",
+          "value": "p_n_g-1002989016111:23641593011"
+        }
+      ],
+      "customer_reviews": [
+        {
+          "heading_id": "p_72-title",
+          "link": "/s?k=wireless+earbuds&rh=p_72%3A1248879011&dc&language=en_US&qid=1789045798&rnid=1248877011&ref=sr_nr_p_72_1&ds=v1%3Aax0DhWrcFmWURZrd4iewjjWoa66BFS6nxxjurAetnWE",
+          "name": "4 Stars",
+          "refinement_display_name": "Customer Reviews",
+          "value": "p_72:1248879011"
+        }
+      ],
+      "delivery_day": [
+        {
+          "heading_id": "p_90-title",
+          "link": "/s?k=wireless+earbuds&rh=p_90%3A8308920011&dc&language=en_US&qid=1789045798&rnid=8308919011&ref=sr_nr_p_90_1&ds=v1%3AeLFD97xdALrzTSluFHTKlqG1rKw9qBGj7QMeGk5A0zY",
+          "name": "Get It Today",
+          "refinement_display_name": "Delivery Day",
+          "value": "p_90:8308920011"
+        },
+        {
+          "heading_id": "p_90-title",
+          "link": "/s?k=wireless+earbuds&rh=p_90%3A8308921011&dc&language=en_US&qid=1789045798&rnid=8308919011&ref=sr_nr_p_90_2&ds=v1%3Aeb3UjUBoai5O7CMnbOlOBLpZcePThlAbwTGLnAGni7Q",
+          "name": "Get It by Tomorrow",
+          "refinement_display_name": "Delivery Day",
+          "value": "p_90:8308921011"
+        }
+      ],
+      "earpiece_shape": [
+        {
+          "heading_id": "p_n_g-101014793102111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101014793102111%3A118149309011&dc&language=en_US&qid=1789045798&rnid=118149305011&ref=sr_nr_p_n_g-101014793102111_1&ds=v1%3ARjvNEC%2BG8V7f4NseRyHDNarS9Z4Ki6g9utUmmk9F8%2Fo",
+          "name": "Bud",
+          "refinement_display_name": "Earpiece Shape",
+          "value": "p_n_g-101014793102111:118149309011"
+        },
+        {
+          "heading_id": "p_n_g-101014793102111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101014793102111%3A118149306011&dc&language=en_US&qid=1789045798&rnid=118149305011&ref=sr_nr_p_n_g-101014793102111_2&ds=v1%3A4GwKGlqVjha3UaBXJ6F9LVV7OBI0oPkZyOE9QgiQHMc",
+          "name": "Hook",
+          "refinement_display_name": "Earpiece Shape",
+          "value": "p_n_g-101014793102111:118149306011"
+        },
+        {
+          "heading_id": "p_n_g-101014793102111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101014793102111%3A118149311011&dc&language=en_US&qid=1789045798&rnid=118149305011&ref=sr_nr_p_n_g-101014793102111_3&ds=v1%3AEgifsHF7pUxaASAUJIKlcMY8UNzpNILeNyPmsuxGaXE",
+          "name": "Circle",
+          "refinement_display_name": "Earpiece Shape",
+          "value": "p_n_g-101014793102111:118149311011"
+        },
+        {
+          "heading_id": "p_n_g-101014793102111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101014793102111%3A118149307011&dc&language=en_US&qid=1789045798&rnid=118149305011&ref=sr_nr_p_n_g-101014793102111_4&ds=v1%3AYvbId4wUCMl%2F5Et3sOM2ccVKPMIHdPnRTkH5xXkgvvo",
+          "name": "Oval",
+          "refinement_display_name": "Earpiece Shape",
+          "value": "p_n_g-101014793102111:118149307011"
+        },
+        {
+          "heading_id": "p_n_g-101014793102111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101014793102111%3A118149308011&dc&language=en_US&qid=1789045798&rnid=118149305011&ref=sr_nr_p_n_g-101014793102111_5&ds=v1%3AjDinskKhwSskMgsqaorUVq0j7LNxzCEmXwRbOB6xBfU",
+          "name": "Square",
+          "refinement_display_name": "Earpiece Shape",
+          "value": "p_n_g-101014793102111:118149308011"
+        },
+        {
+          "heading_id": "p_n_g-101014793102111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101014793102111%3A118149310011&dc&language=en_US&qid=1789045798&rnid=118149305011&ref=sr_nr_p_n_g-101014793102111_6&ds=v1%3AArEIzBPg1L%2FbThf91RjOxPy6%2FtHRX09w2htldkPB%2FA0",
+          "name": "Stick",
+          "refinement_display_name": "Earpiece Shape",
+          "value": "p_n_g-101014793102111:118149310011"
+        }
+      ],
+      "eligible_for_free_shipping": [
+        {
+          "heading_id": "p_76-title",
+          "link": "/s?k=wireless+earbuds&rh=p_76%3A1249137011&dc&language=en_US&qid=1789045798&rnid=1249135011&ref=sr_nr_p_76_1&ds=v1%3AhltwDtfwDzYGul6kN6sEdvHW6ikrrM31wautInR5cOE",
+          "name": "Free Shipping by Amazon",
+          "refinement_display_name": "Eligible for Free Shipping",
+          "value": "p_76:1249137011"
+        }
+      ],
+      "features": [
+        {
+          "heading_id": "p_n_feature_thirteen_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_thirteen_browse-bin%3A509316&dc&language=en_US&qid=1789045798&rnid=2266979011&ref=sr_nr_p_n_feature_thirteen_browse-bin_1&ds=v1%3AeOH2cWSZgXIw2p5mbPvKUwvKoHzYDmMZ5uSTMTCKkNY",
+          "name": "Wireless",
+          "refinement_display_name": "Features",
+          "value": "p_n_feature_thirteen_browse-bin:509316"
+        },
+        {
+          "heading_id": "p_n_feature_thirteen_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_thirteen_browse-bin%3A2266981011&dc&language=en_US&qid=1789045798&rnid=2266979011&ref=sr_nr_p_n_feature_thirteen_browse-bin_2&ds=v1%3ANiT8X%2Bs8fSN71oKNMeoEOrRMb7Dlsool0oVtYL86Og8",
+          "name": "Microphone",
+          "refinement_display_name": "Features",
+          "value": "p_n_feature_thirteen_browse-bin:2266981011"
+        },
+        {
+          "heading_id": "p_n_feature_thirteen_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_thirteen_browse-bin%3A12097488011&dc&language=en_US&qid=1789045798&rnid=2266979011&ref=sr_nr_p_n_feature_thirteen_browse-bin_3&ds=v1%3AYzlQf0gRhi7LnnDuP5dJ%2BNQX0LqUaQN5Z3IATjri%2FxE",
+          "name": "Lightweight",
+          "refinement_display_name": "Features",
+          "value": "p_n_feature_thirteen_browse-bin:12097488011"
+        },
+        {
+          "heading_id": "p_n_feature_thirteen_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_thirteen_browse-bin%3A6131842011&dc&language=en_US&qid=1789045798&rnid=2266979011&ref=sr_nr_p_n_feature_thirteen_browse-bin_4&ds=v1%3Ah8TJYqvybZmx%2FLLXYMypv6o6BwMHClEBFY1jF2u6y88",
+          "name": "DJ Style",
+          "refinement_display_name": "Features",
+          "value": "p_n_feature_thirteen_browse-bin:6131842011"
+        },
+        {
+          "heading_id": "p_n_feature_thirteen_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_thirteen_browse-bin%3A12097487011&dc&language=en_US&qid=1789045798&rnid=2266979011&ref=sr_nr_p_n_feature_thirteen_browse-bin_5&ds=v1%3AxggbTo2Ee%2Bmf0G1ArplzuGzKzeX2OMgRO8z8eSHaCTk",
+          "name": "Foldable",
+          "refinement_display_name": "Features",
+          "value": "p_n_feature_thirteen_browse-bin:12097487011"
+        },
+        {
+          "heading_id": "p_n_feature_thirteen_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_thirteen_browse-bin%3A12097489011&dc&language=en_US&qid=1789045798&rnid=2266979011&ref=sr_nr_p_n_feature_thirteen_browse-bin_6&ds=v1%3Aje9Vc1rCncDrwa0XTHDeopz0QsvayITM9Z0uS%2Bbp6xw",
+          "name": "Phone Control",
+          "refinement_display_name": "Features",
+          "value": "p_n_feature_thirteen_browse-bin:12097489011"
+        },
+        {
+          "heading_id": "p_n_feature_thirteen_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_thirteen_browse-bin%3A2266980011&dc&language=en_US&qid=1789045798&rnid=2266979011&ref=sr_nr_p_n_feature_thirteen_browse-bin_7&ds=v1%3Aik4cU4h4CSIM1w80uiA%2FkSKFm1o53He7YUv9fCnyNmg",
+          "name": "Sports & Exercise",
+          "refinement_display_name": "Features",
+          "value": "p_n_feature_thirteen_browse-bin:2266980011"
+        }
+      ],
+      "frequency_response": [
+        {
+          "heading_id": "p_n_g-101015501853111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015501853111%3A122268329011&dc&language=en_US&qid=1789045798&rnid=122268189011&ref=sr_nr_p_n_g-101015501853111_1&ds=v1%3A3XIwLevs7q0XXkZmLazXzM330aPtflDqeLIQb4JXVxE",
+          "name": "Up to 99,999 Hz",
+          "refinement_display_name": "Frequency Response",
+          "value": "p_n_g-101015501853111:122268329011"
+        }
+      ],
+      "handmade_products": [
+        {
+          "heading_id": "p_n_feature_thirty-four_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_thirty-four_browse-bin%3A217421938011&dc&language=en_US&qid=1789045798&rnid=217421937011&ref=sr_nr_p_n_feature_thirty-four_browse-bin_1&ds=v1%3AJ1IFe3RLcXmZIHs7YGhB184IPjdkiiA%2BcaCq8hO7DzI",
+          "name": "Handmade",
+          "refinement_display_name": "Handmade Products",
+          "value": "p_n_feature_thirty-four_browse-bin:217421938011"
+        }
+      ],
+      "headphones_form_factor": [
+        {
+          "heading_id": "p_n_feature_seventeen_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_seventeen_browse-bin%3A23508656011&dc&language=en_US&qid=1789045798&rnid=23508613011&ref=sr_nr_p_n_feature_seventeen_browse-bin_1&ds=v1%3AZyp8tNQBqbrh4oKulhsnR3ZwbpV4G2o1PeeFK5rCI2k",
+          "name": "In Ear",
+          "refinement_display_name": "Headphones Form Factor",
+          "value": "p_n_feature_seventeen_browse-bin:23508656011"
+        },
+        {
+          "heading_id": "p_n_feature_seventeen_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_seventeen_browse-bin%3A207963168011&dc&language=en_US&qid=1789045798&rnid=23508613011&ref=sr_nr_p_n_feature_seventeen_browse-bin_2&ds=v1%3A1BXi5rT3UGNvfRxfpOYTD3ha2uDGdxWkVbC8nTCG2Rg",
+          "name": "Neckband",
+          "refinement_display_name": "Headphones Form Factor",
+          "value": "p_n_feature_seventeen_browse-bin:207963168011"
+        },
+        {
+          "heading_id": "p_n_feature_seventeen_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_seventeen_browse-bin%3A23508657011&dc&language=en_US&qid=1789045798&rnid=23508613011&ref=sr_nr_p_n_feature_seventeen_browse-bin_3&ds=v1%3AkwuFAuIZ91Qloky0JlXJvmn9TP%2F5VtGoJoZe51gRTV4",
+          "name": "On Ear",
+          "refinement_display_name": "Headphones Form Factor",
+          "value": "p_n_feature_seventeen_browse-bin:23508657011"
+        },
+        {
+          "heading_id": "p_n_feature_seventeen_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_seventeen_browse-bin%3A23508658011&dc&language=en_US&qid=1789045798&rnid=23508613011&ref=sr_nr_p_n_feature_seventeen_browse-bin_4&ds=v1%3A5KGjkfvmEVqoxzNAkMcthrhKapXQUIkGOLC3kG%2B7a2A",
+          "name": "Over Ear",
+          "refinement_display_name": "Headphones Form Factor",
+          "value": "p_n_feature_seventeen_browse-bin:23508658011"
+        },
+        {
+          "heading_id": "p_n_feature_seventeen_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_seventeen_browse-bin%3A117806101011&dc&language=en_US&qid=1789045798&rnid=23508613011&ref=sr_nr_p_n_feature_seventeen_browse-bin_5&ds=v1%3AUlSnc6ZpWR2x55XXiGLde%2BsqhXr87qFhDgyRLbgXAZ8",
+          "name": "True Wireless",
+          "refinement_display_name": "Headphones Form Factor",
+          "value": "p_n_feature_seventeen_browse-bin:117806101011"
+        }
+      ],
+      "impedance": [
+        {
+          "heading_id": "p_n_g-101015490468111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015490468111%3A122265093011&dc&language=en_US&qid=1789045798&rnid=122265084011&ref=sr_nr_p_n_g-101015490468111_1&ds=v1%3AKb976AXnX9CKzMGkV63j5LqmDspPaC7izkenIgWuBOc",
+          "name": "Up to 1",
+          "refinement_display_name": "Impedance",
+          "value": "p_n_g-101015490468111:122265093011"
+        },
+        {
+          "heading_id": "p_n_g-101015490468111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015490468111%3A122265090011&dc&language=en_US&qid=1789045798&rnid=122265084011&ref=sr_nr_p_n_g-101015490468111_2&ds=v1%3AH0ZXUf6YPDD9qm9Ckg0%2Fhb%2BVLQWMjlyPW7E0AQuzAek",
+          "name": "1 to 1.9",
+          "refinement_display_name": "Impedance",
+          "value": "p_n_g-101015490468111:122265090011"
+        },
+        {
+          "heading_id": "p_n_g-101015490468111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015490468111%3A122265092011&dc&language=en_US&qid=1789045798&rnid=122265084011&ref=sr_nr_p_n_g-101015490468111_3&ds=v1%3ADfqgYG2CHBkvzGdYrv%2FaYPbLOoQDu6BgxpOx4nw3LdE",
+          "name": "2 to 2.9",
+          "refinement_display_name": "Impedance",
+          "value": "p_n_g-101015490468111:122265092011"
+        },
+        {
+          "heading_id": "p_n_g-101015490468111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015490468111%3A122265091011&dc&language=en_US&qid=1789045798&rnid=122265084011&ref=sr_nr_p_n_g-101015490468111_4&ds=v1%3ABVpdUL0Q2RtNu3W2j1JSTqbGOVWS7oRNghbE%2Bd0T2to",
+          "name": "3 & above",
+          "refinement_display_name": "Impedance",
+          "value": "p_n_g-101015490468111:122265091011"
+        }
+      ],
+      "included_components": [
+        {
+          "heading_id": "p_n_g-1002989062111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1002989062111%3A76076001011&dc&language=en_US&qid=1789045798&rnid=23657289011&ref=sr_nr_p_n_g-1002989062111_1&ds=v1%3AGm%2F8D2%2BtA%2BRKreLl%2BP7t7WMIesiTYcKng9%2FT9WHEC9w",
+          "name": "User Manual",
+          "refinement_display_name": "Included Components",
+          "value": "p_n_g-1002989062111:76076001011"
+        },
+        {
+          "heading_id": "p_n_g-1002989062111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1002989062111%3A23657292011&dc&language=en_US&qid=1789045798&rnid=23657289011&ref=sr_nr_p_n_g-1002989062111_2&ds=v1%3AL6089BmjQY%2Bb8T7SpqRovkkiQd6JwgnStscrZcuytX4",
+          "name": "Cable",
+          "refinement_display_name": "Included Components",
+          "value": "p_n_g-1002989062111:23657292011"
+        },
+        {
+          "heading_id": "p_n_g-1002989062111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1002989062111%3A101369949011&dc&language=en_US&qid=1789045798&rnid=23657289011&ref=sr_nr_p_n_g-1002989062111_3&ds=v1%3AMJQliVgKejjkGVXsFG%2B44fbnt%2FvIKFo84iFWD0MCfdM",
+          "name": "Eartip",
+          "refinement_display_name": "Included Components",
+          "value": "p_n_g-1002989062111:101369949011"
+        },
+        {
+          "heading_id": "p_n_g-1002989062111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1002989062111%3A207314836011&dc&language=en_US&qid=1789045798&rnid=23657289011&ref=sr_nr_p_n_g-1002989062111_4&ds=v1%3AEwsB2jPZA1V8p%2B7caexLWM5jdtnNHdF9mV1OfB%2Fqvc0",
+          "name": "Adapter",
+          "refinement_display_name": "Included Components",
+          "value": "p_n_g-1002989062111:207314836011"
+        },
+        {
+          "heading_id": "p_n_g-1002989062111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1002989062111%3A23657293011&dc&language=en_US&qid=1789045798&rnid=23657289011&ref=sr_nr_p_n_g-1002989062111_5&ds=v1%3AMf%2Ba2uAUI4uxgw1kqOwoDbAXxhq3eNMOFWyNa9kFpK0",
+          "name": "Charging Station",
+          "refinement_display_name": "Included Components",
+          "value": "p_n_g-1002989062111:23657293011"
+        },
+        {
+          "heading_id": "p_n_g-1002989062111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1002989062111%3A221070415011&dc&language=en_US&qid=1789045798&rnid=23657289011&ref=sr_nr_p_n_g-1002989062111_6&ds=v1%3AvNqu21a%2FcaGQAefk%2FdIIdGdWuq6S7KnpIPnbiE1WG34",
+          "name": "Cord Clip",
+          "refinement_display_name": "Included Components",
+          "value": "p_n_g-1002989062111:221070415011"
+        },
+        {
+          "heading_id": "p_n_g-1002989062111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1002989062111%3A23657294011&dc&language=en_US&qid=1789045798&rnid=23657289011&ref=sr_nr_p_n_g-1002989062111_7&ds=v1%3AVwalERx0vlP92Fn%2FRGQwrsfhIA5KoJVoVT4o2DCNuTc",
+          "name": "Ear Cushions",
+          "refinement_display_name": "Included Components",
+          "value": "p_n_g-1002989062111:23657294011"
+        },
+        {
+          "heading_id": "p_n_g-1002989062111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1002989062111%3A216983646011&dc&language=en_US&qid=1789045798&rnid=23657289011&ref=sr_nr_p_n_g-1002989062111_8&ds=v1%3A20yeS4TXaVqu%2FB284tuKumVo0UNQDkrJKTN%2BCrbecbw",
+          "name": "Ear Fins",
+          "refinement_display_name": "Included Components",
+          "value": "p_n_g-1002989062111:216983646011"
+        },
+        {
+          "heading_id": "p_n_g-1002989062111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1002989062111%3A216983648011&dc&language=en_US&qid=1789045798&rnid=23657289011&ref=sr_nr_p_n_g-1002989062111_9&ds=v1%3AEYt3GLF0cVF2RpI7QdRW5%2Fpv1Bdrs4D5jxBuIYwQDlQ",
+          "name": "Ear Hook",
+          "refinement_display_name": "Included Components",
+          "value": "p_n_g-1002989062111:216983648011"
+        },
+        {
+          "heading_id": "p_n_g-1002989062111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1002989062111%3A23657296011&dc&language=en_US&qid=1789045798&rnid=23657289011&ref=sr_nr_p_n_g-1002989062111_10&ds=v1%3A60AIhxbDOJktbNS%2B9NaCpxAl3SuaZzP%2BExVnKSiAwiw",
+          "name": "Headband",
+          "refinement_display_name": "Included Components",
+          "value": "p_n_g-1002989062111:23657296011"
+        },
+        {
+          "heading_id": "p_n_g-1002989062111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1002989062111%3A216983645011&dc&language=en_US&qid=1789045798&rnid=23657289011&ref=sr_nr_p_n_g-1002989062111_11&ds=v1%3AOKQinY8rzlxpSCRDjKHVg0Lu1P50wOat1jt2%2BaehhyU",
+          "name": "Magnetic Mounting Clip",
+          "refinement_display_name": "Included Components",
+          "value": "p_n_g-1002989062111:216983645011"
+        },
+        {
+          "heading_id": "p_n_g-1002989062111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1002989062111%3A23657291011&dc&language=en_US&qid=1789045798&rnid=23657289011&ref=sr_nr_p_n_g-1002989062111_12&ds=v1%3AgKvF6vzBWt1Vc3AEzGe6IkrPVR5PHB3QjRkiM6r%2FZRM",
+          "name": "Protective Case",
+          "refinement_display_name": "Included Components",
+          "value": "p_n_g-1002989062111:23657291011"
+        },
+        {
+          "heading_id": "p_n_g-1002989062111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1002989062111%3A23657295011&dc&language=en_US&qid=1789045798&rnid=23657289011&ref=sr_nr_p_n_g-1002989062111_13&ds=v1%3AaM3OUsKVBOgr4S56WTN4yWpgRiBfds3Byou%2FEJwSP%2FY",
+          "name": "Wireless Charging Case",
+          "refinement_display_name": "Included Components",
+          "value": "p_n_g-1002989062111:23657295011"
+        },
+        {
+          "heading_id": "p_n_g-1002989062111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1002989062111%3A216983641011&dc&language=en_US&qid=1789045798&rnid=23657289011&ref=sr_nr_p_n_g-1002989062111_14&ds=v1%3ADJRw5KmbDYzKfx12GAlHn1Uf4VgOlql8Qd0yf%2Bh95Lc",
+          "name": "Wireless Transmitter",
+          "refinement_display_name": "Included Components",
+          "value": "p_n_g-1002989062111:216983641011"
+        }
+      ],
+      "league_team": [
+        {
+          "heading_id": "p_n_theme_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_theme_browse-bin%3A374377011&dc&language=en_US&qid=1789045798&rnid=374240011&ref=sr_nr_p_n_theme_browse-bin_1&ds=v1%3A0OQMVBgJ4aaRZmx3bz2TZTgjnzAL6ISm8N%2FVPBfVddg",
+          "name": "NHL",
+          "refinement_display_name": "League & Team",
+          "value": "p_n_theme_browse-bin:374377011"
+        },
+        {
+          "heading_id": "p_n_theme_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_theme_browse-bin%3A374306011&dc&language=en_US&qid=1789045798&rnid=374240011&ref=sr_nr_p_n_theme_browse-bin_2&ds=v1%3AoC6NA67vwLRxUCnBgrFpgtIaCTPingmlbGN7ofw94oo",
+          "name": "NBA",
+          "refinement_display_name": "League & Team",
+          "value": "p_n_theme_browse-bin:374306011"
+        },
+        {
+          "heading_id": "p_n_theme_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_theme_browse-bin%3A374273011&dc&language=en_US&qid=1789045798&rnid=374240011&ref=sr_nr_p_n_theme_browse-bin_3&ds=v1%3Ax856e0QMgi6hdxfuoTQoB7jef2fIP1%2Bk0ZX5r4NPpyk",
+          "name": "NFL",
+          "refinement_display_name": "League & Team",
+          "value": "p_n_theme_browse-bin:374273011"
+        },
+        {
+          "heading_id": "p_n_theme_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_theme_browse-bin%3A374337011&dc&language=en_US&qid=1789045798&rnid=374240011&ref=sr_nr_p_n_theme_browse-bin_4&ds=v1%3AElg3kf7QwpgniVsicGkrm1Q566etPEDDq%2BIQyJHwWdE",
+          "name": "NCAA",
+          "refinement_display_name": "League & Team",
+          "value": "p_n_theme_browse-bin:374337011"
+        }
+      ],
+      "noise_control": [
+        {
+          "heading_id": "p_n_g-1003195531111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003195531111%3A23746030011&dc&language=en_US&qid=1789045798&rnid=23746028011&ref=sr_nr_p_n_g-1003195531111_1&ds=v1%3A0DTk7Q6Us3nlHFOw41jv2b2h%2B8NpUKR8leBN5TLl7%2Bs",
+          "name": "Active Noise Cancellation",
+          "refinement_display_name": "Noise Control",
+          "value": "p_n_g-1003195531111:23746030011"
+        },
+        {
+          "heading_id": "p_n_g-1003195531111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003195531111%3A23746032011&dc&language=en_US&qid=1789045798&rnid=23746028011&ref=sr_nr_p_n_g-1003195531111_2&ds=v1%3AZiZ8N6hICLA2cOEBb5hd4TB%2BChHpN683eT1wnaSl6%2Bo",
+          "name": "Sound Isolation",
+          "refinement_display_name": "Noise Control",
+          "value": "p_n_g-1003195531111:23746032011"
+        },
+        {
+          "heading_id": "p_n_g-1003195531111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003195531111%3A110686947011&dc&language=en_US&qid=1789045798&rnid=23746028011&ref=sr_nr_p_n_g-1003195531111_3&ds=v1%3Ay9jO%2B4TyOTQBC6IBriFzYDbm%2Be6UuKGQKaFE4ThcJjk",
+          "name": "Passive Noise Cancellation",
+          "refinement_display_name": "Noise Control",
+          "value": "p_n_g-1003195531111:110686947011"
+        },
+        {
+          "heading_id": "p_n_g-1003195531111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003195531111%3A110686945011&dc&language=en_US&qid=1789045798&rnid=23746028011&ref=sr_nr_p_n_g-1003195531111_4&ds=v1%3Avb9rroHHDSMaHcqKM3i2n10gVaR3kR9Vx6k2hgXpOPY",
+          "name": "Adaptive Noise Cancellation",
+          "refinement_display_name": "Noise Control",
+          "value": "p_n_g-1003195531111:110686945011"
+        },
+        {
+          "heading_id": "p_n_g-1003195531111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003195531111%3A110686943011&dc&language=en_US&qid=1789045798&rnid=23746028011&ref=sr_nr_p_n_g-1003195531111_5&ds=v1%3ALSCFO9U8oR5NcU0JEsj2DUfDZQdwIKqXBIeioIOzPq4",
+          "name": "Hybrid Noise Cancellation",
+          "refinement_display_name": "Noise Control",
+          "value": "p_n_g-1003195531111:110686943011"
+        },
+        {
+          "heading_id": "p_n_g-1003195531111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003195531111%3A23746031011&dc&language=en_US&qid=1789045798&rnid=23746028011&ref=sr_nr_p_n_g-1003195531111_6&ds=v1%3An6vZ3o2o3h1hYttJBYw%2FKNB7gE2wUL2HhiB5j5EKEC0",
+          "name": "None",
+          "refinement_display_name": "Noise Control",
+          "value": "p_n_g-1003195531111:23746031011"
+        },
+        {
+          "heading_id": "p_n_g-1003195531111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-1003195531111%3A210912314011&dc&language=en_US&qid=1789045798&rnid=23746028011&ref=sr_nr_p_n_g-1003195531111_7&ds=v1%3AknjBLJYupdNypZWvPtUo9JOTAOTMcS00qqyigiRAoec",
+          "name": "Environmental Noise Cancellation",
+          "refinement_display_name": "Noise Control",
+          "value": "p_n_g-1003195531111:210912314011"
+        }
+      ],
+      "noise_control_features": [
+        {
+          "heading_id": "p_n_g-101017149505111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101017149505111%3A215591643011&dc&language=en_US&qid=1789045798&rnid=215591641011&ref=sr_nr_p_n_g-101017149505111_1&ds=v1%3AxSEV5KwU28wQ1zs9x1NEtNVB2ahyZNdqnunkhJy4pOQ",
+          "name": "Adjustable Levels",
+          "refinement_display_name": "Noise Control Features",
+          "value": "p_n_g-101017149505111:215591643011"
+        },
+        {
+          "heading_id": "p_n_g-101017149505111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101017149505111%3A215591642011&dc&language=en_US&qid=1789045798&rnid=215591641011&ref=sr_nr_p_n_g-101017149505111_2&ds=v1%3ARfThIppu59wCEN7FDnWH8LWF%2BngtvTUctxCBAaN9XNc",
+          "name": "Transparency Mode",
+          "refinement_display_name": "Noise Control Features",
+          "value": "p_n_g-101017149505111:215591642011"
+        },
+        {
+          "heading_id": "p_n_g-101017149505111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101017149505111%3A215591644011&dc&language=en_US&qid=1789045798&rnid=215591641011&ref=sr_nr_p_n_g-101017149505111_3&ds=v1%3AiemuBwdS1kyoi74QTObaDRCqPzpcX9dwkQV8pRnJ%2Ft8",
+          "name": "Wind Noise Reduction",
+          "refinement_display_name": "Noise Control Features",
+          "value": "p_n_g-101017149505111:215591644011"
+        }
+      ],
+      "popular_shopping_ideas": [
+        {
+          "link": "/s?k=noise+cancelling+wireless+earbuds&ref=sr_nr_p_rag_integrated_qb_0",
+          "name": "Noise Cancelling",
+          "refinement_display_name": "Popular Shopping Ideas"
+        },
+        {
+          "link": "/s?k=wireless+earbuds+long+battery+life&ref=sr_nr_p_rag_integrated_qb_1",
+          "name": "Long Battery",
+          "refinement_display_name": "Popular Shopping Ideas"
+        },
+        {
+          "link": "/s?k=wireless+earbuds+for+iphone&ref=sr_nr_p_rag_integrated_qb_2",
+          "name": "For Iphone",
+          "refinement_display_name": "Popular Shopping Ideas"
+        },
+        {
+          "link": "/s?k=open+ear+wireless+earbuds&ref=sr_nr_p_rag_integrated_qb_3",
+          "name": "Open Ear",
+          "refinement_display_name": "Popular Shopping Ideas"
+        },
+        {
+          "link": "/s?k=wireless+earbuds+bass+boost&ref=sr_nr_p_rag_integrated_qb_4",
+          "name": "Bass",
+          "refinement_display_name": "Popular Shopping Ideas"
+        },
+        {
+          "link": "/s?k=wireless+earbuds+with+charging+case&ref=sr_nr_p_rag_integrated_qb_5",
+          "name": "Charging Case",
+          "refinement_display_name": "Popular Shopping Ideas"
+        },
+        {
+          "link": "/s?k=wireless+earbuds+with+case&ref=sr_nr_p_rag_integrated_qb_6",
+          "name": "With Case",
+          "refinement_display_name": "Popular Shopping Ideas"
+        },
+        {
+          "link": "/s?k=wireless+sport+earbuds&ref=sr_nr_p_rag_integrated_qb_7",
+          "name": "Sport",
+          "refinement_display_name": "Popular Shopping Ideas"
+        },
+        {
+          "link": "/s?k=anker+wireless+earbuds&ref=sr_nr_p_rag_integrated_qb_8",
+          "name": "Anker",
+          "refinement_display_name": "Popular Shopping Ideas"
+        }
+      ],
+      "premium_brands": [
+        {
+          "heading_id": "p_n_g-101015887018111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015887018111%3A204376014011&dc&language=en_US&qid=1789045798&rnid=204376013011&ref=sr_nr_p_n_g-101015887018111_1&ds=v1%3AmcTgTkXbnUIXlBrIF1hfPvhGmd4ODr6AWMGrxlcdgoI",
+          "name": "Premium Brands",
+          "refinement_display_name": "Premium Brands",
+          "value": "p_n_g-101015887018111:204376014011"
+        }
+      ],
+      "price": [
+        {
+          "heading_id": "p_36-title",
+          "link": "/s?k=wireless+earbuds&rh=p_36%3A-1500&dc&language=en_US&qid=1789045798&rnid=386442011&ref=sr_nr_p_36_1&ds=v1%3AHuDEAHW1kk1OTwYlLZVJm0LkmW8SFrB4K0P5j7oksHU",
+          "name": "Up to $15",
+          "refinement_display_name": "Deals & Discounts",
+          "value": "p_36:-1500"
+        },
+        {
+          "heading_id": "p_36-title",
+          "link": "/s?k=wireless+earbuds&rh=p_36%3A1500-2500&dc&language=en_US&qid=1789045798&rnid=386442011&ref=sr_nr_p_36_2&ds=v1%3AVWZR2lJ1lHDJe9AqTCbvcFADkQZi2FmxVg4FoSpLvRg",
+          "name": "$15 to $25",
+          "refinement_display_name": "Deals & Discounts",
+          "value": "p_36:1500-2500"
+        },
+        {
+          "heading_id": "p_36-title",
+          "link": "/s?k=wireless+earbuds&rh=p_36%3A2500-3000&dc&language=en_US&qid=1789045798&rnid=386442011&ref=sr_nr_p_36_3&ds=v1%3AzSgA0qDO2r9FzT7QpPsAPxAMhTB%2BM5dDH8t3ntdbVEc",
+          "name": "$25 to $30",
+          "refinement_display_name": "Deals & Discounts",
+          "value": "p_36:2500-3000"
+        },
+        {
+          "heading_id": "p_36-title",
+          "link": "/s?k=wireless+earbuds&rh=p_36%3A3000-4000&dc&language=en_US&qid=1789045798&rnid=386442011&ref=sr_nr_p_36_4&ds=v1%3AbmHGSR%2BdWinxPMW6%2BH13SE4QkQU1PPstBv54MK2elRg",
+          "name": "$30 to $40",
+          "refinement_display_name": "Deals & Discounts",
+          "value": "p_36:3000-4000"
+        },
+        {
+          "heading_id": "p_36-title",
+          "link": "/s?k=wireless+earbuds&rh=p_36%3A4000-&dc&language=en_US&qid=1789045798&rnid=386442011&ref=sr_nr_p_36_5&ds=v1%3A4VglQHt1nOt%2FMmTygi%2BwC6vC0z8HM%2BIQo60REpzqp8o",
+          "name": "$40 & above",
+          "refinement_display_name": "Deals & Discounts",
+          "value": "p_36:4000-"
+        },
+        {
+          "heading_id": "p_36-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_deal_type%3A23566065011&dc&language=en_US&qid=1789045798&rnid=23566063011&ref=sr_nr_p_n_deal_type_1&ds=v1%3AEPeEcZ6E%2BqajE1b%2FO%2B%2Bht4KtNTUQSuDpa%2B3yKsdzICg",
+          "name": "All Discounts",
+          "refinement_display_name": "Deals & Discounts",
+          "value": "p_n_deal_type:23566065011"
+        },
+        {
+          "heading_id": "p_36-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_deal_type%3A210906365011&dc&language=en_US&qid=1789045798&rnid=23566063011&ref=sr_nr_p_n_deal_type_2&ds=v1%3Abt%2BfqWg%2FQSvfb4BRrSNny97%2Fzm8TQKHRISyl%2F3QtwIE",
+          "name": "Buy More, Save More",
+          "refinement_display_name": "Deals & Discounts",
+          "value": "p_n_deal_type:210906365011"
+        },
+        {
+          "heading_id": "p_36-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_deal_type%3A210906366011&dc&language=en_US&qid=1789045798&rnid=23566063011&ref=sr_nr_p_n_deal_type_3&ds=v1%3ASYU%2Bu709%2FWYDi%2B0olS752WVeixwR%2BwCgB6g7Gy4e0K0",
+          "name": "Coupons",
+          "refinement_display_name": "Deals & Discounts",
+          "value": "p_n_deal_type:210906366011"
+        },
+        {
+          "heading_id": "p_36-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_deal_type%3A23566064011&dc&language=en_US&qid=1789045798&rnid=23566063011&ref=sr_nr_p_n_deal_type_4&ds=v1%3AYqBPkV8CAnr%2FXGnsUEOUSdf42uYKTjtVvUeYNI%2FXg%2B8",
+          "name": "Today's Deals",
+          "refinement_display_name": "Deals & Discounts",
+          "value": "p_n_deal_type:23566064011"
+        }
+      ],
+      "purpose": [
+        {
+          "heading_id": "p_n_g-101016755135111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101016755135111%3A207882059011&dc&language=en_US&qid=1789045798&rnid=207882057011&ref=sr_nr_p_n_g-101016755135111_1&ds=v1%3Appt3jnmuhnVSnls9S7tOcoO%2BL858nlbc6na0obzCWfQ",
+          "name": "Music Listening",
+          "refinement_display_name": "Purpose",
+          "value": "p_n_g-101016755135111:207882059011"
+        },
+        {
+          "heading_id": "p_n_g-101016755135111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101016755135111%3A207882067011&dc&language=en_US&qid=1789045798&rnid=207882057011&ref=sr_nr_p_n_g-101016755135111_2&ds=v1%3Al6gE%2BFmKomls2pu7FsiDxUvLOgX1EDsnDY3gnEfkOtg",
+          "name": "Phone Calling",
+          "refinement_display_name": "Purpose",
+          "value": "p_n_g-101016755135111:207882067011"
+        },
+        {
+          "heading_id": "p_n_g-101016755135111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101016755135111%3A207882058011&dc&language=en_US&qid=1789045798&rnid=207882057011&ref=sr_nr_p_n_g-101016755135111_3&ds=v1%3AJbt0K27t476YtmWD%2Bm%2FqO54VdH%2BA7cVNC5ewIBGJf2M",
+          "name": "Exercising",
+          "refinement_display_name": "Purpose",
+          "value": "p_n_g-101016755135111:207882058011"
+        },
+        {
+          "heading_id": "p_n_g-101016755135111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101016755135111%3A207882074011&dc&language=en_US&qid=1789045798&rnid=207882057011&ref=sr_nr_p_n_g-101016755135111_4&ds=v1%3A%2BNopN8DVYtRvAnV0rDy4hsXXdPKq9Yqg1gwpw8TLYjk",
+          "name": "Commuting",
+          "refinement_display_name": "Purpose",
+          "value": "p_n_g-101016755135111:207882074011"
+        },
+        {
+          "heading_id": "p_n_g-101016755135111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101016755135111%3A207882073011&dc&language=en_US&qid=1789045798&rnid=207882057011&ref=sr_nr_p_n_g-101016755135111_5&ds=v1%3ACRMIvYhT3346d%2FXc%2FgPd0jflUVua7uewXjE3kokgQTA",
+          "name": "Cycling",
+          "refinement_display_name": "Purpose",
+          "value": "p_n_g-101016755135111:207882073011"
+        },
+        {
+          "heading_id": "p_n_g-101016755135111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101016755135111%3A207882062011&dc&language=en_US&qid=1789045798&rnid=207882057011&ref=sr_nr_p_n_g-101016755135111_6&ds=v1%3AYeI4KZe7WTNXznNRnHhQKLiVdXE%2FzzH5fulc3%2F0wQwk",
+          "name": "Gaming",
+          "refinement_display_name": "Purpose",
+          "value": "p_n_g-101016755135111:207882062011"
+        },
+        {
+          "heading_id": "p_n_g-101016755135111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101016755135111%3A207882072011&dc&language=en_US&qid=1789045798&rnid=207882057011&ref=sr_nr_p_n_g-101016755135111_7&ds=v1%3AmNzzotZeqz2q3mA%2Bl2Whf8jelUJOC%2B0SOCLILgYhbgw",
+          "name": "Lawn Care",
+          "refinement_display_name": "Purpose",
+          "value": "p_n_g-101016755135111:207882072011"
+        },
+        {
+          "heading_id": "p_n_g-101016755135111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101016755135111%3A207882068011&dc&language=en_US&qid=1789045798&rnid=207882057011&ref=sr_nr_p_n_g-101016755135111_8&ds=v1%3AtjP4atwEgeofvcxQru0nuchoOrWuj%2Feijg41Tuxo2qI",
+          "name": "Podcasting",
+          "refinement_display_name": "Purpose",
+          "value": "p_n_g-101016755135111:207882068011"
+        },
+        {
+          "heading_id": "p_n_g-101016755135111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101016755135111%3A207882064011&dc&language=en_US&qid=1789045798&rnid=207882057011&ref=sr_nr_p_n_g-101016755135111_9&ds=v1%3AwdxCiJkeLv9EH2iKmEn4IXkbb4ttKKFHmE4kC1fGQDk",
+          "name": "Running",
+          "refinement_display_name": "Purpose",
+          "value": "p_n_g-101016755135111:207882064011"
+        },
+        {
+          "heading_id": "p_n_g-101016755135111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101016755135111%3A207882060011&dc&language=en_US&qid=1789045798&rnid=207882057011&ref=sr_nr_p_n_g-101016755135111_10&ds=v1%3A%2F1%2Fn7wqNcXj8B1OJ8Zad%2Ffh7kfgQGJkN7xgIov6kZ%2BQ",
+          "name": "Sleeping",
+          "refinement_display_name": "Purpose",
+          "value": "p_n_g-101016755135111:207882060011"
+        },
+        {
+          "heading_id": "p_n_g-101016755135111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101016755135111%3A207882070011&dc&language=en_US&qid=1789045798&rnid=207882057011&ref=sr_nr_p_n_g-101016755135111_11&ds=v1%3AjlGZqZFMOgvvNoe4Dtj62yhTgSEmHI6zEpV%2FtDV2h2E",
+          "name": "Swimming",
+          "refinement_display_name": "Purpose",
+          "value": "p_n_g-101016755135111:207882070011"
+        },
+        {
+          "heading_id": "p_n_g-101016755135111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101016755135111%3A207882065011&dc&language=en_US&qid=1789045798&rnid=207882057011&ref=sr_nr_p_n_g-101016755135111_12&ds=v1%3AzgfujG0u6Cvb95ZVuRnjBUOMY9cHw3J8C0obbHRl5GE",
+          "name": "Traveling",
+          "refinement_display_name": "Purpose",
+          "value": "p_n_g-101016755135111:207882065011"
+        },
+        {
+          "heading_id": "p_n_g-101016755135111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101016755135111%3A207882061011&dc&language=en_US&qid=1789045798&rnid=207882057011&ref=sr_nr_p_n_g-101016755135111_13&ds=v1%3ALp4ByLnO5quuwvHN2f2W4H7tbs06deSClTc89snqgss",
+          "name": "Video Conferencing",
+          "refinement_display_name": "Purpose",
+          "value": "p_n_g-101016755135111:207882061011"
+        },
+        {
+          "heading_id": "p_n_g-101016755135111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101016755135111%3A207882071011&dc&language=en_US&qid=1789045798&rnid=207882057011&ref=sr_nr_p_n_g-101016755135111_14&ds=v1%3AzQ6np9eCHMulidf%2FXExkMtsgSanH7wNzHfJZvgX15Hc",
+          "name": "Walking",
+          "refinement_display_name": "Purpose",
+          "value": "p_n_g-101016755135111:207882071011"
+        },
+        {
+          "heading_id": "p_n_g-101016755135111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101016755135111%3A207882069011&dc&language=en_US&qid=1789045798&rnid=207882057011&ref=sr_nr_p_n_g-101016755135111_15&ds=v1%3AWALto7ouZuaEY7ox5vZYrf7ndnzrvfdYagal0Nbbf9E",
+          "name": "Watching TV",
+          "refinement_display_name": "Purpose",
+          "value": "p_n_g-101016755135111:207882069011"
+        }
+      ],
+      "release_date": [
+        {
+          "heading_id": "p_n_date-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_date%3A1249088011&dc&language=en_US&qid=1789045798&rnid=1249087011&ref=sr_nr_p_n_date_1&ds=v1%3AS4DiZU3AJb4YOk1TVuzgno%2B5b9GHmBTUvJS9%2B6nxXk4",
+          "name": "Last 30 days",
+          "refinement_display_name": "Release Date",
+          "value": "p_n_date:1249088011"
+        },
+        {
+          "heading_id": "p_n_date-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_date%3A1249089011&dc&language=en_US&qid=1789045798&rnid=1249087011&ref=sr_nr_p_n_date_2&ds=v1%3ALSLju9TGemzgiVhoD%2BXLPKXTNCIPuzIiFq3AVOIxlnQ",
+          "name": "Last 90 days",
+          "refinement_display_name": "Release Date",
+          "value": "p_n_date:1249089011"
+        }
+      ],
+      "seller": [
+        {
+          "heading_id": "p_6-title",
+          "link": "/s?k=wireless+earbuds&rh=p_6%3AA12HMNHPYHRY4W&dc&language=en_US&qid=1789045798&rnid=303116011&ref=sr_nr_p_6_1&ds=v1%3AYb6MD6yiv4om8MYtUs08YO6k7QMeXkhXCmrxg5L1CxA",
+          "name": "Essential Contraptions",
+          "refinement_display_name": "Seller",
+          "value": "p_6:A12HMNHPYHRY4W"
+        },
+        {
+          "heading_id": "p_6-title",
+          "link": "/s?k=wireless+earbuds&rh=p_6%3AAM3VNSLLNRBUN&dc&language=en_US&qid=1789045798&rnid=303116011&ref=sr_nr_p_6_2&ds=v1%3ASD4ZKKzmSKyDG5RtNb7v7qkXgxDBwasd%2B31oQWmIuEE",
+          "name": "Zamzam Tech",
+          "refinement_display_name": "Seller",
+          "value": "p_6:AM3VNSLLNRBUN"
+        },
+        {
+          "heading_id": "p_6-title",
+          "link": "/s?k=wireless+earbuds&rh=p_6%3AA14R4JBS74PD19&dc&language=en_US&qid=1789045798&rnid=303116011&ref=sr_nr_p_6_3&ds=v1%3Am%2Bb9FINXvwECGKG2MjusMVpjHFwRze0rplE%2FL%2ByBsVU",
+          "name": "Veri Suni",
+          "refinement_display_name": "Seller",
+          "value": "p_6:A14R4JBS74PD19"
+        },
+        {
+          "heading_id": "p_6-title",
+          "link": "/s?k=wireless+earbuds&rh=p_6%3AA1EF7H825COT4G&dc&language=en_US&qid=1789045798&rnid=303116011&ref=sr_nr_p_6_4&ds=v1%3Ae%2B8%2BWjqnAxeIz2KoSm3YTgJLoh%2B4waYsocvo%2BroELTo",
+          "name": "LIZZ EXPRESS",
+          "refinement_display_name": "Seller",
+          "value": "p_6:A1EF7H825COT4G"
+        },
+        {
+          "heading_id": "p_6-title",
+          "link": "/s?k=wireless+earbuds&rh=p_6%3AA2PFUORDLRHWSW&dc&language=en_US&qid=1789045798&rnid=303116011&ref=sr_nr_p_6_5&ds=v1%3AR0b8p8N2iArshqRvY8OWxxP%2FeDAuDWj3aPtf%2Fxh8Bkg",
+          "name": "AZ-Tek LLC",
+          "refinement_display_name": "Seller",
+          "value": "p_6:A2PFUORDLRHWSW"
+        },
+        {
+          "heading_id": "p_6-title",
+          "link": "/s?k=wireless+earbuds&rh=p_6%3AA2KTTMEL88SHCL&dc&language=en_US&qid=1789045798&rnid=303116011&ref=sr_nr_p_6_6&ds=v1%3AlCBPJJZSeWDEe6qy%2F5yaTH3Nyjpzj6ER6Mk4A8xCeQI",
+          "name": "SGNICS",
+          "refinement_display_name": "Seller",
+          "value": "p_6:A2KTTMEL88SHCL"
+        },
+        {
+          "heading_id": "p_6-title",
+          "link": "/s?k=wireless+earbuds&rh=p_6%3AATVPDKIKX0DER&dc&language=en_US&qid=1789045798&rnid=303116011&ref=sr_nr_p_6_7&ds=v1%3AG1W%2BhjM3sjZcvqtUvc0HX%2Byhjf6aLi0LIREGhjOeCxk",
+          "name": "Amazon.com",
+          "refinement_display_name": "Seller",
+          "value": "p_6:ATVPDKIKX0DER"
+        }
+      ],
+      "smart_home_compatibility": [
+        {
+          "heading_id": "p_n_g-101017505917111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101017505917111%3A216905797011&dc&language=en_US&qid=1789045798&rnid=216905792011&ref=sr_nr_p_n_g-101017505917111_1&ds=v1%3AVX99HB8HXCTcBSzyhwnwzKtQbKLjmDfIJJY7CgxMC64",
+          "name": "Not Smart Home Compatible",
+          "refinement_display_name": "Smart Home Compatibility",
+          "value": "p_n_g-101017505917111:216905797011"
+        },
+        {
+          "heading_id": "p_n_g-101017505917111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101017505917111%3A216905798011&dc&language=en_US&qid=1789045798&rnid=216905792011&ref=sr_nr_p_n_g-101017505917111_2&ds=v1%3A53e%2FNtqDsWm1o1TPkE6oT1UmHwtQtEzbXboNXBo%2BSyE",
+          "name": "Smart Home Compatible",
+          "refinement_display_name": "Smart Home Compatibility",
+          "value": "p_n_g-101017505917111:216905798011"
+        }
+      ],
+      "subscribe_save": [
+        {
+          "heading_id": "p_n_is_sns_available-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_is_sns_available%3A2617006011&dc&language=en_US&qid=1789045798&rnid=2617005011&ref=sr_nr_p_n_is_sns_available_1&ds=v1%3ApRx%2B2vLRBuASE4Ky3PRCp15Sko5oecXIfewav3u85qw",
+          "name": "Subscribe & Save Eligible",
+          "refinement_display_name": "Subscribe & Save",
+          "value": "p_n_is_sns_available:2617006011"
+        }
+      ],
+      "sustainability_features": [
+        {
+          "heading_id": "p_n_cpf_labels-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_cpf_labels%3A121136630011&dc&language=en_US&qid=1789045798&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_1&ds=v1%3ABYNMPrA%2FmUB6sr2DmerBLqYE9h9A%2FVUF2GZH6K8%2BRYI",
+          "name": "Any Feature",
+          "refinement_display_name": "Sustainability Features",
+          "value": "p_n_cpf_labels:121136630011"
+        },
+        {
+          "heading_id": "p_n_cpf_labels-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_cpf_labels%3A116845688011&dc&language=en_US&qid=1789045798&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_2&ds=v1%3A50HzdP7m1Gv3kBsA68VZkvHvRnU4wJDqBKyfJqv8N4g",
+          "name": "Carbon Impact",
+          "refinement_display_name": "Sustainability Features",
+          "value": "p_n_cpf_labels:116845688011"
+        },
+        {
+          "heading_id": "p_n_cpf_labels-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_cpf_labels%3A116845685011&dc&language=en_US&qid=1789045798&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_3&ds=v1%3AsyxQ72aoGBnnpN3df3gbxqI%2Freex%2FmIgz1eppLvsU7s",
+          "name": "Energy Efficiency",
+          "refinement_display_name": "Sustainability Features",
+          "value": "p_n_cpf_labels:116845685011"
+        },
+        {
+          "heading_id": "p_n_cpf_labels-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_cpf_labels%3A116845690011&dc&language=en_US&qid=1789045798&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_4&ds=v1%3AiIP7kXtsMcPWi7KSMH65Dzfm9vm9U1fp5cX%2FIHq%2FqBA",
+          "name": "Manufacturing Practices",
+          "refinement_display_name": "Sustainability Features",
+          "value": "p_n_cpf_labels:116845690011"
+        },
+        {
+          "heading_id": "p_n_cpf_labels-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_cpf_labels%3A116845689011&dc&language=en_US&qid=1789045798&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_5&ds=v1%3Ak7Sw7MgaLshyDs2nhx06qK1MnSg%2B2UV%2BW3cpdPKbjaA",
+          "name": "Recycled Materials",
+          "refinement_display_name": "Sustainability Features",
+          "value": "p_n_cpf_labels:116845689011"
+        },
+        {
+          "heading_id": "p_n_cpf_labels-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_cpf_labels%3A116845683011&dc&language=en_US&qid=1789045798&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_6&ds=v1%3AAa%2FRFr%2Fz%2F9KyKZCVFV%2BAaHkPRPJ3rd60w8d7IFZbpgg",
+          "name": "Safer Chemicals",
+          "refinement_display_name": "Sustainability Features",
+          "value": "p_n_cpf_labels:116845683011"
+        },
+        {
+          "heading_id": "p_n_cpf_labels-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_cpf_labels%3A116845686011&dc&language=en_US&qid=1789045798&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_7&ds=v1%3AcOMyLBhIJhh3NIC2honywFjxD2p6kR7%2FBMoILc0jPlY",
+          "name": "Worker Wellbeing",
+          "refinement_display_name": "Sustainability Features",
+          "value": "p_n_cpf_labels:116845686011"
+        }
+      ],
+      "top_brands": [
+        {
+          "heading_id": "p_n_g-101014971069111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101014971069111%3A119653281011&dc&language=en_US&qid=1789045798&rnid=119653280011&ref=sr_nr_p_n_g-101014971069111_1&ds=v1%3AQ7KHks3OQONofi9SXLqumJc24MwOdLYYNDtGeunIyJY",
+          "name": "Top Brands",
+          "refinement_display_name": "Top Brands",
+          "value": "p_n_g-101014971069111:119653281011"
+        }
+      ],
+      "water_resistance_level": [
+        {
+          "heading_id": "p_n_g-101016670375111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101016670375111%3A207192565011&dc&language=en_US&qid=1789045798&rnid=207192560011&ref=sr_nr_p_n_g-101016670375111_1&ds=v1%3Aql5ZnzY1qadzvswX37K5AOR7in4%2BYvhbv74X1HqSTRQ",
+          "name": "Moisture Resistant",
+          "refinement_display_name": "Water Resistance Level",
+          "value": "p_n_g-101016670375111:207192565011"
+        },
+        {
+          "heading_id": "p_n_g-101016670375111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101016670375111%3A207192564011&dc&language=en_US&qid=1789045798&rnid=207192560011&ref=sr_nr_p_n_g-101016670375111_2&ds=v1%3AHyD6J5RbF0OiuRzmW9tiiMws%2FaJeNDKAtaXKPQo5qkw",
+          "name": "Not Water Resistant",
+          "refinement_display_name": "Water Resistance Level",
+          "value": "p_n_g-101016670375111:207192564011"
+        },
+        {
+          "heading_id": "p_n_g-101016670375111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101016670375111%3A207192561011&dc&language=en_US&qid=1789045798&rnid=207192560011&ref=sr_nr_p_n_g-101016670375111_3&ds=v1%3ARFIAfLkARuMLdYhMXJN%2Btb30nl1I8YS88Sfpahzck5A",
+          "name": "Water Repellent",
+          "refinement_display_name": "Water Resistance Level",
+          "value": "p_n_g-101016670375111:207192561011"
+        },
+        {
+          "heading_id": "p_n_g-101016670375111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101016670375111%3A207192562011&dc&language=en_US&qid=1789045798&rnid=207192560011&ref=sr_nr_p_n_g-101016670375111_4&ds=v1%3AnqoKjldevwGl6GnCBB0Ngg7WAzNA1cBfT0VkE%2BL2iKI",
+          "name": "Water Resistant",
+          "refinement_display_name": "Water Resistance Level",
+          "value": "p_n_g-101016670375111:207192562011"
+        },
+        {
+          "heading_id": "p_n_g-101016670375111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101016670375111%3A207192563011&dc&language=en_US&qid=1789045798&rnid=207192560011&ref=sr_nr_p_n_g-101016670375111_5&ds=v1%3ApodbK3FBpTptssMugyQUN0Ryhsn7gbBHaFGeecF2KR8",
+          "name": "Waterproof",
+          "refinement_display_name": "Water Resistance Level",
+          "value": "p_n_g-101016670375111:207192563011"
+        }
+      ],
+      "weight": [
+        {
+          "heading_id": "p_n_g-101015497033111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015497033111%3A122268323011&dc&language=en_US&qid=1789045798&rnid=122268188011&ref=sr_nr_p_n_g-101015497033111_1&ds=v1%3AnyHC8QVnYG4QnNo4GbYjYonnRC%2FQdn%2FGAwXm211et5w",
+          "name": "Up to 1 lb",
+          "refinement_display_name": "Weight",
+          "value": "p_n_g-101015497033111:122268323011"
+        },
+        {
+          "heading_id": "p_n_g-101015497033111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015497033111%3A122268322011&dc&language=en_US&qid=1789045798&rnid=122268188011&ref=sr_nr_p_n_g-101015497033111_2&ds=v1%3Aee3UfDf5jqcbhDq8SfJf6FRuYMtt599cj1wuS38uhkM",
+          "name": "1 to 1.9 lb",
+          "refinement_display_name": "Weight",
+          "value": "p_n_g-101015497033111:122268322011"
+        },
+        {
+          "heading_id": "p_n_g-101015497033111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015497033111%3A122268324011&dc&language=en_US&qid=1789045798&rnid=122268188011&ref=sr_nr_p_n_g-101015497033111_3&ds=v1%3ABgbxKYUiWDFvjIup5JvMTAfKrmAtKA3hD1%2BC23TkYuU",
+          "name": "2 to 2.9 lb",
+          "refinement_display_name": "Weight",
+          "value": "p_n_g-101015497033111:122268324011"
+        },
+        {
+          "heading_id": "p_n_g-101015497033111-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_g-101015497033111%3A122268325011&dc&language=en_US&qid=1789045798&rnid=122268188011&ref=sr_nr_p_n_g-101015497033111_4&ds=v1%3ABsn2TgZ1veBZD3DqcPcxsbG%2F9cWmCMWy%2FiKVj3d%2F3MI",
+          "name": "3 lb & above",
+          "refinement_display_name": "Weight",
+          "value": "p_n_g-101015497033111:122268325011"
+        }
+      ],
+      "wireless_technology": [
+        {
+          "heading_id": "p_n_feature_two_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_two_browse-bin%3A212335655011&dc&language=en_US&qid=1789045798&rnid=212335649011&ref=sr_nr_p_n_feature_two_browse-bin_1&ds=v1%3AhwPL0gEcJ7CPQrzaJdGFqIALCknzteTZyqEcE8rAXM0",
+          "name": "Bluetooth",
+          "refinement_display_name": "Wireless Technology",
+          "value": "p_n_feature_two_browse-bin:212335655011"
+        },
+        {
+          "heading_id": "p_n_feature_two_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_two_browse-bin%3A212335650011&dc&language=en_US&qid=1789045798&rnid=212335649011&ref=sr_nr_p_n_feature_two_browse-bin_2&ds=v1%3AtEm7meGNmALPoxc4CX5rLn9OKWQeTo8aaimKsJZxBKE",
+          "name": "Infrared",
+          "refinement_display_name": "Wireless Technology",
+          "value": "p_n_feature_two_browse-bin:212335650011"
+        },
+        {
+          "heading_id": "p_n_feature_two_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_two_browse-bin%3A212335651011&dc&language=en_US&qid=1789045798&rnid=212335649011&ref=sr_nr_p_n_feature_two_browse-bin_3&ds=v1%3AV2MbXu9xZ61WoRsZKkTFfjcKiCYFkQbAUM3%2FKnb01sk",
+          "name": "Kleer",
+          "refinement_display_name": "Wireless Technology",
+          "value": "p_n_feature_two_browse-bin:212335651011"
+        },
+        {
+          "heading_id": "p_n_feature_two_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_two_browse-bin%3A212335652011&dc&language=en_US&qid=1789045798&rnid=212335649011&ref=sr_nr_p_n_feature_two_browse-bin_4&ds=v1%3A%2F4cUoM64eSN6EXOWQeEnr67DgO7rR2O0zJ9bds2%2Bjfo",
+          "name": "NFC",
+          "refinement_display_name": "Wireless Technology",
+          "value": "p_n_feature_two_browse-bin:212335652011"
+        },
+        {
+          "heading_id": "p_n_feature_two_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_two_browse-bin%3A212335653011&dc&language=en_US&qid=1789045798&rnid=212335649011&ref=sr_nr_p_n_feature_two_browse-bin_5&ds=v1%3AT3sG9EWKiCYLqiQUuOi74L1VoChWCfgdM25zuQL1KEI",
+          "name": "RF",
+          "refinement_display_name": "Wireless Technology",
+          "value": "p_n_feature_two_browse-bin:212335653011"
+        },
+        {
+          "heading_id": "p_n_feature_two_browse-bin-title",
+          "link": "/s?k=wireless+earbuds&rh=p_n_feature_two_browse-bin%3A212335654011&dc&language=en_US&qid=1789045798&rnid=212335649011&ref=sr_nr_p_n_feature_two_browse-bin_6&ds=v1%3A9VqMsdvQidu5bRI64Y7bRfqLN8IbbMDI5n0xsWG7lOA",
+          "name": "Wi-Fi",
+          "refinement_display_name": "Wireless Technology",
+          "value": "p_n_feature_two_browse-bin:212335654011"
+        }
+      ]
+    },
+    "related_searches": [
+      {
+        "link": "/s?k=wireless+headphones&ref=rsl_sug_0_0&pd_rd_w=lD4TP&content-id=amzn1.sym.3be64970-3b95-4a6d-a45d-78077a3ff871:amzn1.sym.3be64970-3b95-4a6d-a45d-78077a3ff871&pf_rd_p=3be64970-3b95-4a6d-a45d-78077a3ff871&pf_rd_r=1BZND7SB7SHAHXZR970R&pd_rd_wg=EdxZZ&pd_rd_r=f55fc377-b421-4798-bc5c-2d70c40002f3&qid=1789045798",
+        "query": "wireless headphones"
+      },
+      {
+        "link": "/s?k=wired+earbuds&ref=rsl_sug_0_3&pd_rd_w=lD4TP&content-id=amzn1.sym.3be64970-3b95-4a6d-a45d-78077a3ff871:amzn1.sym.3be64970-3b95-4a6d-a45d-78077a3ff871&pf_rd_p=3be64970-3b95-4a6d-a45d-78077a3ff871&pf_rd_r=1BZND7SB7SHAHXZR970R&pd_rd_wg=EdxZZ&pd_rd_r=f55fc377-b421-4798-bc5c-2d70c40002f3&qid=1789045798",
+        "query": "wired earbuds"
+      },
+      {
+        "link": "/s?k=airpods&ref=rsl_sug_0_1&pd_rd_w=lD4TP&content-id=amzn1.sym.3be64970-3b95-4a6d-a45d-78077a3ff871:amzn1.sym.3be64970-3b95-4a6d-a45d-78077a3ff871&pf_rd_p=3be64970-3b95-4a6d-a45d-78077a3ff871&pf_rd_r=1BZND7SB7SHAHXZR970R&pd_rd_wg=EdxZZ&pd_rd_r=f55fc377-b421-4798-bc5c-2d70c40002f3&qid=1789045798",
+        "query": "airpods"
+      },
+      {
+        "link": "/s?k=wireless+earbuds+jbl&ref=rsl_sug_0_4&pd_rd_w=lD4TP&content-id=amzn1.sym.3be64970-3b95-4a6d-a45d-78077a3ff871:amzn1.sym.3be64970-3b95-4a6d-a45d-78077a3ff871&pf_rd_p=3be64970-3b95-4a6d-a45d-78077a3ff871&pf_rd_r=1BZND7SB7SHAHXZR970R&pd_rd_wg=EdxZZ&pd_rd_r=f55fc377-b421-4798-bc5c-2d70c40002f3&qid=1789045798",
+        "query": "wireless earbuds jbl"
+      },
+      {
+        "link": "/s?k=wireless+earbuds+for+iphone&ref=rsl_sug_0_2&pd_rd_w=lD4TP&content-id=amzn1.sym.3be64970-3b95-4a6d-a45d-78077a3ff871:amzn1.sym.3be64970-3b95-4a6d-a45d-78077a3ff871&pf_rd_p=3be64970-3b95-4a6d-a45d-78077a3ff871&pf_rd_r=1BZND7SB7SHAHXZR970R&pd_rd_wg=EdxZZ&pd_rd_r=f55fc377-b421-4798-bc5c-2d70c40002f3&qid=1789045798",
+        "query": "wireless earbuds for iphone"
+      },
+      {
+        "link": "/s?k=wireless+earbuds+skullcandy&ref=rsl_sug_0_5&pd_rd_w=lD4TP&content-id=amzn1.sym.3be64970-3b95-4a6d-a45d-78077a3ff871:amzn1.sym.3be64970-3b95-4a6d-a45d-78077a3ff871&pf_rd_p=3be64970-3b95-4a6d-a45d-78077a3ff871&pf_rd_r=1BZND7SB7SHAHXZR970R&pd_rd_wg=EdxZZ&pd_rd_r=f55fc377-b421-4798-bc5c-2d70c40002f3&qid=1789045798",
+        "query": "wireless earbuds skullcandy"
+      }
+    ],
+    "pagination": [
+      {
+        "current_page": 1,
+        "current_page_link": "k=wireless+earbuds&language=en_US&qid=1789045798&xpid=3-oNd5Tyic29a",
+        "last_visible_page": 20,
+        "next_page_link": "/s?k=wireless+earbuds&page=2&language=en_US&xpid=3-oNd5Tyic29a&qid=1789045798&ref=sr_pg_1",
+        "result_count": 16,
+        "not_match": [
+          "amazon_no_results_text"
+        ]
+      }
+    ],
+    "result_information": [
+      {
+        "begin": 1,
+        "end": 16,
+        "raw": "1-16 of over 20,000 results for 'wireless earbuds'",
+        "search_term": "wireless earbuds",
+        "total_product_count": 20000
+      }
+    ],
+    "delivered_to": "Wilmington 19805‌"
+  }
+}
